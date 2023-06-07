@@ -1,0 +1,24 @@
+[23-Apr-2023 07:59:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/ParticipantTokens.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/ParticipantTokens.php on line 20
+[24-Apr-2023 08:13:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Tokens.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Tokens.php on line 28
+[24-Apr-2023 08:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\ActionSchedule\Mapping' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/ActionMapping.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/ActionMapping.php on line 22
+[24-Apr-2023 12:00:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Info.php on line 20
+[24-Apr-2023 15:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Task.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Task.php on line 22
+[25-Apr-2023 04:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_PseudoConstant' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/PseudoConstant.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/PseudoConstant.php on line 22

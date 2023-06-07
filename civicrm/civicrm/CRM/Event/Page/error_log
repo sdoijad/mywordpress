@@ -1,0 +1,28 @@
+[27-Apr-2023 17:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/DashBoard.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/DashBoard.php on line 15
+[28-Apr-2023 01:39:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing.php on line 17
+[28-Apr-2023 03:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/Tab.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/Tab.php on line 17
+[28-Apr-2023 16:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/EventInfo.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/EventInfo.php on line 21
+[28-Apr-2023 19:02:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_UserDashBoard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/UserDashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/UserDashboard.php on line 21
+[29-Apr-2023 12:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ManageEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ManageEvent.php on line 21
+[29-Apr-2023 12:46:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/List.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/List.php on line 15

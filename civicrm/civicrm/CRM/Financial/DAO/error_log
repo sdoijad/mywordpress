@@ -1,0 +1,36 @@
+[27-Apr-2023 03:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialItem.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialItem.php on line 15
+[27-Apr-2023 10:11:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentToken.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentToken.php on line 15
+[27-Apr-2023 15:08:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialType.php on line 15
+[27-Apr-2023 20:04:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/EntityFinancialAccount.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/EntityFinancialAccount.php on line 15
+[27-Apr-2023 21:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentProcessor.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentProcessor.php on line 15
+[28-Apr-2023 01:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/EntityFinancialTrxn.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/EntityFinancialTrxn.php on line 15
+[28-Apr-2023 09:37:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentProcessorType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/PaymentProcessorType.php on line 15
+[29-Apr-2023 01:26:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialTrxn.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialTrxn.php on line 15
+[29-Apr-2023 03:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialAccount.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/DAO/FinancialAccount.php on line 15

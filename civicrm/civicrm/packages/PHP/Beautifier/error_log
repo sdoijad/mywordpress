@@ -1,0 +1,13 @@
+[27-Apr-2023 10:21:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHP_Beautifier_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Decorator.php:33
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch.php(26): require_once()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Decorator.php on line 33
+[28-Apr-2023 01:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHP_Beautifier_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Decorator.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Decorator.php on line 33
+[28-Apr-2023 04:19:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PEAR_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Exception.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Exception.php on line 33

@@ -1,0 +1,8 @@
+[24-Apr-2023 01:17:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Controller' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Group/Controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Group/Controller.php on line 17
+[25-Apr-2023 00:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Group/StateMachine.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Group/StateMachine.php on line 17

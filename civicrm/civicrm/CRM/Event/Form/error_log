@@ -1,0 +1,36 @@
+[27-Apr-2023 07:35:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SelfSvcTransfer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SelfSvcTransfer.php on line 23
+[27-Apr-2023 13:11:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SearchEvent.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SearchEvent.php on line 17
+[27-Apr-2023 19:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Search' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Search.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Search.php on line 21
+[27-Apr-2023 19:39:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SelfSvcUpdate.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/SelfSvcUpdate.php on line 22
+[27-Apr-2023 22:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration.php on line 20
+[28-Apr-2023 02:43:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task.php on line 24
+[28-Apr-2023 19:56:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/ParticipantFeeSelection.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/ParticipantFeeSelection.php on line 23
+[28-Apr-2023 20:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/ParticipantView.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/ParticipantView.php on line 22
+[29-Apr-2023 05:52:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_AbstractEditPayment' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Participant.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Participant.php on line 22

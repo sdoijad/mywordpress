@@ -1,0 +1,4 @@
+[28-Apr-2023 08:14:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Exception/UnknownAssetException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Exception/UnknownAssetException.php on line 4

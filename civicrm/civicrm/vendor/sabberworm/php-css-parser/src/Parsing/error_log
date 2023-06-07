@@ -1,0 +1,12 @@
+[06-May-2023 08:43:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Parsing\SourceException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/UnexpectedTokenException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/UnexpectedTokenException.php on line 8
+[06-May-2023 13:40:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Parsing\UnexpectedTokenException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/UnexpectedEOFException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/UnexpectedEOFException.php on line 10
+[07-May-2023 13:58:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Parsing\SourceException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/OutputException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Parsing/OutputException.php on line 8

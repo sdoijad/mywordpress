@@ -1,0 +1,8 @@
+[23-Apr-2023 15:07:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Info.php on line 20
+[23-Apr-2023 16:00:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Task.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Task.php on line 21

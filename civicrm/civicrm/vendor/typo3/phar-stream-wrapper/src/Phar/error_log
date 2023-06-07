@@ -1,0 +1,8 @@
+[07-May-2023 06:42:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'TYPO3\PharStreamWrapper\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Phar/DeserializationException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Phar/DeserializationException.php on line 17
+[07-May-2023 21:26:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'TYPO3\PharStreamWrapper\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Phar/ReaderException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Phar/ReaderException.php on line 17

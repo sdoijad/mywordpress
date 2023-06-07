@@ -1,0 +1,32 @@
+[27-Apr-2023 02:15:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/Payment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/Payment.php on line 17
+[27-Apr-2023 08:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/PaymentEdit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/PaymentEdit.php on line 17
+[27-Apr-2023 19:53:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Search' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/BatchTransaction.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/BatchTransaction.php on line 21
+[27-Apr-2023 19:54:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/Search.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/Search.php on line 21
+[28-Apr-2023 19:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialAccount.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialAccount.php on line 21
+[28-Apr-2023 21:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialType.php on line 21
+[28-Apr-2023 22:15:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialTypeAccount.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialTypeAccount.php on line 21
+[29-Apr-2023 09:08:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialBatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Financial/Form/FinancialBatch.php on line 21

@@ -1,0 +1,4 @@
+[27-Apr-2023 12:27:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Controller' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Controller/Search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Controller/Search.php on line 29

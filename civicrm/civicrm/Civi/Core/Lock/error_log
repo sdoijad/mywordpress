@@ -1,0 +1,4 @@
+[27-Apr-2023 20:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Core\Lock\LockInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Lock/NullLock.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Lock/NullLock.php on line 18

@@ -1,0 +1,8 @@
+[28-Apr-2023 00:08:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Exception/NotImplementedException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Exception/NotImplementedException.php on line 8
+[28-Apr-2023 21:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Exception/UnauthorizedException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Exception/UnauthorizedException.php on line 8

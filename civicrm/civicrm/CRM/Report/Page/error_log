@@ -1,0 +1,16 @@
+[28-Apr-2023 03:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/InstanceList.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/InstanceList.php on line 21
+[28-Apr-2023 04:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/Options.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/Options.php on line 21
+[28-Apr-2023 19:49:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/TemplateList.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/TemplateList.php on line 21
+[29-Apr-2023 09:45:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/Instance.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Page/Instance.php on line 21

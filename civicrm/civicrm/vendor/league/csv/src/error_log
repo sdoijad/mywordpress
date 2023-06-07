@@ -1,0 +1,28 @@
+[02-May-2023 16:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Csv\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/InvalidArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/InvalidArgument.php on line 19
+[03-May-2023 01:23:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Csv\AbstractCsv' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/Reader.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/Reader.php on line 41
+[03-May-2023 03:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Csv\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/CannotInsertRecord.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/CannotInsertRecord.php on line 19
+[03-May-2023 07:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\ByteSequence' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/AbstractCsv.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/AbstractCsv.php on line 34
+[03-May-2023 17:57:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Csv\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/UnavailableFeature.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/UnavailableFeature.php on line 19
+[03-May-2023 21:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\TabularDataReader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/ResultSet.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/ResultSet.php on line 30
+[03-May-2023 21:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Csv\Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/SyntaxError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/csv/src/SyntaxError.php on line 19

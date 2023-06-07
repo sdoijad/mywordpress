@@ -1,0 +1,20 @@
+[01-May-2023 15:37:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Registration' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/ParticipantConfirm.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/ParticipantConfirm.php on line 23
+[02-May-2023 15:35:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Registration' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/ThankYou.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/ThankYou.php on line 23
+[02-May-2023 23:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Registration' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/AdditionalParticipant.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/AdditionalParticipant.php on line 22
+[03-May-2023 16:23:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Registration' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/Confirm.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/Confirm.php on line 20
+[03-May-2023 19:24:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Registration' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/Register.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Registration/Register.php on line 20

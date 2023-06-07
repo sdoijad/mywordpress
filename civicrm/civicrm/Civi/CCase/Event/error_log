@@ -1,0 +1,4 @@
+[28-Apr-2023 17:34:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/CCase/Event/CaseChangeEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/CCase/Event/CaseChangeEvent.php on line 20

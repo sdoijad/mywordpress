@@ -1,0 +1,28 @@
+[01-May-2023 14:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOSaveAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Save.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Save.php on line 18
+[01-May-2023 17:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAODeleteAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Delete.php on line 19
+[02-May-2023 08:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOCreateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Create.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/Create.php on line 18
+[02-May-2023 11:46:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOCreateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/GetDuplicates.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/GetDuplicates.php on line 25
+[02-May-2023 16:31:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/GetChecksum.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/GetChecksum.php on line 25
+[03-May-2023 05:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/ValidateChecksum.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/ValidateChecksum.php on line 25
+[03-May-2023 16:14:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/MergeDuplicates.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Contact/MergeDuplicates.php on line 28

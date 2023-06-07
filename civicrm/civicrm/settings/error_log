@@ -1,0 +1,64 @@
+[18-Apr-2023 18:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Event.setting.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Event.setting.php on line 31
+[19-Apr-2023 04:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Directory.setting.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Directory.setting.php on line 32
+[19-Apr-2023 12:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Map.setting.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Map.setting.php on line 35
+[19-Apr-2023 13:35:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Contribute.setting.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Contribute.setting.php on line 29
+[19-Apr-2023 23:54:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Address.setting.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Address.setting.php on line 30
+[20-Apr-2023 01:58:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Core.setting.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Core.setting.php on line 33
+[20-Apr-2023 03:19:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Case.setting.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Case.setting.php on line 34
+[20-Apr-2023 03:23:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Campaign.setting.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Campaign.setting.php on line 31
+[20-Apr-2023 04:48:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Url.setting.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Url.setting.php on line 26
+[20-Apr-2023 05:51:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Extension.setting.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Extension.setting.php on line 34
+[20-Apr-2023 08:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Member.setting.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Member.setting.php on line 34
+[20-Apr-2023 09:30:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Search.setting.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Search.setting.php on line 30
+[20-Apr-2023 12:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Multisite.setting.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Multisite.setting.php on line 27
+[20-Apr-2023 14:56:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Mailing.setting.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Mailing.setting.php on line 30
+[20-Apr-2023 18:18:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Developer.setting.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Developer.setting.php on line 34
+[20-Apr-2023 19:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/settings/Localization.setting.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/settings/Localization.setting.php on line 38

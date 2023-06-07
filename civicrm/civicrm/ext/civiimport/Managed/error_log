@@ -1,0 +1,4 @@
+[28-Apr-2023 21:46:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Entity' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Managed/ImportSearches.mgd.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Managed/ImportSearches.mgd.php on line 9

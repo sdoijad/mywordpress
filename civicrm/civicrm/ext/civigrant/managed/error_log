@@ -1,0 +1,32 @@
+[27-Apr-2023 01:17:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\OptionGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_recent_items_providers_OptionValue_Grant.mgd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_recent_items_providers_OptionValue_Grant.mgd.php on line 5
+[27-Apr-2023 09:04:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_grant_status.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_grant_status.mgd.php on line 14
+[27-Apr-2023 14:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_advanced_search_options_OptionValue_CiviGrant.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_advanced_search_options_OptionValue_CiviGrant.mgd.php on line 14
+[27-Apr-2023 18:59:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionValue_cg_extends_objects_grant.mgd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionValue_cg_extends_objects_grant.mgd.php on line 15
+[28-Apr-2023 22:00:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/Navigation_Grants.mgd.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/Navigation_Grants.mgd.php on line 13
+[28-Apr-2023 23:10:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/SavedSearch_CiviGrant_Summary.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/SavedSearch_CiviGrant_Summary.mgd.php on line 14
+[29-Apr-2023 08:55:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_mapping_type_OptionValue_Export.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_mapping_type_OptionValue_Export.mgd.php on line 14
+[29-Apr-2023 11:02:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Grant_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_report_template_OptionValue_CRM_Report_Form_Grants.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/managed/OptionGroup_report_template_OptionValue_CRM_Report_Form_Grants.mgd.php on line 14

@@ -1,0 +1,24 @@
+[27-Apr-2023 22:47:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeException' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/Exception.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/Exception.php on line 15
+[28-Apr-2023 05:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeRuleGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/RuleGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/RuleGroup.php on line 12
+[28-Apr-2023 06:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeException.php on line 15
+[28-Apr-2023 07:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeRule.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeRule.php on line 15
+[28-Apr-2023 18:30:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeRuleGroup.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/DedupeRuleGroup.php on line 15
+[29-Apr-2023 08:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeRule' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/Rule.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/DAO/Rule.php on line 12

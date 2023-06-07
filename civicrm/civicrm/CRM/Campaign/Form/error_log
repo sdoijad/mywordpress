@@ -1,0 +1,28 @@
+[27-Apr-2023 18:14:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Gotv.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Gotv.php on line 21
+[29-Apr-2023 00:10:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Petition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Petition.php on line 21
+[29-Apr-2023 04:07:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Campaign.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Campaign.php on line 21
+[29-Apr-2023 07:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Task.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Task.php on line 21
+[29-Apr-2023 07:56:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/SurveyType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/SurveyType.php on line 21
+[29-Apr-2023 12:55:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Search' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Search.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Search.php on line 21
+[30-Apr-2023 07:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Survey.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Form/Survey.php on line 21

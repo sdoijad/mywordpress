@@ -1,0 +1,6 @@
+[28-Apr-2023 12:18:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Queue/Page/Monitor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Queue/Page/Monitor.php on line 23
+[29-Apr-2023 06:50:38 America/New_York] PHP Warning:  require_once(CRM/Core/Page.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Queue/Page/Runner.php on line 13
+[29-Apr-2023 06:50:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'CRM/Core/Page.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Queue/Page/Runner.php on line 13

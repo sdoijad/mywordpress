@@ -1,0 +1,8 @@
+[02-May-2023 01:00:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Export_Form_Select' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Export/Form/Select.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Export/Form/Select.php on line 21
+[02-May-2023 10:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Export_Form_Map' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Export/Form/Map.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Export/Form/Map.php on line 21

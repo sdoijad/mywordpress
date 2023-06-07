@@ -1,0 +1,4 @@
+[28-Apr-2023 05:18:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Payment/Exception/PaymentProcessorException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Payment/Exception/PaymentProcessorException.php on line 7

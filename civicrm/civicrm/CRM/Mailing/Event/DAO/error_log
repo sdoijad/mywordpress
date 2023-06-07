@@ -1,0 +1,40 @@
+[02-May-2023 09:03:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Confirm.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Confirm.php on line 15
+[02-May-2023 10:56:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Unsubscribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Unsubscribe.php on line 15
+[02-May-2023 13:07:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Delivered.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Delivered.php on line 15
+[02-May-2023 15:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Subscribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Subscribe.php on line 15
+[02-May-2023 17:11:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Forward.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Forward.php on line 15
+[02-May-2023 18:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Opened.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Opened.php on line 15
+[03-May-2023 10:16:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Reply.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Reply.php on line 15
+[03-May-2023 16:03:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Bounce.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Bounce.php on line 15
+[03-May-2023 20:22:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Queue.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/Queue.php on line 15
+[03-May-2023 21:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/TrackableURLOpen.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/DAO/TrackableURLOpen.php on line 15

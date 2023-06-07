@@ -1,0 +1,94 @@
+[27-Apr-2023 04:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PreferencesDate.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PreferencesDate.php on line 21
+[27-Apr-2023 05:29:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ParticipantStatusType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ParticipantStatusType.php on line 17
+[27-Apr-2023 08:42:58 America/New_York] PHP Warning:  require_once(CRM/Core/Page.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ExtensionsUpgrade.php on line 3
+[27-Apr-2023 08:42:58 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'CRM/Core/Page.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ExtensionsUpgrade.php on line 3
+[27-Apr-2023 13:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Admin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Admin.php on line 21
+[28-Apr-2023 01:03:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ConfigTaskList.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ConfigTaskList.php on line 21
+[28-Apr-2023 02:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/LocationType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/LocationType.php on line 21
+[28-Apr-2023 03:08:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PdfFormats.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PdfFormats.php on line 38
+[28-Apr-2023 03:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/APIExplorer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/APIExplorer.php on line 21
+[28-Apr-2023 03:29:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/JobLog.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/JobLog.php on line 23
+[28-Apr-2023 05:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/LabelFormats.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/LabelFormats.php on line 38
+[28-Apr-2023 05:55:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PaymentProcessorType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PaymentProcessorType.php on line 21
+[28-Apr-2023 12:10:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/MessageTemplates.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/MessageTemplates.php on line 21
+[28-Apr-2023 12:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Access.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Access.php on line 21
+[28-Apr-2023 12:37:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/MailSettings.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/MailSettings.php on line 21
+[28-Apr-2023 14:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PaymentProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/PaymentProcessor.php on line 23
+[28-Apr-2023 15:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ContactType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ContactType.php on line 21
+[28-Apr-2023 22:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Options.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Options.php on line 21
+[28-Apr-2023 23:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Navigation.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Navigation.php on line 21
+[29-Apr-2023 02:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/RelationshipType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/RelationshipType.php on line 21
+[29-Apr-2023 02:30:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/EventTemplate.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/EventTemplate.php on line 21
+[29-Apr-2023 06:21:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Extensions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Extensions.php on line 22
+[29-Apr-2023 09:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Mapping.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Mapping.php on line 21
+[29-Apr-2023 11:04:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Job.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/Job.php on line 21
+[29-Apr-2023 11:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ScheduleReminders.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Page/ScheduleReminders.php on line 21

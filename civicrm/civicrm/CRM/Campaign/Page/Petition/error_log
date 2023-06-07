@@ -1,0 +1,8 @@
+[02-May-2023 01:40:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Page/Petition/ThankYou.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Page/Petition/ThankYou.php on line 17
+[03-May-2023 05:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Page/Petition/Confirm.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Page/Petition/Confirm.php on line 17

@@ -1,0 +1,7 @@
+[18-Apr-2023 17:41:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Config' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/kcfinder/core/class/uploader.php:118
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/kcfinder/core/class/browser.php(23): kcfinder\uploader->__construct()
+#1 /home/naundpsy/public_html/civicrm/civicrm/packages/kcfinder/browse.php(17): kcfinder\browser->__construct()
+#2 /home/naundpsy/public_html/civicrm/civicrm/packages/kcfinder/index.php(3): require('/home/naundpsy/...')
+#3 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/kcfinder/core/class/uploader.php on line 118

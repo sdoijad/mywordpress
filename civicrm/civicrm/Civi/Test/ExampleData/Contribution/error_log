@@ -1,0 +1,4 @@
+[02-May-2023 22:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Test\EntityExample' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contribution/Euro5990.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contribution/Euro5990.php on line 5

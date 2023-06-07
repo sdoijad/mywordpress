@@ -1,0 +1,44 @@
+[05-May-2023 20:28:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\NumericNodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/IntegerNodeDefinition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/IntegerNodeDefinition.php on line 21
+[06-May-2023 00:55:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\Builder\NodeParentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NodeBuilder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NodeBuilder.php on line 19
+[06-May-2023 12:44:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\Builder\NodeParentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NodeDefinition.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NodeDefinition.php on line 23
+[06-May-2023 14:05:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\ScalarNodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/BooleanNodeDefinition.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/BooleanNodeDefinition.php on line 22
+[06-May-2023 19:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\Builder\BuilderAwareInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ParentNodeDefinitionInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ParentNodeDefinitionInterface.php on line 21
+[07-May-2023 15:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\VariableNodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ScalarNodeDefinition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ScalarNodeDefinition.php on line 21
+[07-May-2023 18:15:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\ScalarNodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NumericNodeDefinition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/NumericNodeDefinition.php on line 21
+[07-May-2023 20:37:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\NumericNodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/FloatNodeDefinition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/FloatNodeDefinition.php on line 21
+[08-May-2023 03:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\NodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ArrayNodeDefinition.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/ArrayNodeDefinition.php on line 23
+[08-May-2023 04:30:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\Builder\NodeParentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/TreeBuilder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/TreeBuilder.php on line 22
+[08-May-2023 04:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\Builder\NodeDefinition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/VariableNodeDefinition.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/Builder/VariableNodeDefinition.php on line 21

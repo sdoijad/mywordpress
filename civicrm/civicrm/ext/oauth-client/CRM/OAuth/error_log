@@ -1,0 +1,4 @@
+[01-May-2023 15:17:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_OAuth_Upgrader_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/Upgrader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/Upgrader.php on line 7

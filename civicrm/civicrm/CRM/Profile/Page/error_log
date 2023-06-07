@@ -1,0 +1,16 @@
+[27-Apr-2023 15:33:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/Listings.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/Listings.php on line 23
+[28-Apr-2023 17:33:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/Dynamic.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/Dynamic.php on line 28
+[28-Apr-2023 23:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/MultipleRecordFieldsListing.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/MultipleRecordFieldsListing.php on line 17
+[29-Apr-2023 09:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/View.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Page/View.php on line 22

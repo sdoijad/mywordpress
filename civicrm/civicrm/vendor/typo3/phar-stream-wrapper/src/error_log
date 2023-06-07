@@ -1,0 +1,4 @@
+[03-May-2023 08:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'TYPO3\PharStreamWrapper\Assertable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Behavior.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Behavior.php on line 15

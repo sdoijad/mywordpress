@@ -1,0 +1,68 @@
+[01-May-2023 09:57:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Psr7\Request' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/ServerRequest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 25
+[01-May-2023 10:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/InflateStream.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[01-May-2023 15:49:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Stream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Stream.php on line 12
+[01-May-2023 16:55:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/DroppingStream.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[01-May-2023 18:01:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/MultipartStream.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[02-May-2023 03:28:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\UriInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Uri.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Uri.php on line 14
+[02-May-2023 03:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/LimitStream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[02-May-2023 04:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/PumpStream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/PumpStream.php on line 19
+[02-May-2023 16:42:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/LazyOpenStream.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[02-May-2023 23:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/FnStream.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/FnStream.php on line 15
+[03-May-2023 05:50:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[03-May-2023 09:38:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\RequestInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Request.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Request.php on line 13
+[03-May-2023 11:47:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[03-May-2023 12:13:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\UploadedFileInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/UploadedFile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 10
+[03-May-2023 14:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\ResponseInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Response.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/Response.php on line 11
+[03-May-2023 15:36:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/NoSeekStream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[03-May-2023 20:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\StreamInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/CachingStream.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13

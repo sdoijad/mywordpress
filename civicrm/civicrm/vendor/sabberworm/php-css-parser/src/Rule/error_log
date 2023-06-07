@@ -1,0 +1,4 @@
+[05-May-2023 17:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Rule/Rule.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Rule/Rule.php on line 19

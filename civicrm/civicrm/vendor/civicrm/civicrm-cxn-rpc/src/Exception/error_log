@@ -1,0 +1,16 @@
+[06-May-2023 12:50:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Exception\CxnException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/InvalidMessageException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/InvalidMessageException.php on line 14
+[07-May-2023 12:09:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Exception\InvalidMessageException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/GarbledMessageException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/GarbledMessageException.php on line 19
+[07-May-2023 22:34:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Exception\InvalidCertException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/ExpiredCertException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/ExpiredCertException.php on line 14
+[08-May-2023 04:27:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Exception\CxnException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/InvalidCertException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Exception/InvalidCertException.php on line 14

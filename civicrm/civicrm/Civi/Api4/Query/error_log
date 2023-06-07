@@ -1,0 +1,136 @@
+[27-Apr-2023 02:35:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionEXTRACT.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionEXTRACT.php on line 17
+[27-Apr-2023 03:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionABS.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionABS.php on line 17
+[27-Apr-2023 10:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionISNULL.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionISNULL.php on line 17
+[27-Apr-2023 13:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionROUND.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionROUND.php on line 17
+[27-Apr-2023 13:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionRAND.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionRAND.php on line 17
+[27-Apr-2023 14:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCOALESCE.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCOALESCE.php on line 17
+[27-Apr-2023 15:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionSUM.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionSUM.php on line 17
+[27-Apr-2023 19:27:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCOUNT.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCOUNT.php on line 17
+[27-Apr-2023 21:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionDATE.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionDATE.php on line 17
+[27-Apr-2023 22:09:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionGREATEST.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionGREATEST.php on line 17
+[27-Apr-2023 22:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionGROUP_CONCAT.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionGROUP_CONCAT.php on line 17
+[27-Apr-2023 22:40:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlField.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlField.php on line 17
+[28-Apr-2023 01:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCONCAT_WS.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCONCAT_WS.php on line 17
+[28-Apr-2023 03:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionIF.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionIF.php on line 17
+[28-Apr-2023 03:43:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlEquation.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlEquation.php on line 17
+[28-Apr-2023 06:06:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlString.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlString.php on line 17
+[28-Apr-2023 06:23:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCURDATE.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCURDATE.php on line 17
+[28-Apr-2023 07:02:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionLEAST.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionLEAST.php on line 17
+[28-Apr-2023 08:34:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionTIME.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionTIME.php on line 17
+[28-Apr-2023 10:03:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionNOW.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionNOW.php on line 17
+[28-Apr-2023 11:11:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunction.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunction.php on line 19
+[28-Apr-2023 12:48:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionUPPER.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionUPPER.php on line 17
+[28-Apr-2023 18:30:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionREPLACE.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionREPLACE.php on line 17
+[28-Apr-2023 18:38:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionNULLIF.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionNULLIF.php on line 17
+[28-Apr-2023 19:44:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlNull.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlNull.php on line 17
+[28-Apr-2023 21:34:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlExpression' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlWild.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlWild.php on line 17
+[29-Apr-2023 01:09:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionDATEDIFF.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionDATEDIFF.php on line 17
+[29-Apr-2023 01:28:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMIN.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMIN.php on line 17
+[29-Apr-2023 02:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMAX.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMAX.php on line 17
+[29-Apr-2023 06:40:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCONCAT.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionCONCAT.php on line 17
+[29-Apr-2023 08:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionBINARY.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionBINARY.php on line 17
+[29-Apr-2023 09:22:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionYEAR.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionYEAR.php on line 17
+[29-Apr-2023 11:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionAVG.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionAVG.php on line 17
+[29-Apr-2023 12:14:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Query\SqlFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMONTH.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Query/SqlFunctionMONTH.php on line 17

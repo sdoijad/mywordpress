@@ -1,0 +1,4 @@
+[07-May-2023 05:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task_SaveSearch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Task/SaveSearch/Update.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Task/SaveSearch/Update.php on line 21

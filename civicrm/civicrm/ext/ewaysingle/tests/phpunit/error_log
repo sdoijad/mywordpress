@@ -1,0 +1,15 @@
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  Use of undefined constant STDERR - assumed 'STDERR' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 29
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  proc_open(): Descriptor item must be either an array or a File-Handle in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 37
+[02-May-2023 19:42:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 39
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 39
+[02-May-2023 19:42:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 40
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 40
+[02-May-2023 19:42:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 41
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 41
+[02-May-2023 19:42:11 America/New_York] PHP Warning:  proc_close() expects parameter 1 to be resource, bool given in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 42
+[02-May-2023 19:42:11 America/New_York] PHP Fatal error:  Uncaught RuntimeException: Command failed (cd ''; cv php:boot --level=classloader):
+ in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php:43
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php(5): cv('cd ''; cv php:b...', 'phpcode')
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/ewaysingle/tests/phpunit/bootstrap.php on line 43

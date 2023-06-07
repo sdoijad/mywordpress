@@ -1,0 +1,4 @@
+[29-Apr-2023 05:22:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_DAO_ReportInstance' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/BAO/ReportInstance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/BAO/ReportInstance.php on line 17

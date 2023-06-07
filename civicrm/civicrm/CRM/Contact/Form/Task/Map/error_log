@@ -1,0 +1,4 @@
+[06-May-2023 14:56:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task_Map' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Task/Map/Event.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Task/Map/Event.php on line 21

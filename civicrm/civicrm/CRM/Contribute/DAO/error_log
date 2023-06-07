@@ -1,0 +1,32 @@
+[28-Apr-2023 06:23:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionPage.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionPage.php on line 15
+[28-Apr-2023 08:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionRecur.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionRecur.php on line 15
+[28-Apr-2023 09:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Widget.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Widget.php on line 15
+[28-Apr-2023 13:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionSoft.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionSoft.php on line 15
+[28-Apr-2023 22:08:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionProduct.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/ContributionProduct.php on line 15
+[29-Apr-2023 07:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Premium.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Premium.php on line 15
+[29-Apr-2023 08:02:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Product.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/Product.php on line 15
+[29-Apr-2023 10:42:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/PremiumsProduct.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/DAO/PremiumsProduct.php on line 15

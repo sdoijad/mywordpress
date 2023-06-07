@@ -1,0 +1,8 @@
+[23-Apr-2023 03:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\CxnStore\CxnStoreInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/CiviCxnStore.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/CiviCxnStore.php on line 6
+[23-Apr-2023 17:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Http\PhpHttp' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/CiviCxnHttp.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/CiviCxnHttp.php on line 10

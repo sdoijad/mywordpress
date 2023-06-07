@@ -1,0 +1,16 @@
+[23-Apr-2023 04:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Task.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Task.php on line 23
+[23-Apr-2023 07:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_PseudoConstant' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/PseudoConstant.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/PseudoConstant.php on line 21
+[24-Apr-2023 02:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Info.php on line 20
+[24-Apr-2023 17:03:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Tokens.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Tokens.php on line 18

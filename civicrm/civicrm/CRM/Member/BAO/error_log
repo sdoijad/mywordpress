@@ -1,0 +1,28 @@
+[27-Apr-2023 07:32:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_MembershipPayment' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipPayment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipPayment.php on line 17
+[27-Apr-2023 12:32:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_Membership' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/Membership.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/Membership.php on line 21
+[28-Apr-2023 00:36:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_MembershipType' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipType.php on line 17
+[28-Apr-2023 08:03:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_MembershipBlock' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipBlock.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipBlock.php on line 17
+[28-Apr-2023 14:13:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_MembershipLog' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipLog.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipLog.php on line 17
+[29-Apr-2023 01:04:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_DAO_MembershipStatus' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipStatus.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/MembershipStatus.php on line 17
+[29-Apr-2023 01:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_BAO_Query' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/Query.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/BAO/Query.php on line 17

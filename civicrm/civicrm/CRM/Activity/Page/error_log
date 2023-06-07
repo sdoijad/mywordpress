@@ -1,0 +1,8 @@
+[27-Apr-2023 11:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Page/Tab.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Page/Tab.php on line 21
+[29-Apr-2023 02:45:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_UserDashBoard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Page/UserDashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Page/UserDashboard.php on line 21

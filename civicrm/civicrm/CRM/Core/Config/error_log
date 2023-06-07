@@ -1,0 +1,4 @@
+[28-Apr-2023 07:14:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Config_MagicMerge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Config/Runtime.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Config/Runtime.php on line 19

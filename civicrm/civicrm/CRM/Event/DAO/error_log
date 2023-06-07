@@ -1,0 +1,12 @@
+[27-Apr-2023 04:21:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/ParticipantPayment.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/ParticipantPayment.php on line 15
+[27-Apr-2023 08:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/Event.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/Event.php on line 15
+[27-Apr-2023 14:34:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/Participant.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/DAO/Participant.php on line 15

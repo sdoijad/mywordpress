@@ -1,0 +1,5 @@
+[14-Apr-2023 02:54:41 America/New_York] PHP Fatal error:  Cannot declare class CRM_Core_ClassLoader, because the name is already in use in /home/naundpsy/public_html/wp-content/plugins/civicrm/civicrm/CRM/Core/ClassLoader.php on line 18
+[14-Apr-2023 05:52:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Composer\InstalledVersions' not found in /home/naundpsy/public_html/civicrm/civicrm/guzzle_php81_shim.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/guzzle_php81_shim.php on line 6

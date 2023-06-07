@@ -1,0 +1,24 @@
+[22-Apr-2023 19:02:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_PseudoConstant' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/PseudoConstant.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/PseudoConstant.php on line 23
+[23-Apr-2023 07:17:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form.php on line 21
+[24-Apr-2023 05:27:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Task.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Task.php on line 23
+[24-Apr-2023 07:51:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Info.php on line 20
+[24-Apr-2023 12:36:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/RecurTokens.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/RecurTokens.php on line 18
+[25-Apr-2023 05:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Tokens.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Tokens.php on line 21

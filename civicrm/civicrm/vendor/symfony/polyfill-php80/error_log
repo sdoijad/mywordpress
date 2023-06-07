@@ -1,0 +1,4 @@
+[28-Apr-2023 03:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php80/PhpToken.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php80/PhpToken.php on line 19

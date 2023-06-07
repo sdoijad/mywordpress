@@ -1,0 +1,40 @@
+[01-May-2023 15:21:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Email.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Email.php on line 23
+[02-May-2023 12:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Result.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Result.php on line 21
+[02-May-2023 12:46:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PDFLetter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PDFLetter.php on line 23
+[02-May-2023 14:19:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Delete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Delete.php on line 23
+[02-May-2023 18:28:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Status.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Status.php on line 21
+[02-May-2023 22:42:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PDF.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PDF.php on line 22
+[03-May-2023 07:39:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PickProfile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/PickProfile.php on line 21
+[03-May-2023 08:04:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Batch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Batch.php on line 21
+[03-May-2023 15:46:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Invoice.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Invoice.php on line 25
+[03-May-2023 21:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Task/Print.php on line 21

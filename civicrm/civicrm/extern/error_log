@@ -1,0 +1,2 @@
+[19-Apr-2023 00:28:33 America/New_York] PHP Notice:  Undefined variable: config in /home/naundpsy/public_html/civicrm/civicrm/extern/ipn.php on line 60
+[19-Apr-2023 00:28:33 America/New_York] PHP Notice:  Trying to get property 'userFramework' of non-object in /home/naundpsy/public_html/civicrm/civicrm/extern/ipn.php on line 60

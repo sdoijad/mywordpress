@@ -1,0 +1,44 @@
+[05-May-2023 20:49:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CalcFunction.php on line 9
+[06-May-2023 05:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/LineName.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/LineName.php on line 10
+[06-May-2023 09:44:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/RuleValueList.php on line 5
+[06-May-2023 13:14:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/PrimitiveValue.php on line 5
+[06-May-2023 17:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\Value' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/ValueList.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/ValueList.php on line 7
+[06-May-2023 21:10:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\ValueList' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CSSFunction.php on line 7
+[06-May-2023 23:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\CSSFunction' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Color.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Color.php on line 10
+[07-May-2023 02:04:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CSSString.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/CSSString.php on line 11
+[07-May-2023 02:48:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Sabberworm\CSS\Renderable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Value.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Value.php on line 11
+[07-May-2023 04:06:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/URL.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/URL.php on line 11
+[08-May-2023 03:13:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Sabberworm\CSS\Value\PrimitiveValue' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Size.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/sabberworm/php-css-parser/src/Value/Size.php on line 10

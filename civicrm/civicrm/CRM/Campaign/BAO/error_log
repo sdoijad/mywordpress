@@ -1,0 +1,8 @@
+[29-Apr-2023 05:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Campaign_DAO_Campaign' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/BAO/Campaign.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/BAO/Campaign.php on line 17
+[29-Apr-2023 07:52:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Campaign_DAO_Survey' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/BAO/Survey.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/BAO/Survey.php on line 21

@@ -1,0 +1,8 @@
+[01-May-2023 21:29:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_AfformAdmin_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/managed/FormSubmissionSavedSearch.mgd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/managed/FormSubmissionSavedSearch.mgd.php on line 16
+[03-May-2023 19:13:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Domain' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/managed/Navigation_afform_admin.mgd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/managed/Navigation_afform_admin.mgd.php on line 5

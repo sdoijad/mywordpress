@@ -1,0 +1,54 @@
+[01-May-2023 15:41:19 America/New_York] PHP Warning:  require_once(MDB2.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mdb2.php on line 10
+[01-May-2023 15:41:19 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'MDB2.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mdb2.php on line 10
+[01-May-2023 18:21:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/syslog.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/syslog.php on line 23
+[01-May-2023 20:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/error_log.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/error_log.php on line 19
+[02-May-2023 04:54:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/null.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/null.php on line 19
+[02-May-2023 06:55:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/display.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/display.php on line 22
+[02-May-2023 15:43:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/sqlite.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/sqlite.php on line 31
+[02-May-2023 21:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/daemon.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/daemon.php on line 18
+[02-May-2023 21:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mcal.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mcal.php on line 20
+[02-May-2023 22:29:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/composite.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/composite.php on line 23
+[03-May-2023 01:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/mail.php on line 28
+[03-May-2023 06:51:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/firebug.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/firebug.php on line 21
+[03-May-2023 12:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/console.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/console.php on line 19
+[03-May-2023 13:10:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/win.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/win.php on line 24
+[03-May-2023 16:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/file.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/log/Log/file.php on line 20

@@ -1,0 +1,12 @@
+[05-May-2023 18:14:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/AfformBehavior.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/AfformBehavior.php on line 13
+[06-May-2023 11:58:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/AfformSubmission.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/AfformSubmission.php on line 12
+[07-May-2023 19:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/Afform.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Api4/Afform.php on line 25

@@ -1,0 +1,28 @@
+[01-May-2023 10:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/UninstallFilesEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/UninstallFilesEvent.php on line 9
+[01-May-2023 23:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InstallFilesEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InstallFilesEvent.php on line 9
+[01-May-2023 23:24:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/BaseSetupEvent.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/BaseSetupEvent.php on line 6
+[02-May-2023 06:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InitEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InitEvent.php on line 9
+[02-May-2023 18:41:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InstallDatabaseEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/InstallDatabaseEvent.php on line 9
+[03-May-2023 04:58:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/UninstallDatabaseEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/UninstallDatabaseEvent.php on line 9
+[03-May-2023 19:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup\Event\BaseSetupEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/CheckRequirementsEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/Event/CheckRequirementsEvent.php on line 9

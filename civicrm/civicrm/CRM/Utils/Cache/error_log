@@ -1,0 +1,52 @@
+[27-Apr-2023 10:48:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/APCcache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/APCcache.php on line 17
+[27-Apr-2023 13:28:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/ArrayCache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/ArrayCache.php on line 21
+[27-Apr-2023 23:08:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Memcache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Memcache.php on line 17
+[28-Apr-2023 03:35:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Tiered.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Tiered.php on line 47
+[28-Apr-2023 05:01:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/FastArrayDecorator.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/FastArrayDecorator.php on line 39
+[28-Apr-2023 06:34:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/SqlGroup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/SqlGroup.php on line 23
+[28-Apr-2023 11:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/ArrayDecorator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/ArrayDecorator.php on line 26
+[28-Apr-2023 11:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Redis.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Redis.php on line 17
+[28-Apr-2023 13:28:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\SimpleCache\CacheInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Interface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Interface.php on line 23
+[28-Apr-2023 16:56:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/InvalidArgumentException.php on line 19
+[28-Apr-2023 21:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/NoCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/NoCache.php on line 17
+[28-Apr-2023 23:18:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Utils_Cache_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Memcached.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/Memcached.php on line 17
+[29-Apr-2023 05:14:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/CacheException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Cache/CacheException.php on line 19

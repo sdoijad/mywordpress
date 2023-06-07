@@ -1,0 +1,12 @@
+[06-May-2023 03:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'MimeTyper\Repository\AbstractRepository' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/MimeDbRepository.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/MimeDbRepository.php on line 17
+[07-May-2023 05:13:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'MimeTyper\Repository\CompositeRepository' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/ExtendedRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/ExtendedRepository.php on line 11
+[07-May-2023 09:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Dflydev\ApacheMimeTypes\CompositeRepository' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/CompositeRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Repository/CompositeRepository.php on line 7

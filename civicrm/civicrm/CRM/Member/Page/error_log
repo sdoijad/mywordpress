@@ -1,0 +1,24 @@
+[27-Apr-2023 10:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/RecurringContributions.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/RecurringContributions.php on line 6
+[27-Apr-2023 22:12:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_UserDashBoard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/UserDashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/UserDashboard.php on line 21
+[28-Apr-2023 05:37:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/Tab.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/Tab.php on line 17
+[28-Apr-2023 15:27:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/MembershipType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/MembershipType.php on line 23
+[28-Apr-2023 16:05:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/DashBoard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/DashBoard.php on line 21
+[29-Apr-2023 00:44:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/MembershipStatus.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Page/MembershipStatus.php on line 21

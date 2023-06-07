@@ -1,0 +1,12 @@
+[27-Apr-2023 19:46:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/DependencyException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/DependencyException.php on line 21
+[28-Apr-2023 21:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/ParseException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/ParseException.php on line 20
+[29-Apr-2023 08:07:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/MissingException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception/MissingException.php on line 21

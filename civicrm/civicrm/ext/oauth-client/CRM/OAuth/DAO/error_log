@@ -1,0 +1,12 @@
+[06-May-2023 06:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthSysToken.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthSysToken.php on line 16
+[07-May-2023 04:17:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthClient.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthClient.php on line 16
+[08-May-2023 05:04:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthContactToken.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/CRM/OAuth/DAO/OAuthContactToken.php on line 16

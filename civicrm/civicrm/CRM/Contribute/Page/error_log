@@ -1,0 +1,44 @@
+[27-Apr-2023 06:20:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionPage.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionPage.php on line 29
+[27-Apr-2023 07:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Tab.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Tab.php on line 17
+[27-Apr-2023 12:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_UserDashBoard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/UserDashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/UserDashboard.php on line 17
+[27-Apr-2023 18:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Premium.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Premium.php on line 21
+[28-Apr-2023 08:07:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/PaymentInfo.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/PaymentInfo.php on line 17
+[28-Apr-2023 08:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionRecurPayments.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionRecurPayments.php on line 6
+[28-Apr-2023 11:08:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ManagePremiums.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ManagePremiums.php on line 21
+[28-Apr-2023 13:59:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/SubscriptionStatus.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/SubscriptionStatus.php on line 17
+[29-Apr-2023 07:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/Widget.php on line 17
+[29-Apr-2023 11:11:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionRecur.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/ContributionRecur.php on line 21
+[29-Apr-2023 11:18:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/DashBoard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Page/DashBoard.php on line 21

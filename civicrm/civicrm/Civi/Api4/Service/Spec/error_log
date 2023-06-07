@@ -1,0 +1,9 @@
+[01-May-2023 23:19:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Service\Spec\FieldSpec' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/Spec/CustomFieldSpec.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/Spec/CustomFieldSpec.php on line 15
+[02-May-2023 11:38:46 America/New_York] PHP Fatal error:  Trait 'Civi\Schema\Traits\BasicSpecTrait' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/Spec/FieldSpec.php on line 18
+[03-May-2023 14:25:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/Spec/SpecGatherer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/Spec/SpecGatherer.php on line 25

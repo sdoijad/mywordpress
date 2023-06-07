@@ -1,0 +1,8 @@
+[02-May-2023 00:56:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Test\EntityExample' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contact/Barb.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contact/Barb.php on line 5
+[02-May-2023 08:58:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Test\EntityExample' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contact/Alex.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Test/ExampleData/Contact/Alex.php on line 5

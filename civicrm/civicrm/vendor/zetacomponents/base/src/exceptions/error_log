@@ -1,0 +1,64 @@
+[06-May-2023 00:56:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/init_callback_configured.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/init_callback_configured.php on line 34
+[06-May-2023 03:05:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_exception.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_exception.php on line 33
+[06-May-2023 06:18:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/property_not_found.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/property_not_found.php on line 33
+[06-May-2023 07:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/value.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/value.php on line 33
+[06-May-2023 13:19:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/autoload.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/autoload.php on line 33
+[06-May-2023 14:15:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/setting_not_found.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/setting_not_found.php on line 33
+[06-May-2023 14:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/whatever.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/whatever.php on line 39
+[06-May-2023 14:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/setting_value.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/setting_value.php on line 33
+[06-May-2023 21:21:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/invalid_parent_class.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/invalid_parent_class.php on line 32
+[07-May-2023 08:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseFileException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_not_found.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_not_found.php on line 33
+[07-May-2023 10:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/extension_not_found.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/extension_not_found.php on line 33
+[07-May-2023 10:44:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseFileException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_io.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_io.php on line 33
+[07-May-2023 12:22:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/invalid_callback_class.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/invalid_callback_class.php on line 34
+[07-May-2023 17:18:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseFileException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_permission.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/file_permission.php on line 33
+[07-May-2023 19:07:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/functionality_not_supported.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/functionality_not_supported.php on line 34
+[07-May-2023 20:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/property_permission.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/exceptions/property_permission.php on line 33

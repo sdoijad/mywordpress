@@ -1,0 +1,5 @@
+[27-Apr-2023 02:08:26 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/HTML/Template/IT.php on line 908
+[29-Apr-2023 08:53:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/HTML/Template/ITX.php on line 649
+[29-Apr-2023 08:53:28 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/HTML/Template/ITX.php on line 649
+[29-Apr-2023 08:53:28 America/New_York] PHP Warning:  require_once(HTML/Template/IT.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/packages/HTML/Template/ITX.php on line 21
+[29-Apr-2023 08:53:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'HTML/Template/IT.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/packages/HTML/Template/ITX.php on line 21

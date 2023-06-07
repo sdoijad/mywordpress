@@ -1,0 +1,12 @@
+[06-May-2023 04:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'TYPO3\PharStreamWrapper\Assertable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/PharExtensionInterceptor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/PharExtensionInterceptor.php on line 19
+[06-May-2023 15:00:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'TYPO3\PharStreamWrapper\Assertable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/PharMetaDataInterceptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/PharMetaDataInterceptor.php on line 25
+[07-May-2023 22:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'TYPO3\PharStreamWrapper\Assertable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/ConjunctionInterceptor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/typo3/phar-stream-wrapper/src/Interceptor/ConjunctionInterceptor.php on line 18

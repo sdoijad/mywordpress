@@ -1,0 +1,16 @@
+[06-May-2023 02:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Brick\Money\Context' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/AutoContext.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/AutoContext.php on line 17
+[06-May-2023 12:51:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Brick\Money\Context' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/CustomContext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/CustomContext.php on line 16
+[06-May-2023 12:59:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Brick\Money\Context' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/CashContext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/CashContext.php on line 16
+[07-May-2023 20:00:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Brick\Money\Context' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/DefaultContext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/brick/money/src/Context/DefaultContext.php on line 16

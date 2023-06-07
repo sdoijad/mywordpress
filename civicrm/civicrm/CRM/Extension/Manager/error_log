@@ -1,0 +1,20 @@
+[27-Apr-2023 09:48:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Manager_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Search.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Search.php on line 18
+[27-Apr-2023 19:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Manager_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Payment.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Payment.php on line 18
+[28-Apr-2023 06:14:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Extension_Manager_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Base.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Base.php on line 19
+[28-Apr-2023 16:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Manager_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Module.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Module.php on line 18
+[28-Apr-2023 20:08:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Extension_Manager_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Report.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Manager/Report.php on line 18

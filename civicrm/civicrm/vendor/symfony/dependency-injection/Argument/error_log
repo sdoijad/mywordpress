@@ -1,0 +1,20 @@
+[01-May-2023 08:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Argument\ArgumentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceLocatorArgument.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceLocatorArgument.php on line 21
+[01-May-2023 19:54:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Argument\ArgumentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceClosureArgument.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceClosureArgument.php on line 22
+[01-May-2023 22:45:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Argument\IteratorArgument' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/TaggedIteratorArgument.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/TaggedIteratorArgument.php on line 19
+[03-May-2023 14:51:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Argument\ArgumentInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/BoundArgument.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/BoundArgument.php on line 17
+[03-May-2023 17:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\ServiceLocator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceLocator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Argument/ServiceLocator.php on line 21

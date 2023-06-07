@@ -1,0 +1,8 @@
+[02-May-2023 17:03:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\WorkflowMessageExample' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit/AlexCancelled.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit/AlexCancelled.php on line 3
+[03-May-2023 17:44:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\WorkflowMessageExample' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit/BarbPending.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit/BarbPending.php on line 3

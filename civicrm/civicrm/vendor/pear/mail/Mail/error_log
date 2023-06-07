@@ -1,0 +1,22 @@
+[01-May-2023 13:47:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/sendmail.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/sendmail.php on line 55
+[01-May-2023 20:40:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/null.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/null.php on line 54
+[02-May-2023 06:33:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/mock.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/mock.php on line 54
+[02-May-2023 08:47:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/smtp.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/smtp.php on line 76
+[02-May-2023 21:14:10 America/New_York] PHP Warning:  require_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/smtpmx.php on line 52
+[02-May-2023 21:14:10 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Net/SMTP.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/smtpmx.php on line 52
+[03-May-2023 07:23:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/mail.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/mail/Mail/mail.php on line 53

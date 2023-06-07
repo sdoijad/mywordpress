@@ -1,0 +1,4 @@
+[02-May-2023 05:39:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17

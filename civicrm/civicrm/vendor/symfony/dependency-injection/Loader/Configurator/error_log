@@ -1,0 +1,40 @@
+[05-May-2023 23:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 27
+[06-May-2023 01:58:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[06-May-2023 08:02:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 24
+[06-May-2023 14:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 21
+[06-May-2023 18:43:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 19
+[07-May-2023 00:22:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 20
+[07-May-2023 05:07:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 20
+[07-May-2023 06:14:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[07-May-2023 16:25:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[07-May-2023 20:55:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 21

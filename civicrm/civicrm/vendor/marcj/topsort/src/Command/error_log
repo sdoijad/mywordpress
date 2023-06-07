@@ -1,0 +1,4 @@
+[07-May-2023 19:50:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/marcj/topsort/src/Command/BenchmarkCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/marcj/topsort/src/Command/BenchmarkCommand.php on line 11

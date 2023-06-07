@@ -1,0 +1,4 @@
+[23-Apr-2023 08:14:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Exception.php on line 18

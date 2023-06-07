@@ -1,0 +1,4 @@
+[27-Apr-2023 21:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Cxn_DAO_Cxn' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/BAO/Cxn.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Cxn/BAO/Cxn.php on line 24

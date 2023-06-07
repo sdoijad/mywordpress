@@ -1,0 +1,4 @@
+[29-Apr-2023 05:18:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/Form/Layout.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/Form/Layout.php on line 21

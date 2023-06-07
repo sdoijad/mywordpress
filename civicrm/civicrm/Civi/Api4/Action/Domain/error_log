@@ -1,0 +1,4 @@
+[02-May-2023 09:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOGetAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Domain/Get.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Action/Domain/Get.php on line 20

@@ -1,0 +1,12 @@
+[06-May-2023 11:12:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Cookie\CookieJarInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 10
+[07-May-2023 06:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 7
+[07-May-2023 14:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Cookie\CookieJar' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 7

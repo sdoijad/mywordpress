@@ -1,0 +1,6 @@
+[27-Apr-2023 13:37:57 America/New_York] PHP Warning:  require_once(gettext.inc): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/packages/PHPgettext/tests/LocalesTest.php on line 2
+[27-Apr-2023 13:37:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'gettext.inc' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/packages/PHPgettext/tests/LocalesTest.php on line 2
+[27-Apr-2023 16:11:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit_Framework_TestCase' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHPgettext/tests/ParsingTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHPgettext/tests/ParsingTest.php on line 3

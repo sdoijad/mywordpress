@@ -1,0 +1,52 @@
+[01-May-2023 12:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Security.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Security.php on line 17
+[01-May-2023 17:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Schema.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Schema.php on line 17
+[01-May-2023 22:18:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/FinancialTypeAcls.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/FinancialTypeAcls.php on line 17
+[01-May-2023 22:49:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Cms.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Cms.php on line 17
+[02-May-2023 07:35:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/PriceFields.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/PriceFields.php on line 18
+[02-May-2023 09:20:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Case.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Case.php on line 17
+[02-May-2023 14:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Timestamps.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Timestamps.php on line 17
+[02-May-2023 22:13:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Env.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Env.php on line 17
+[03-May-2023 00:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Source.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Source.php on line 17
+[03-May-2023 04:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/DedupeRules.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/DedupeRules.php on line 16
+[03-May-2023 05:50:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/Tokens.php on line 17
+[03-May-2023 11:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/OptionGroups.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/OptionGroups.php on line 17
+[03-May-2023 13:31:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Check_Component' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/AddressParsing.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Check/Component/AddressParsing.php on line 17

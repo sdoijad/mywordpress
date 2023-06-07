@@ -1,0 +1,9 @@
+[22-Apr-2023 22:37:55 America/New_York] PHP Fatal error:  Trait 'Civi\Schema\Traits\BasicSpecTrait' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/WorkflowMessage/FieldSpec.php on line 19
+[23-Apr-2023 22:19:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\WorkflowMessage\WorkflowMessageInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/WorkflowMessage/GenericWorkflowMessage.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/WorkflowMessage/GenericWorkflowMessage.php on line 33
+[25-Apr-2023 02:37:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Test\ExampleDataInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/WorkflowMessage/WorkflowMessageExample.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/WorkflowMessage/WorkflowMessageExample.php on line 25

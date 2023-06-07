@@ -1,0 +1,4 @@
+[27-Apr-2023 18:40:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_SMS_DAO_Provider' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/BAO/Provider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/BAO/Provider.php on line 17

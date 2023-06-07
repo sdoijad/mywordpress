@@ -1,0 +1,44 @@
+[01-May-2023 19:08:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\ScalarNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/NumericNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/NumericNode.php on line 21
+[01-May-2023 20:19:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\BaseNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/VariableNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/VariableNode.php on line 24
+[01-May-2023 22:59:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\BaseNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/ArrayNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/ArrayNode.php on line 23
+[02-May-2023 06:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\NumericNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/IntegerNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/IntegerNode.php on line 21
+[02-May-2023 09:47:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\VariableNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/ScalarNode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/ScalarNode.php on line 28
+[02-May-2023 21:08:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\ArrayNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/PrototypedArrayNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/PrototypedArrayNode.php on line 24
+[03-May-2023 07:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\NodeInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/BaseNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/BaseNode.php on line 25
+[03-May-2023 12:35:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\NumericNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/FloatNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/FloatNode.php on line 21
+[03-May-2023 14:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\ScalarNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/BooleanNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/BooleanNode.php on line 21
+[03-May-2023 18:25:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Definition\NodeInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/PrototypeNodeInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/PrototypeNodeInterface.php on line 19
+[03-May-2023 21:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Definition\ScalarNode' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/EnumNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Definition/EnumNode.php on line 21

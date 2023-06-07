@@ -1,0 +1,36 @@
+[27-Apr-2023 11:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/WordPress.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/WordPress.php on line 21
+[27-Apr-2023 13:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/DrupalBase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/DrupalBase.php on line 21
+[27-Apr-2023 16:04:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Standalone.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Standalone.php on line 21
+[27-Apr-2023 21:08:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Drupal.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Drupal.php on line 21
+[28-Apr-2023 05:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/UnitTests.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/UnitTests.php on line 21
+[28-Apr-2023 17:24:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Joomla.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Joomla.php on line 21
+[28-Apr-2023 23:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Backdrop.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Backdrop.php on line 21
+[29-Apr-2023 06:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Soap.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Soap.php on line 21
+[29-Apr-2023 10:32:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Permission_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Drupal8.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Permission/Drupal8.php on line 21

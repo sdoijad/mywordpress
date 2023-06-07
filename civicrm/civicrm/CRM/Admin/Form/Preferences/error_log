@@ -1,0 +1,16 @@
+[01-May-2023 11:43:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form_Preferences' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Mailing.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Mailing.php on line 21
+[02-May-2023 02:22:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form_Preferences' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Member.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Member.php on line 21
+[03-May-2023 05:25:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form_Preferences' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Address.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Address.php on line 21
+[03-May-2023 18:17:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form_Preferences' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Display.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Preferences/Display.php on line 21

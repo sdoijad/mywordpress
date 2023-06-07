@@ -1,0 +1,93 @@
+[27-Apr-2023 06:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/CheckAccessAction.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/CheckAccessAction.php on line 25
+[27-Apr-2023 06:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractSaveAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOSaveAction.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOSaveAction.php on line 20
+[27-Apr-2023 07:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractGetAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOGetAction.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOGetAction.php on line 30
+[27-Apr-2023 19:12:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractQueryAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractGetAction.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractGetAction.php on line 20
+[27-Apr-2023 20:44:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractUpdateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOUpdateAction.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOUpdateAction.php on line 21
+[27-Apr-2023 22:44:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AutocompleteAction.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AutocompleteAction.php on line 33
+[28-Apr-2023 01:00:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractBatchAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAODeleteAction.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAODeleteAction.php on line 24
+[28-Apr-2023 04:09:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractBatchAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractUpdateAction.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractUpdateAction.php on line 29
+[28-Apr-2023 04:29:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractUpdateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicUpdateAction.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicUpdateAction.php on line 22
+[28-Apr-2023 04:49:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractQueryAction.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractQueryAction.php on line 31
+[28-Apr-2023 05:48:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractBatchAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicBatchAction.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicBatchAction.php on line 26
+[28-Apr-2023 05:51:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractCreateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicCreateAction.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicCreateAction.php on line 23
+[28-Apr-2023 07:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOEntity.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOEntity.php on line 28
+[28-Apr-2023 10:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractSaveAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicSaveAction.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicSaveAction.php on line 21
+[28-Apr-2023 14:03:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractCreateAction.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractCreateAction.php on line 27
+[28-Apr-2023 15:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractBatchAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicReplaceAction.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicReplaceAction.php on line 32
+[28-Apr-2023 16:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractCreateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOCreateAction.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOCreateAction.php on line 23
+[28-Apr-2023 18:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/ExportAction.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/ExportAction.php on line 31
+[28-Apr-2023 18:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\BasicGetAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicGetFieldsAction.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicGetFieldsAction.php on line 33
+[28-Apr-2023 19:45:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractQueryAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractBatchAction.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractBatchAction.php on line 24
+[28-Apr-2023 19:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractSaveAction.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractSaveAction.php on line 40
+[28-Apr-2023 22:54:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicEntity.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/BasicEntity.php on line 32
+[28-Apr-2023 23:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\BasicGetFieldsAction' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOGetFieldsAction.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/DAOGetFieldsAction.php on line 22
+[29-Apr-2023 10:09:35 America/New_York] PHP Fatal error:  Trait 'Civi\Schema\Traits\MagicGetterSetterTrait' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Generic/AbstractAction.php on line 38

@@ -1,0 +1,32 @@
+[27-Apr-2023 11:21:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipBlock.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipBlock.php on line 15
+[27-Apr-2023 15:53:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task.php on line 24
+[27-Apr-2023 19:23:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipView.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipView.php on line 21
+[27-Apr-2023 20:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_MembershipConfig' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipType.php on line 22
+[28-Apr-2023 02:03:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipRenewal.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipRenewal.php on line 21
+[28-Apr-2023 16:50:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Search' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Search.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Search.php on line 23
+[28-Apr-2023 20:11:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipConfig.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipConfig.php on line 22
+[29-Apr-2023 10:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipStatus.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/MembershipStatus.php on line 21

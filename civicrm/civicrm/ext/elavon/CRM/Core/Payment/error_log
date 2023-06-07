@@ -1,0 +1,8 @@
+[06-May-2023 01:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Payment' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/elavon/CRM/Core/Payment/Elavon.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/elavon/CRM/Core/Payment/Elavon.php on line 28
+[07-May-2023 08:12:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Elavon_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/elavon/CRM/Core/Payment/Elavon.mgd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/elavon/CRM/Core/Payment/Elavon.mgd.php on line 15

@@ -1,0 +1,4 @@
+[28-Apr-2023 04:34:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Controller' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Controller/Send.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Controller/Send.php on line 17

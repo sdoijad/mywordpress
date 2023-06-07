@@ -1,0 +1,190 @@
+[27-Apr-2023 01:58:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OpenID' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OpenID.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OpenID.php on line 21
+[27-Apr-2023 02:13:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_CustomField' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomField.php on line 21
+[27-Apr-2023 02:37:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_MailSettings' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/MailSettings.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/MailSettings.php on line 17
+[27-Apr-2023 02:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_RecurringEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/RecurringEntity.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/RecurringEntity.php on line 23
+[27-Apr-2023 04:35:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_StatusPreference' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/StatusPreference.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/StatusPreference.php on line 20
+[27-Apr-2023 09:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomValue.php on line 21
+[27-Apr-2023 10:45:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_PrevNextCache' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PrevNextCache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PrevNextCache.php on line 21
+[27-Apr-2023 11:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OptionValue' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OptionValue.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OptionValue.php on line 17
+[27-Apr-2023 12:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Country' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Country.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Country.php on line 21
+[27-Apr-2023 15:09:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Job' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Job.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Job.php on line 21
+[27-Apr-2023 15:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_IM' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/IM.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/IM.php on line 21
+[27-Apr-2023 17:28:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_EntityTag' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/EntityTag.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/EntityTag.php on line 18
+[27-Apr-2023 22:48:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_ActionLog' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/ActionLog.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/ActionLog.php on line 21
+[28-Apr-2023 00:35:56 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/MessageTemplate.php on line 21
+[28-Apr-2023 00:35:56 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/MessageTemplate.php on line 21
+[28-Apr-2023 00:41:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OptionValue' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PaperSize.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PaperSize.php on line 38
+[28-Apr-2023 02:48:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Financial_BAO_FinancialTrxn' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/FinancialTrxn.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/FinancialTrxn.php on line 17
+[28-Apr-2023 03:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Domain' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Domain.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Domain.php on line 21
+[28-Apr-2023 05:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Mapping' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Mapping.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Mapping.php on line 17
+[28-Apr-2023 06:05:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Discount' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Discount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Discount.php on line 17
+[28-Apr-2023 06:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Navigation' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Navigation.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Navigation.php on line 17
+[28-Apr-2023 06:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OptionGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OptionGroup.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/OptionGroup.php on line 17
+[28-Apr-2023 08:47:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_CustomGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomGroup.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/CustomGroup.php on line 21
+[28-Apr-2023 10:56:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Managed' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Managed.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Managed.php on line 21
+[28-Apr-2023 11:23:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OptionValue' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PdfFormat.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PdfFormat.php on line 38
+[28-Apr-2023 11:42:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Phone' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Phone.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Phone.php on line 21
+[28-Apr-2023 11:49:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_PreferencesDate' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PreferencesDate.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/PreferencesDate.php on line 17
+[28-Apr-2023 13:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_ActionSchedule' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/ActionSchedule.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/ActionSchedule.php on line 23
+[28-Apr-2023 16:45:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Note' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Note.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Note.php on line 21
+[28-Apr-2023 16:47:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Email' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Email.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Email.php on line 23
+[28-Apr-2023 19:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Location.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Location.php on line 21
+[29-Apr-2023 03:14:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_File' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/File.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/File.php on line 21
+[29-Apr-2023 05:54:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_OptionValue' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/LabelFormat.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/LabelFormat.php on line 38
+[29-Apr-2023 08:00:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Setting' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Setting.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Setting.php on line 25
+[29-Apr-2023 08:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Extension' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Extension.php on line 21
+[29-Apr-2023 10:15:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Address' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Address.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Address.php on line 21
+[29-Apr-2023 10:24:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Dashboard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Dashboard.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Dashboard.php on line 23
+[29-Apr-2023 11:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Log' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Log.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Log.php on line 21
+[29-Apr-2023 12:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_LocationType' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/LocationType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/LocationType.php on line 17
+[29-Apr-2023 12:52:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Cache' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Cache.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Cache.php on line 25
+[01-May-2023 09:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_UFField' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFField.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFField.php on line 21
+[01-May-2023 10:36:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_UFGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFGroup.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFGroup.php on line 21
+[01-May-2023 10:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Translation' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Translation.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Translation.php on line 21
+[01-May-2023 13:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_UserJob' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UserJob.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UserJob.php on line 25
+[01-May-2023 22:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_UFJoin' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFJoin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFJoin.php on line 21
+[02-May-2023 07:06:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Tag' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Tag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Tag.php on line 17
+[03-May-2023 03:28:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_Website' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Website.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/Website.php on line 21
+[03-May-2023 05:48:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_UFMatch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFMatch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/UFMatch.php on line 21
+[03-May-2023 16:46:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_WordReplacement' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/WordReplacement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/BAO/WordReplacement.php on line 21

@@ -1,0 +1,4 @@
+[06-May-2023 08:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseOptions' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/options/autoload.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/options/autoload.php on line 43

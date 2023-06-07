@@ -1,0 +1,4 @@
+[03-May-2023 08:06:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Iats_Upgrader_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/iatspayments/CRM/Iats/Upgrader.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/iatspayments/CRM/Iats/Upgrader.php on line 6

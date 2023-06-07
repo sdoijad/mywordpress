@@ -1,0 +1,4 @@
+[27-Apr-2023 19:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/Page/Layout.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/Page/Layout.php on line 21

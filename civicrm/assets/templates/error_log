@@ -1,0 +1,15 @@
+[25-Mar-2023 15:26:22 America/New_York] PHP Warning:  Undefined variable $class in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 22
+[25-Mar-2023 15:26:22 America/New_York] PHP Warning:  Undefined variable $show_title in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 24
+[25-Mar-2023 15:26:22 America/New_York] PHP Warning:  Undefined variable $description in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 28
+[25-Mar-2023 15:26:22 America/New_York] PHP Warning:  Undefined variable $more_link in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 32
+[25-Mar-2023 15:26:22 America/New_York] PHP Warning:  Undefined variable $empowered_enabled in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 34
+[19-Apr-2023 02:20:21 America/New_York] PHP Notice:  Undefined variable: class in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 22
+[19-Apr-2023 02:20:21 America/New_York] PHP Notice:  Undefined variable: show_title in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 24
+[19-Apr-2023 02:20:21 America/New_York] PHP Notice:  Undefined variable: description in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 28
+[19-Apr-2023 02:20:21 America/New_York] PHP Notice:  Undefined variable: more_link in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 32
+[19-Apr-2023 02:20:21 America/New_York] PHP Notice:  Undefined variable: empowered_enabled in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 34
+[03-May-2023 16:10:52 America/New_York] PHP Notice:  Undefined variable: class in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 22
+[03-May-2023 16:10:52 America/New_York] PHP Notice:  Undefined variable: show_title in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 24
+[03-May-2023 16:10:52 America/New_York] PHP Notice:  Undefined variable: description in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 28
+[03-May-2023 16:10:52 America/New_York] PHP Notice:  Undefined variable: more_link in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 32
+[03-May-2023 16:10:52 America/New_York] PHP Notice:  Undefined variable: empowered_enabled in /home/naundpsy/public_html/civicrm/assets/templates/civicrm.shortcode.php on line 34

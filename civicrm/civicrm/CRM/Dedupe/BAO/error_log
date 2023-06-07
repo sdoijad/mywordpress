@@ -1,0 +1,24 @@
+[27-Apr-2023 04:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeRule' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeRule.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeRule.php on line 22
+[27-Apr-2023 20:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_BAO_DedupeException' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/Exception.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/Exception.php on line 21
+[27-Apr-2023 21:02:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_BAO_DedupeRule' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/Rule.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/Rule.php on line 22
+[28-Apr-2023 04:02:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_BAO_DedupeRuleGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/RuleGroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/RuleGroup.php on line 22
+[28-Apr-2023 08:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeRuleGroup' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeRuleGroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeRuleGroup.php on line 22
+[29-Apr-2023 10:59:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Dedupe_DAO_DedupeException' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Dedupe/BAO/DedupeException.php on line 21

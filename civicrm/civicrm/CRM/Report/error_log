@@ -1,0 +1,8 @@
+[22-Apr-2023 18:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Info.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Info.php on line 19
+[23-Apr-2023 01:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form.php on line 15

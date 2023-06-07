@@ -1,0 +1,20 @@
+[27-Apr-2023 06:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\ResourceCheckerConfigCache' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ConfigCache.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ConfigCache.php on line 26
+[27-Apr-2023 22:02:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\ConfigCacheFactoryInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ConfigCacheFactory.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ConfigCacheFactory.php on line 23
+[28-Apr-2023 15:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\ConfigCacheInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ResourceCheckerConfigCache.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ResourceCheckerConfigCache.php on line 24
+[29-Apr-2023 05:59:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\FileLocatorInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/FileLocator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/FileLocator.php on line 21
+[29-Apr-2023 12:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\ConfigCacheFactoryInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ResourceCheckerConfigCacheFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/ResourceCheckerConfigCacheFactory.php on line 20

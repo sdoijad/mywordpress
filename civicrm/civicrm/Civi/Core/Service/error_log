@@ -1,0 +1,4 @@
+[29-Apr-2023 06:44:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Core\Service\AutoServiceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Service/AutoService.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Service/AutoService.php on line 53

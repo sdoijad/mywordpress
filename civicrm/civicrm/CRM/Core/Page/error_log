@@ -1,0 +1,22 @@
+[28-Apr-2023 07:01:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/RecurringEntityPreview.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/RecurringEntityPreview.php on line 17
+[28-Apr-2023 13:23:36 America/New_York] PHP Warning:  require_once(CRM/Core/Page.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/QUnit.php on line 3
+[28-Apr-2023 13:23:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'CRM/Core/Page.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/QUnit.php on line 3
+[28-Apr-2023 15:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/Redirect.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/Redirect.php on line 14
+[28-Apr-2023 23:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/FakeError.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/FakeError.php on line 25
+[29-Apr-2023 06:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/Basic.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/Basic.php on line 17
+[29-Apr-2023 07:25:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/File.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Page/File.php on line 17

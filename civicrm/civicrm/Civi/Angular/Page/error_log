@@ -1,0 +1,8 @@
+[28-Apr-2023 04:23:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/Page/Main.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/Page/Main.php on line 10
+[28-Apr-2023 16:29:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/Page/Modules.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/Page/Modules.php on line 20

@@ -1,0 +1,8 @@
+[27-Apr-2023 05:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Page/PCP.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Page/PCP.php on line 21
+[28-Apr-2023 08:39:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Page/PCPInfo.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Page/PCPInfo.php on line 21

@@ -1,0 +1,4 @@
+[28-Apr-2023 18:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Friend_DAO_Friend' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Friend/BAO/Friend.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Friend/BAO/Friend.php on line 22

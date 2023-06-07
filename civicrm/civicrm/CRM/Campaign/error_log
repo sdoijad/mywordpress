@@ -1,0 +1,12 @@
+[23-Apr-2023 04:55:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Task.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Task.php on line 23
+[24-Apr-2023 12:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_PseudoConstant' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/PseudoConstant.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/PseudoConstant.php on line 22
+[25-Apr-2023 03:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Component_Info' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Campaign/Info.php on line 20

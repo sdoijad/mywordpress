@@ -1,0 +1,1 @@
+[28-Apr-2023 09:02:12 America/New_York] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-mbstring/bootstrap80.php on line 15

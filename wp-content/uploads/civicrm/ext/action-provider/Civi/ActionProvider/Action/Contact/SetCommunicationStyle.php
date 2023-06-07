@@ -1,0 +1,81 @@
+<?php
+
+namespace Civi\ActionProvider\Action\Contact;
+
+use Civi\ActionProvider\Action\AbstractAction;
+use Civi\ActionProvider\Parameter\OptionGroupSpecification;
+use Civi\ActionProvider\Parameter\ParameterBagInterface;
+use Civi\ActionProvider\Parameter\Specification;
+use Civi\ActionProvider\Parameter\SpecificationBag;
+use CRM_ActionProvider_ExtensionUtil as E;
+
+/**
+ * Set or update a contact's preferred communication methods
+ *
+ * @package Civi\ActionProvider\Action\Contact
+ */
+class SetCommunicationStyle extends AbstractAction {
+
+  /**
+   * Returns the specification of the configuration options for the actual action.
+   *
+   * @return SpecificationBag
+   */
+  public function getConfigurationSpecification() {
+    $value = new OptionGroupSpecification('value', 'communication_style', E::ts('Communication Style'), false);
+    $value->setDescription(E::ts('Set the communication style either with a parameter or with the configuration'));
+    return new SpecificationBag([$value]);
+  }
+
+  /**
+   * Returns the specification of the configuration options for the actual action.
+   *
+   * @return SpecificationBag
+   * @throws \Exception
+   */
+  public function getParameterSpecification() {
+    return new SpecificationBag(array(
+        new Specification('contact_id', 'Integer', E::ts('Contact ID'), true),
+        new OptionGroupSpecification('value', 'communication_style', E::ts('Communication Style'), false),
+    ));
+  }
+
+  /**
+   * Returns the specification of the output parameters of this action.
+   *
+   * This function could be overridden by child classes.
+   *
+   * @return SpecificationBag
+   */
+  public function getOutputSpecification() {
+    return new SpecificationBag([]);
+  }
+
+  /**
+   * Run the action
+   *
+   * @param ParameterBagInterface $parameters
+   *   The parameters to this action.
+   * @param ParameterBagInterface $output
+   *   The parameters this action can send back
+   * @return void
+   * @throws \Exception
+   */
+  protected function doAction(ParameterBagInterface $parameters, ParameterBagInterface $output) {
+    // the default way of getting the contact is this:
+    $contact_id = $parameters->getParameter('contact_id');
+    if ($parameters->doesParameterExists('value')) {
+      $value = $parameters->getParameter('value');
+      \civicrm_api3('Contact', 'create', [
+        'id' => $contact_id,
+        'communication_style_id' => $value
+      ]);
+    } elseif ($this->configuration->doesParameterExists('value')) {
+      $value = $this->configuration->getParameter('value');
+      \civicrm_api3('Contact', 'create', [
+        'id' => $contact_id,
+        'communication_style_id' => $value
+      ]);
+    }
+  }
+}

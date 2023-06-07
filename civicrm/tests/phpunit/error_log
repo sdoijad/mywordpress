@@ -1,0 +1,35 @@
+[25-Mar-2023 15:26:34 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php:26
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php(8): cv()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 26
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  Use of undefined constant STDERR - assumed 'STDERR' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 26
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  proc_open(): Descriptor item must be either an array or a File-Handle in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 29
+[19-Apr-2023 23:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 31
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 31
+[19-Apr-2023 23:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 32
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 32
+[19-Apr-2023 23:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 33
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 33
+[19-Apr-2023 23:46:16 America/New_York] PHP Warning:  proc_close() expects parameter 1 to be resource, bool given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 34
+[19-Apr-2023 23:46:16 America/New_York] PHP Fatal error:  Uncaught RuntimeException: Command failed (cv php:boot):
+ in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php:35
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php(8): cv('cv php:boot', 'phpcode')
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 35
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  Use of undefined constant STDERR - assumed 'STDERR' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 26
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  proc_open(): Descriptor item must be either an array or a File-Handle in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 29
+[03-May-2023 16:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 31
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 31
+[03-May-2023 16:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 32
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 32
+[03-May-2023 16:14:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 33
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 33
+[03-May-2023 16:14:39 America/New_York] PHP Warning:  proc_close() expects parameter 1 to be resource, bool given in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 34
+[03-May-2023 16:14:39 America/New_York] PHP Fatal error:  Uncaught RuntimeException: Command failed (cv php:boot):
+ in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php:35
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php(8): cv('cv php:boot', 'phpcode')
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/tests/phpunit/bootstrap.php on line 35

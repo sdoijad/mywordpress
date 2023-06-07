@@ -1,0 +1,56 @@
+/* Make option repeater headers uppercase to match labels */
+.nf-list-options .nf-table-header div{
+    text-transform: uppercase;
+}
+
+/* float to align first input and delete icon in row; margin top to set horizontal alignment */
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-handle{
+    float:left;
+    margin-right:15px;
+    margin-top:30px;
+}
+
+/* float to align first input and handle icon in row; margin top to set horizontal alignment */
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-delete-icon{
+    float:right !important;
+    margin-top: 30px !important;
+    width:100px !important; /*min width is 100px in standard element, always maintain, do not let grow*/
+}
+
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-textbox,
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-select
+{
+    float:left !important;
+    margin-left:50px;
+    min-width:66%  !important;
+}
+
+/* First input after delete icon gets smaller margin to align with following inputs  */
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-delete-icon + div{
+    margin-left:5px;
+}
+
+
+/* Center merge tag box inside textbox */
+.autobuild-template-textbox label.has-merge-tags span.merge-tags{
+    top: 30px;
+}
+/* Place the label as expected by NF styling */
+.ninja-forms-app .nf-list-options .nf-div-table .nf-table-row div.autobuild-template-textbox input {
+    margin-top: 7px;
+}
+/* Move select box under label, make 100% width of `select` element */
+.ninja-forms-app .autobuild-template-select .nf-select select{
+    display: block;
+    max-width: none !important;
+    width: 100%;
+    background: #f9f9f9 url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E') no-repeat right 5px top 55%;
+    background-size: 16px 16px;
+    border: 0;
+}
+
+/* Aling separator with handle and delete icons */
+hr.autobuild-template-divider{
+    margin-left: 20px;
+    margin-right: 80px;
+}

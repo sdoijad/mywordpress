@@ -1,0 +1,56 @@
+[23-Apr-2023 20:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_SavedSearch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/SavedSearch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/SavedSearch.php on line 21
+[23-Apr-2023 23:22:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_SubscriptionHistory' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/SubscriptionHistory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/SubscriptionHistory.php on line 21
+[24-Apr-2023 10:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_Contact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Contact.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Contact.php on line 19
+[27-Apr-2023 11:49:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_GroupContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupContact.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupContact.php on line 22
+[27-Apr-2023 21:02:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_ContactType' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/ContactType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/ContactType.php on line 17
+[28-Apr-2023 00:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_GroupNesting' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupNesting.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupNesting.php on line 34
+[28-Apr-2023 12:08:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_Contact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Individual.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Individual.php on line 21
+[28-Apr-2023 13:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_RelationshipType' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/RelationshipType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/RelationshipType.php on line 21
+[28-Apr-2023 17:10:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_Contact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Household.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Household.php on line 17
+[29-Apr-2023 03:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_GroupOrganization' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupOrganization.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/GroupOrganization.php on line 17
+[29-Apr-2023 05:59:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_RelationshipCache' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/RelationshipCache.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/RelationshipCache.php on line 15
+[29-Apr-2023 06:09:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_Relationship' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Relationship.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Relationship.php on line 15
+[29-Apr-2023 06:21:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_DashboardContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/DashboardContact.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/DashboardContact.php on line 16
+[29-Apr-2023 08:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_DAO_Group' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Group.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/BAO/Group.php on line 19

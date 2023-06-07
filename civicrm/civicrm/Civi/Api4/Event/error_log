@@ -1,0 +1,12 @@
+[28-Apr-2023 05:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/PostSelectQueryEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/PostSelectQueryEvent.php on line 18
+[28-Apr-2023 18:54:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/ValidateValuesEvent.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/ValidateValuesEvent.php on line 50
+[29-Apr-2023 08:31:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/AuthorizeRecordEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/AuthorizeRecordEvent.php on line 23

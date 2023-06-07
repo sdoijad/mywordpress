@@ -1,0 +1,4 @@
+[09-May-2023 01:14:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/naundpsy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

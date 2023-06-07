@@ -1,0 +1,28 @@
+[01-May-2023 13:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task_Batch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Batch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Batch.php on line 20
+[02-May-2023 04:06:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Delete.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Delete.php on line 21
+[02-May-2023 17:14:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/PDF.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/PDF.php on line 21
+[03-May-2023 05:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Result.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Result.php on line 21
+[03-May-2023 15:11:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task_PickProfile' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/PickProfile.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/PickProfile.php on line 20
+[03-May-2023 15:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Email.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Email.php on line 21
+[03-May-2023 19:12:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Restore.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/Form/Task/Restore.php on line 21

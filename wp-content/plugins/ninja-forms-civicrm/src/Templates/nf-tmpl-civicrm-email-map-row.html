@@ -1,0 +1,24 @@
+<script id="nf-tmpl-civicrm-email-map-row" type="text/template">
+    <div>
+        <span class="dashicons dashicons-menu handle"></span>
+    </div>
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.email }}}" data-id="email">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <label class="nf-select">
+            <select type="text" class="setting" value="{{{ data.location_type_id_name}}}" data-id="location_type_id_name" list="location_type_id_name">
+            {{{ data.renderOptions( 'location_type_id_name', data.location_type_id_name )}}}
+            </select>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <span class="dashicons dashicons-dismiss nf-delete"></span>
+    </div>
+    <hr />
+</script>

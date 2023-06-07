@@ -1,0 +1,4 @@
+[29-Apr-2023 13:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO_PrintLabel' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/BAO/Layout.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Badge/BAO/Layout.php on line 17

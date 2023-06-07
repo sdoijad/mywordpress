@@ -1,0 +1,4 @@
+[27-Apr-2023 04:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psr\Log\AbstractLogger' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Error/Log.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Error/Log.php on line 18

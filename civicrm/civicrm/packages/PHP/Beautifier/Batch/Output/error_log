@@ -1,0 +1,36 @@
+[06-May-2023 00:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php:38
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesGz.php(26): require_once()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php on line 38
+[06-May-2023 06:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/Files.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/Files.php on line 37
+[06-May-2023 11:36:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/Directory.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/Directory.php on line 37
+[06-May-2023 13:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php on line 42
+[06-May-2023 14:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php:38
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesBz2.php(26): require_once()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php on line 38
+[07-May-2023 09:07:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/FilesTar.php on line 38
+[07-May-2023 20:10:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php:42
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryGz.php(26): require_once()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php on line 42
+[08-May-2023 01:03:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHP_Beautifier_Batch_Output' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php:42
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryBz2.php(26): require_once()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/Batch/Output/DirectoryTar.php on line 42

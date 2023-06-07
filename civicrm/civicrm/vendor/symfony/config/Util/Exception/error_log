@@ -1,0 +1,4 @@
+[06-May-2023 21:16:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Util\Exception\XmlParsingException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Util/Exception/InvalidXmlException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Util/Exception/InvalidXmlException.php on line 20

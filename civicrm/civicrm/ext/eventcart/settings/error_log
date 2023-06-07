@@ -1,0 +1,4 @@
+[27-Apr-2023 21:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/ext/eventcart/settings/Eventcart.setting.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/eventcart/settings/Eventcart.setting.php on line 31

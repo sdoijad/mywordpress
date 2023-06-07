@@ -1,0 +1,12 @@
+[02-May-2023 21:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/ThankYou.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/ThankYou.php on line 21
+[03-May-2023 07:50:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/Confirm.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/Confirm.php on line 21
+[03-May-2023 12:39:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/Main.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/Contribution/Main.php on line 21

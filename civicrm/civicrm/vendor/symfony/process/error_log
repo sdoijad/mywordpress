@@ -1,0 +1,4 @@
+[28-Apr-2023 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Process' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/PhpProcess.php on line 26

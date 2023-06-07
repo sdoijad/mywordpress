@@ -1,0 +1,8 @@
+[06-May-2023 22:08:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\OAuth2\Client\Token\AccessTokenInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-client/src/Token/ResourceOwnerAccessTokenInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-client/src/Token/ResourceOwnerAccessTokenInterface.php on line 17
+[08-May-2023 01:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\OAuth2\Client\Token\AccessTokenInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-client/src/Token/AccessToken.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-client/src/Token/AccessToken.php on line 25

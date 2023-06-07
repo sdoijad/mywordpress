@@ -1,0 +1,20 @@
+[01-May-2023 09:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ContainerBagInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ContainerBagInterface.php on line 22
+[01-May-2023 11:29:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\ParameterBag\FrozenParameterBag' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ContainerBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ContainerBag.php on line 19
+[01-May-2023 21:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\ParameterBag\ParameterBag' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/FrozenParameterBag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/FrozenParameterBag.php on line 21
+[03-May-2023 13:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ParameterBag.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/ParameterBag.php on line 23
+[03-May-2023 21:29:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\ParameterBag\ParameterBag' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/EnvPlaceholderParameterBag.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ParameterBag/EnvPlaceholderParameterBag.php on line 20

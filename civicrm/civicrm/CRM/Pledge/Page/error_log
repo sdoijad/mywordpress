@@ -1,0 +1,12 @@
+[28-Apr-2023 16:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/DashBoard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/DashBoard.php on line 21
+[28-Apr-2023 17:57:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/Payment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/Payment.php on line 17
+[28-Apr-2023 22:20:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_UserDashBoard' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/UserDashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/Page/UserDashboard.php on line 17

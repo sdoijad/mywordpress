@@ -1,0 +1,8 @@
+[03-May-2023 06:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 27
+[03-May-2023 07:10:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22

@@ -1,0 +1,12 @@
+[01-May-2023 17:59:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\MessageInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[02-May-2023 17:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\MessageInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/RequestInterface.php on line 24
+[03-May-2023 00:43:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Message\RequestInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-message/src/ServerRequestInterface.php on line 43

@@ -1,0 +1,8 @@
+[27-Apr-2023 06:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/StateMachine/Search.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/StateMachine/Search.php on line 15
+[27-Apr-2023 11:33:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/StateMachine/Registration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/StateMachine/Registration.php on line 15

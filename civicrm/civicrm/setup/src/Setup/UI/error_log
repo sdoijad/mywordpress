@@ -1,0 +1,4 @@
+[02-May-2023 17:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Setup\UI\SetupControllerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/UI/SetupController.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/src/Setup/UI/SetupController.php on line 6

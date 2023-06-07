@@ -1,0 +1,20 @@
+[27-Apr-2023 03:54:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionInvoiceReceipt.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionInvoiceReceipt.php on line 20
+[27-Apr-2023 16:56:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionOfflineReceipt.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionOfflineReceipt.php on line 21
+[27-Apr-2023 18:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringCancelled.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringCancelled.php on line 6
+[29-Apr-2023 01:54:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/RecurringEdit.php on line 9
+[29-Apr-2023 04:27:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionOnlineReceipt.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/WorkflowMessage/ContributionOnlineReceipt.php on line 25

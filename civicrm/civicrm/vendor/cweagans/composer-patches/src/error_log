@@ -1,0 +1,8 @@
+[01-May-2023 23:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cweagans/composer-patches/src/Patches.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cweagans/composer-patches/src/Patches.php on line 28
+[03-May-2023 20:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Composer\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cweagans/composer-patches/src/PatchEvent.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cweagans/composer-patches/src/PatchEvent.php on line 13

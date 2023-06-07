@@ -1,0 +1,4 @@
+[29-Apr-2023 03:04:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Domain' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/legacycustomsearches/managed/Navigation.mgd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/legacycustomsearches/managed/Navigation.mgd.php on line 7

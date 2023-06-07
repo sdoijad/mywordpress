@@ -1,0 +1,8 @@
+[22-Apr-2023 22:27:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\SelectQuery' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Api3SelectQuery.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Api3SelectQuery.php on line 15
+[23-Apr-2023 04:39:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Log_observer' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/LogObserver.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/LogObserver.php on line 14

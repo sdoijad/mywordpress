@@ -1,0 +1,28 @@
+[01-May-2023 09:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PDFLetter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PDFLetter.php on line 24
+[01-May-2023 16:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task_PDFLetterCommon' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PDFLetterCommon.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PDFLetterCommon.php on line 11
+[02-May-2023 17:18:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Delete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Delete.php on line 23
+[02-May-2023 23:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Batch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Batch.php on line 21
+[03-May-2023 13:55:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Print.php on line 21
+[03-May-2023 14:11:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PickProfile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/PickProfile.php on line 21
+[03-May-2023 16:01:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Member_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Email.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Form/Task/Email.php on line 22

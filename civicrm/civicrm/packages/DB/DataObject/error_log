@@ -1,0 +1,7 @@
+[28-Apr-2023 03:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PEAR_Error' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/DB/DataObject/Error.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/DB/DataObject/Error.php on line 26
+[28-Apr-2023 23:55:33 America/New_York] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/naundpsy/public_html/civicrm/civicrm/packages/DB/DataObject/Generator.php on line 1752
+[28-Apr-2023 23:55:33 America/New_York] PHP Warning:  require_once(DB/DataObject.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/packages/DB/DataObject/Generator.php on line 51
+[28-Apr-2023 23:55:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'DB/DataObject.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/packages/DB/DataObject/Generator.php on line 51

@@ -1,0 +1,4 @@
+[28-Apr-2023 14:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Type' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/sequentialcreditnotes/settings/creditnote.setting.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/sequentialcreditnotes/settings/creditnote.setting.php on line 10

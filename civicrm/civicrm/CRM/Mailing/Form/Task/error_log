@@ -1,0 +1,8 @@
+[02-May-2023 06:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Form/Task/AdhocMailing.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Form/Task/AdhocMailing.php on line 21
+[02-May-2023 12:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Form/Task/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Form/Task/Print.php on line 21

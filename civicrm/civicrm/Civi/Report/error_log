@@ -1,0 +1,4 @@
+[25-Apr-2023 01:15:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Report\OutputHandlerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Report/OutputHandlerBase.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Report/OutputHandlerBase.php on line 16

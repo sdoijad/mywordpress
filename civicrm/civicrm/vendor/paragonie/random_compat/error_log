@@ -1,0 +1,2 @@
+[27-Apr-2023 11:24:03 America/New_York] PHP Warning:  require_once(lib/byte_safe_strings.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/psalm-autoload.php on line 3
+[27-Apr-2023 11:24:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'lib/byte_safe_strings.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/psalm-autoload.php on line 3

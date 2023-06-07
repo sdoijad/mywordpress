@@ -1,0 +1,12 @@
+[27-Apr-2023 13:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Entry.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Entry.php on line 23
+[29-Apr-2023 04:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Batch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Batch.php on line 17
+[29-Apr-2023 09:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/Form/Search.php on line 17

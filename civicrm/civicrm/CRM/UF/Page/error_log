@@ -1,0 +1,10 @@
+[28-Apr-2023 02:14:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/Group.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/Group.php on line 26
+[28-Apr-2023 05:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/Field.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/Field.php on line 26
+[28-Apr-2023 23:56:03 America/New_York] PHP Warning:  require_once(CRM/Core/Page.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/ProfileEditor.php on line 3
+[28-Apr-2023 23:56:03 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'CRM/Core/Page.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Page/ProfileEditor.php on line 3

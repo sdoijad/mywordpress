@@ -1,0 +1,12 @@
+[27-Apr-2023 02:28:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/Contribution.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/Contribution.php on line 22
+[28-Apr-2023 15:50:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/Search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/Search.php on line 17
+[29-Apr-2023 04:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/ContributionPage.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/StateMachine/ContributionPage.php on line 21

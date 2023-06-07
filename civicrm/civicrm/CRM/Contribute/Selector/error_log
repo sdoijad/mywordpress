@@ -1,0 +1,4 @@
+[27-Apr-2023 23:56:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Selector_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Selector/Search.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Selector/Search.php on line 20

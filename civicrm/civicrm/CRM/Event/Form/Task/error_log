@@ -1,0 +1,48 @@
+[01-May-2023 12:13:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/SaveSearch.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/SaveSearch.php on line 23
+[01-May-2023 21:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Delete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Delete.php on line 23
+[02-May-2023 12:10:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Result.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Result.php on line 23
+[02-May-2023 14:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/PDF.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/PDF.php on line 24
+[02-May-2023 16:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Email.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Email.php on line 22
+[02-May-2023 23:30:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Participant' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Register.php on line 26
+[03-May-2023 02:56:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Cancel.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Cancel.php on line 21
+[03-May-2023 08:57:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/AddToGroup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/AddToGroup.php on line 23
+[03-May-2023 10:26:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/PickProfile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/PickProfile.php on line 21
+[03-May-2023 12:22:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task_Batch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/ParticipantStatus.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/ParticipantStatus.php on line 17
+[03-May-2023 13:36:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Badge.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Badge.php on line 21
+[03-May-2023 19:00:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Form/Task/Print.php on line 21

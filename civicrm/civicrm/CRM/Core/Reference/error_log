@@ -1,0 +1,12 @@
+[28-Apr-2023 21:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Reference_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/Dynamic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/Dynamic.php on line 8
+[29-Apr-2023 05:23:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Core_Reference_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/Basic.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/Basic.php on line 8
+[29-Apr-2023 07:59:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Reference_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/OptionValue.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Reference/OptionValue.php on line 6

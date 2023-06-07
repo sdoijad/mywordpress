@@ -1,0 +1,14 @@
+[27-Apr-2023 03:18:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Search.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Search.php on line 15
+[28-Apr-2023 19:57:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Task.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Task.php on line 22
+[28-Apr-2023 22:28:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/ShortCode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/ShortCode.php on line 23
+[29-Apr-2023 05:02:00 America/New_York] PHP Warning:  require_once(HTML/QuickForm/Renderer/ArraySmarty.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Renderer.php on line 18
+[29-Apr-2023 05:02:00 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'HTML/QuickForm/Renderer/ArraySmarty.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Form/Renderer.php on line 18

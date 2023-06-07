@@ -1,0 +1,8 @@
+[01-May-2023 15:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\OAuth2\Client\Provider\GenericProvider' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/Civi/OAuth/CiviGenericProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/Civi/OAuth/CiviGenericProvider.php on line 21
+[01-May-2023 22:54:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/Civi/OAuth/OAuthException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/Civi/OAuth/OAuthException.php on line 4

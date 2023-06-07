@@ -1,0 +1,32 @@
+[01-May-2023 14:18:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Caster\CutStub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/CutArrayStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/CutArrayStub.php on line 19
+[01-May-2023 17:36:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Caster\EnumStub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/FrameStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/FrameStub.php on line 19
+[02-May-2023 01:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Caster\EnumStub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ArgsStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ArgsStub.php on line 21
+[02-May-2023 05:20:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Cloner\Stub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/TraceStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/TraceStub.php on line 21
+[02-May-2023 05:47:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Cloner\Stub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/CutStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/CutStub.php on line 21
+[02-May-2023 23:16:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Caster\ConstStub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ClassStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ClassStub.php on line 19
+[03-May-2023 06:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Cloner\Stub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ConstStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/ConstStub.php on line 21
+[03-May-2023 07:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Caster\ConstStub' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/LinkStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Caster/LinkStub.php on line 19

@@ -1,0 +1,4 @@
+[06-May-2023 20:57:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\Instantiator\InstantiatorInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/LazyProxy/Instantiator/RealServiceInstantiator.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/LazyProxy/Instantiator/RealServiceInstantiator.php on line 24

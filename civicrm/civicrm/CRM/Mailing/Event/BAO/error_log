@@ -1,0 +1,34 @@
+[01-May-2023 11:14:04 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Resubscribe.php on line 20
+[01-May-2023 11:14:04 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Resubscribe.php on line 20
+[01-May-2023 12:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_TrackableURLOpen' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/TrackableURLOpen.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/TrackableURLOpen.php on line 17
+[01-May-2023 17:02:54 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Unsubscribe.php on line 20
+[01-May-2023 17:02:54 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Unsubscribe.php on line 20
+[01-May-2023 17:55:15 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Subscribe.php on line 21
+[01-May-2023 17:55:15 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Subscribe.php on line 21
+[01-May-2023 22:51:01 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Confirm.php on line 20
+[01-May-2023 22:51:01 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Confirm.php on line 20
+[02-May-2023 14:51:25 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Reply.php on line 18
+[02-May-2023 14:51:25 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Reply.php on line 18
+[02-May-2023 20:24:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_Queue' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Queue.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Queue.php on line 17
+[02-May-2023 21:47:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_Opened' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Opened.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Opened.php on line 17
+[02-May-2023 22:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_Bounce' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Bounce.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Bounce.php on line 17
+[03-May-2023 12:47:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_Forward' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Forward.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Forward.php on line 17
+[03-May-2023 20:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Event_DAO_Delivered' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Delivered.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Event/BAO/Delivered.php on line 17

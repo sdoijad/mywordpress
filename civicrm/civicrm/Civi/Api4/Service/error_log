@@ -1,0 +1,4 @@
+[28-Apr-2023 22:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Core\Service\AutoServiceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/LegacySpecScanner.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Service/LegacySpecScanner.php on line 24

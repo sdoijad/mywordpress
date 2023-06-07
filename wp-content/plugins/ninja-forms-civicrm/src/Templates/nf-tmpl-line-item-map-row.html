@@ -1,0 +1,100 @@
+<script id="nf-tmpl-line-item-map-row" type="text/template">
+    <div>
+        <span class="dashicons dashicons-menu handle"></span>
+    </div>
+    <div>
+        <label class="has-merge-tags">
+            <input
+            type="text"
+            class="setting"
+            value="{{{ data.qty}}}"
+            data-id="qty"
+            placeholder="Quantity"
+            >
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+          </label>
+          <span class="nf-option-error"></span>
+    </div>
+    <div>
+      <label class="has-merge-tags">
+          <input
+              type="text"
+              class="setting"
+              value="{{{ data.unit_price}}}"
+              data-id="unit_price"
+              placeholder="Unit Price"
+          >
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+      <span class="nf-option-error"></span>
+    </div>
+    <div>
+      <label class="has-merge-tags">
+          <input
+              type="text"
+              class="setting"
+              value="{{{ data.line_total}}}"
+              data-id="line_total"
+              placeholder="Line Total"
+          >
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+      </label>
+      <span class="nf-option-error"></span>
+    </div>
+    <br />
+    <div style="width:50%;">
+      <label class="nf-select">Line Item Entity Type</label>
+      <select
+        type="text"
+        class="setting"
+        value="{{{data.entity_type}}}"
+        data-id="entity_type"
+        list="entity_type">
+        {{{data.renderOptions( 'entity_type', data.entity_type )}}}
+      </select>
+      <span class="nf-option-error"></span>
+  </div>
+  <div>
+      <label class="has-merge-tags">
+          <input
+              type="text"
+              class="setting"
+              value="{{{ data.price_field_id}}}"
+              data-id="price_field_id"
+              placeholder="Price Field Id"
+          >
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+      </label>
+      <span class="nf-option-error"></span>
+    </div>
+  <div>
+      <label class="has-merge-tags">
+          <input
+              type="text"
+              class="setting"
+              value="{{{ data.price_field_value_id}}}"
+              data-id="price_field_value_id"
+              placeholder="Price Field Value Id"
+          >
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+      </label>
+      <span class="nf-option-error"></span>
+    </div>
+  <div>
+      <label class="has-merge-tags">
+          <input
+              type="text"
+              class="setting"
+              value="{{{ data.linked_record_id}}}"
+              data-id="linked_record_id"
+              placeholder="Linked Record Id"
+          >
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+      </label>
+      <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <span class="dashicons dashicons-dismiss nf-delete"></span>
+    </div>
+    <hr />
+</script>

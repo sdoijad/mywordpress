@@ -1,0 +1,10 @@
+[27-Apr-2023 18:11:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_API_AbstractFieldCoder' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/HTMLInputCoder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/HTMLInputCoder.php on line 24
+[28-Apr-2023 19:28:18 America/New_York] PHP Warning:  require_once(api/Wrapper.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/NullOutputCoder.php on line 20
+[28-Apr-2023 19:28:18 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'api/Wrapper.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/NullOutputCoder.php on line 20
+[29-Apr-2023 05:27:59 America/New_York] PHP Warning:  require_once(api/Wrapper.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/AbstractFieldCoder.php on line 20
+[29-Apr-2023 05:27:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'api/Wrapper.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/AbstractFieldCoder.php on line 20
+[29-Apr-2023 07:34:53 America/New_York] PHP Warning:  require_once(api/Wrapper.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/ReloadOption.php on line 28
+[29-Apr-2023 07:34:53 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'api/Wrapper.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/API/ReloadOption.php on line 28

@@ -1,0 +1,16 @@
+[27-Apr-2023 13:25:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/AbstractPreview.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/AbstractPreview.php on line 23
+[27-Apr-2023 18:30:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_UF_Form_AbstractPreview' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Preview.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Preview.php on line 23
+[27-Apr-2023 21:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Field.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Field.php on line 21
+[28-Apr-2023 18:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_UF_Form_Group' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/AdvanceSetting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/AdvanceSetting.php on line 17

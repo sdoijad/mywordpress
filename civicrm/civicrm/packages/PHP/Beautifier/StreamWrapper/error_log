@@ -1,0 +1,4 @@
+[03-May-2023 03:07:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHP_Beautifier_StreamWrapper_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/StreamWrapper/Tarz.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/packages/PHP/Beautifier/StreamWrapper/Tarz.php on line 41

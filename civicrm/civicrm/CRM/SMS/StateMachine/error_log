@@ -1,0 +1,4 @@
+[28-Apr-2023 02:22:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_StateMachine' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/StateMachine/Send.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/StateMachine/Send.php on line 21

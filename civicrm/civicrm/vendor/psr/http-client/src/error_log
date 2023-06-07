@@ -1,0 +1,8 @@
+[02-May-2023 15:59:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Client\ClientExceptionInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[03-May-2023 11:37:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Http\Client\ClientExceptionInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14

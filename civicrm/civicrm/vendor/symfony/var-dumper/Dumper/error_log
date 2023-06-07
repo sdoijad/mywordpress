@@ -1,0 +1,12 @@
+[01-May-2023 12:00:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\DataDumperInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/AbstractDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 22
+[01-May-2023 21:13:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 22
+[03-May-2023 10:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\VarDumper\Dumper\AbstractDumper' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/CliDumper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 22

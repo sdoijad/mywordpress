@@ -1,0 +1,4 @@
+[20-Apr-2023 04:38:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi' not found in /home/naundpsy/public_html/civicrm/civicrm/ang/crmUi.ang.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ang/crmUi.ang.php on line 3

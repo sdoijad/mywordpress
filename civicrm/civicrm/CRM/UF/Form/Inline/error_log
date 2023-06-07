@@ -1,0 +1,8 @@
+[01-May-2023 11:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_UF_Form_AbstractPreview' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Inline/Preview.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Inline/Preview.php on line 16
+[02-May-2023 07:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_UF_Form_AbstractPreview' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Inline/PreviewById.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/UF/Form/Inline/PreviewById.php on line 23

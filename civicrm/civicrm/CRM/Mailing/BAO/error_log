@@ -1,0 +1,36 @@
+[27-Apr-2023 01:21:29 America/New_York] PHP Warning:  require_once(Mail/mime.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Mailing.php on line 20
+[27-Apr-2023 01:21:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail/mime.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Mailing.php on line 20
+[27-Apr-2023 02:24:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_Recipients' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Recipients.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Recipients.php on line 17
+[27-Apr-2023 09:40:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_BouncePattern' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/BouncePattern.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/BouncePattern.php on line 17
+[27-Apr-2023 11:14:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_BAO_MailingJob' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/SMSJob.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/SMSJob.php on line 6
+[27-Apr-2023 14:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_BAO_MailingComponent' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Component.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Component.php on line 8
+[28-Apr-2023 02:13:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_MailingComponent' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingComponent.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingComponent.php on line 17
+[28-Apr-2023 12:14:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_TrackableURL' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/TrackableURL.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/TrackableURL.php on line 17
+[28-Apr-2023 14:26:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_MailingAB' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingAB.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingAB.php on line 21
+[29-Apr-2023 00:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_DAO_Spool' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Spool.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/Spool.php on line 17
+[29-Apr-2023 02:54:32 America/New_York] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingJob.php on line 19
+[29-Apr-2023 02:54:32 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/BAO/MailingJob.php on line 19

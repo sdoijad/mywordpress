@@ -1,0 +1,84 @@
+[27-Apr-2023 03:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/LabelFormats.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/LabelFormats.php on line 38
+[27-Apr-2023 04:21:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Generic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Generic.php on line 23
+[27-Apr-2023 08:36:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PaymentProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PaymentProcessor.php on line 21
+[27-Apr-2023 10:06:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Extensions.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Extensions.php on line 21
+[27-Apr-2023 13:30:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ScheduleReminders.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ScheduleReminders.php on line 21
+[27-Apr-2023 14:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Setting.php on line 21
+[27-Apr-2023 18:14:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/OptionGroup.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/OptionGroup.php on line 21
+[27-Apr-2023 19:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/MailSettings.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/MailSettings.php on line 22
+[27-Apr-2023 20:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/LocationType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/LocationType.php on line 21
+[28-Apr-2023 02:38:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Job.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Job.php on line 21
+[28-Apr-2023 03:27:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PdfFormats.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PdfFormats.php on line 38
+[28-Apr-2023 12:05:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/WordReplacements.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/WordReplacements.php on line 17
+[28-Apr-2023 16:58:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/CMSUser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/CMSUser.php on line 21
+[28-Apr-2023 17:19:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/RelationshipType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/RelationshipType.php on line 21
+[28-Apr-2023 18:26:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PaymentProcessorType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PaymentProcessorType.php on line 21
+[28-Apr-2023 21:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/MessageTemplates.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/MessageTemplates.php on line 25
+[28-Apr-2023 22:35:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Navigation.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Navigation.php on line 21
+[28-Apr-2023 23:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ContactType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ContactType.php on line 21
+[29-Apr-2023 03:11:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PreferencesDate.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/PreferencesDate.php on line 21
+[29-Apr-2023 09:55:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ParticipantStatusType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/ParticipantStatusType.php on line 17
+[29-Apr-2023 12:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Admin_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Mapping.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Admin/Form/Mapping.php on line 21

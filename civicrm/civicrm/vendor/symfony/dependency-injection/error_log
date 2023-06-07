@@ -1,0 +1,44 @@
+[27-Apr-2023 02:20:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[27-Apr-2023 09:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\ExpressionLanguage\ExpressionFunctionProviderInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 25
+[27-Apr-2023 09:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Definition' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ChildDefinition.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ChildDefinition.php on line 23
+[27-Apr-2023 16:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ResettableContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Container.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Container.php on line 48
+[28-Apr-2023 03:56:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ResettableContainerInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ResettableContainerInterface.php on line 25
+[28-Apr-2023 08:44:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ServiceProviderInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ServiceLocator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ServiceLocator.php on line 27
+[28-Apr-2023 10:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[28-Apr-2023 11:58:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\EnvVarProcessorInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/EnvVarProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 21
+[28-Apr-2023 14:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ContainerInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ContainerInterface.php on line 25
+[28-Apr-2023 21:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Container' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ContainerBuilder.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ContainerBuilder.php on line 52
+[29-Apr-2023 10:22:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ServiceSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ServiceSubscriberInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/ServiceSubscriberInterface.php on line 21

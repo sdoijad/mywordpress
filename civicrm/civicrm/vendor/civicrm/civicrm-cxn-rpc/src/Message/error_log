@@ -1,0 +1,20 @@
+[05-May-2023 21:49:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Message' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/RegistrationMessage.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/RegistrationMessage.php on line 38
+[06-May-2023 08:12:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Message' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/AppMetasMessage.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/AppMetasMessage.php on line 28
+[06-May-2023 21:21:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Message' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/GarbledMessage.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/GarbledMessage.php on line 29
+[07-May-2023 02:55:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Message' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/StdMessage.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/StdMessage.php on line 22
+[08-May-2023 02:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Message' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/InsecureMessage.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Message/InsecureMessage.php on line 28

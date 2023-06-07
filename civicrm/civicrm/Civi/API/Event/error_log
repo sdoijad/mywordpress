@@ -1,0 +1,24 @@
+[27-Apr-2023 04:26:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Event\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/ResolveEvent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/ResolveEvent.php on line 24
+[27-Apr-2023 09:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Event\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/ExceptionEvent.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/ExceptionEvent.php on line 19
+[27-Apr-2023 10:04:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Event\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/AuthorizeEvent.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/AuthorizeEvent.php on line 27
+[27-Apr-2023 18:43:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Event\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/RespondEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/RespondEvent.php on line 22
+[27-Apr-2023 18:54:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Event\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/PrepareEvent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/PrepareEvent.php on line 24
+[29-Apr-2023 04:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/Event.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Event/Event.php on line 18

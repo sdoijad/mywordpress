@@ -1,0 +1,12 @@
+[28-Apr-2023 18:56:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Search_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/TagUsedFor.mgd.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/TagUsedFor.mgd.php on line 17
+[28-Apr-2023 22:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Search_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/SearchDisplayType.mgd.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/SearchDisplayType.mgd.php on line 39
+[29-Apr-2023 07:43:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Domain' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/Navigation_search_kit.mgd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/managed/Navigation_search_kit.mgd.php on line 5

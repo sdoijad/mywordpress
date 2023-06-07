@@ -1,0 +1,4 @@
+[27-Apr-2023 05:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\Result' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Result/ReplaceResult.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Result/ReplaceResult.php on line 20

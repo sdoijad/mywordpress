@@ -1,0 +1,24 @@
+[27-Apr-2023 08:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityView.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityView.php on line 21
+[27-Apr-2023 11:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityFilter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityFilter.php on line 21
+[27-Apr-2023 13:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task.php on line 22
+[27-Apr-2023 15:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Search' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Search.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Search.php on line 21
+[28-Apr-2023 00:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityLinks.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/ActivityLinks.php on line 21
+[29-Apr-2023 09:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Activity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Activity.php on line 21

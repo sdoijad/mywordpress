@@ -1,0 +1,5 @@
+[02-May-2023 19:48:55 America/New_York] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/naundpsy/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/paragonie/random_compat/other/build_phar.php on line 12

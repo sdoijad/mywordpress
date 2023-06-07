@@ -1,0 +1,12 @@
+[06-May-2023 03:19:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Padaliyajay\PHPAutoprefixer\Vendor\Vendor' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/IE.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/IE.php on line 6
+[08-May-2023 04:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Padaliyajay\PHPAutoprefixer\Vendor\Vendor' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/Webkit.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/Webkit.php on line 6
+[08-May-2023 05:29:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Padaliyajay\PHPAutoprefixer\Vendor\Vendor' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/Mozilla.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/padaliyajay/php-autoprefixer/src/Vendor/Mozilla.php on line 6

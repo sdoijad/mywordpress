@@ -1,0 +1,336 @@
+[22-Apr-2023 19:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionSoft.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionSoft.php on line 20
+[22-Apr-2023 21:14:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event.php on line 22
+[23-Apr-2023 00:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CiviCase.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CiviCase.php on line 23
+[23-Apr-2023 02:25:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ACLEntityRole.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ACLEntityRole.php on line 20
+[23-Apr-2023 02:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Batch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Batch.php on line 21
+[23-Apr-2023 03:56:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/File.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/File.php on line 20
+[23-Apr-2023 04:17:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityBatch.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityBatch.php on line 29
+[23-Apr-2023 05:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DashboardContact.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DashboardContact.php on line 24
+[23-Apr-2023 06:14:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseActivity.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseActivity.php on line 23
+[23-Apr-2023 06:42:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Extension.php on line 21
+[23-Apr-2023 08:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityFinancialTrxn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityFinancialTrxn.php on line 23
+[23-Apr-2023 08:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseContact.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseContact.php on line 23
+[23-Apr-2023 09:29:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeRule.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeRule.php on line 23
+[23-Apr-2023 09:43:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityTag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityTag.php on line 21
+[23-Apr-2023 09:46:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeException.php on line 23
+[23-Apr-2023 11:56:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Dashboard.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Dashboard.php on line 27
+[23-Apr-2023 13:01:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ExampleData.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ExampleData.php on line 21
+[23-Apr-2023 15:04:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionProduct.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionProduct.php on line 21
+[23-Apr-2023 15:54:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CaseType.php on line 23
+[23-Apr-2023 19:15:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Campaign.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Campaign.php on line 21
+[23-Apr-2023 21:00:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Contact.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Contact.php on line 28
+[23-Apr-2023 21:21:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Domain.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Domain.php on line 21
+[23-Apr-2023 22:28:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ACL.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ACL.php on line 29
+[24-Apr-2023 01:51:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ActionSchedule.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ActionSchedule.php on line 27
+[24-Apr-2023 02:17:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionPage.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionPage.php on line 20
+[24-Apr-2023 06:04:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Email.php on line 26
+[24-Apr-2023 06:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CustomField.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CustomField.php on line 23
+[24-Apr-2023 07:10:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Activity.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Activity.php on line 30
+[24-Apr-2023 09:07:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Address.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Address.php on line 28
+[24-Apr-2023 13:25:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContactType.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContactType.php on line 28
+[24-Apr-2023 15:46:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CustomGroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/CustomGroup.php on line 22
+[24-Apr-2023 16:41:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeRuleGroup.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/DedupeRuleGroup.php on line 23
+[24-Apr-2023 21:42:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ActivityContact.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ActivityContact.php on line 26
+[24-Apr-2023 23:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Entity.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Entity.php on line 22
+[25-Apr-2023 00:25:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionRecur.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/ContributionRecur.php on line 20
+[25-Apr-2023 01:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Country.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Country.php on line 20
+[25-Apr-2023 02:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityFinancialAccount.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/EntityFinancialAccount.php on line 24
+[25-Apr-2023 03:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Contribution.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Contribution.php on line 20
+[27-Apr-2023 02:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/FinancialAccount.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/FinancialAccount.php on line 24
+[27-Apr-2023 04:11:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Setting.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Setting.php on line 23
+[27-Apr-2023 04:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Tag.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Tag.php on line 24
+[27-Apr-2023 04:26:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PledgePayment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PledgePayment.php on line 20
+[27-Apr-2023 06:57:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MailingGroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MailingGroup.php on line 22
+[27-Apr-2023 09:02:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/WordReplacement.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/WordReplacement.php on line 22
+[27-Apr-2023 11:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceSetEntity.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceSetEntity.php on line 20
+[27-Apr-2023 12:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFGroup.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFGroup.php on line 20
+[27-Apr-2023 12:28:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentToken.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentToken.php on line 22
+[27-Apr-2023 15:13:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Website.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Website.php on line 20
+[27-Apr-2023 16:03:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/GroupContact.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/GroupContact.php on line 26
+[27-Apr-2023 18:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/RelationshipType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/RelationshipType.php on line 22
+[27-Apr-2023 20:07:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/StateProvince.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/StateProvince.php on line 20
+[28-Apr-2023 03:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UserJob.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UserJob.php on line 22
+[28-Apr-2023 03:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceSet.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceSet.php on line 20
+[28-Apr-2023 06:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PrintLabel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PrintLabel.php on line 19
+[28-Apr-2023 07:03:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceFieldValue.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceFieldValue.php on line 22
+[28-Apr-2023 08:28:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFMatch.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFMatch.php on line 20
+[28-Apr-2023 08:34:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Survey.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Survey.php on line 21
+[28-Apr-2023 09:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MembershipType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MembershipType.php on line 22
+[28-Apr-2023 10:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Managed.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Managed.php on line 23
+[28-Apr-2023 10:05:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Relationship.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Relationship.php on line 21
+[28-Apr-2023 11:26:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Participant.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Participant.php on line 20
+[28-Apr-2023 11:42:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Translation.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Translation.php on line 19
+[28-Apr-2023 12:43:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/StatusPreference.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/StatusPreference.php on line 22
+[28-Apr-2023 13:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/WorkflowMessage.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/WorkflowMessage.php on line 42
+[28-Apr-2023 13:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Route.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Route.php on line 25
+[28-Apr-2023 15:47:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Pledge.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Pledge.php on line 21
+[28-Apr-2023 15:52:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Product.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Product.php on line 21
+[28-Apr-2023 17:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Queue.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Queue.php on line 26
+[28-Apr-2023 18:47:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/SubscriptionHistory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/SubscriptionHistory.php on line 20
+[28-Apr-2023 18:58:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\BasicEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/RecentItem.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/RecentItem.php on line 25
+[28-Apr-2023 20:51:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/IM.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/IM.php on line 22
+[28-Apr-2023 21:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Permission.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Permission.php on line 24
+[28-Apr-2023 23:42:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PCPBlock.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PCPBlock.php on line 22
+[29-Apr-2023 01:57:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentProcessorType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentProcessorType.php on line 22
+[29-Apr-2023 02:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/FinancialTrxn.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/FinancialTrxn.php on line 27
+[29-Apr-2023 03:07:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\AbstractEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/System.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/System.php on line 20
+[29-Apr-2023 03:58:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MailingJob.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/MailingJob.php on line 26
+[29-Apr-2023 04:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PCP.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PCP.php on line 23
+[29-Apr-2023 06:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFField.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/UFField.php on line 22
+[29-Apr-2023 06:56:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Phone.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Phone.php on line 26
+[29-Apr-2023 09:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PaymentProcessor.php on line 21
+[29-Apr-2023 11:58:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/OptionValue.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/OptionValue.php on line 23
+[29-Apr-2023 12:37:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceField.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/PriceField.php on line 22
+[29-Apr-2023 12:46:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/SavedSearch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/SavedSearch.php on line 24

@@ -1,0 +1,44 @@
+[27-Apr-2023 01:37:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Payment_Processors.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Payment_Processors.mgd.php on line 14
+[27-Apr-2023 12:23:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Financial_Accounts.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Financial_Accounts.mgd.php on line 14
+[27-Apr-2023 15:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Custom_Fields.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Custom_Fields.mgd.php on line 14
+[27-Apr-2023 19:01:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Custom_Groups.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Custom_Groups.mgd.php on line 14
+[27-Apr-2023 22:49:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Contact_Types.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Contact_Types.mgd.php on line 14
+[28-Apr-2023 01:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Location_Types.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Location_Types.mgd.php on line 14
+[28-Apr-2023 07:49:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Profiles.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Profiles.mgd.php on line 14
+[28-Apr-2023 13:06:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Financial_Types.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Financial_Types.mgd.php on line 14
+[28-Apr-2023 13:47:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_ProfileFields.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_ProfileFields.mgd.php on line 14
+[29-Apr-2023 03:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Assigned_Financial_Accounts.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Assigned_Financial_Accounts.mgd.php on line 14
+[29-Apr-2023 08:53:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_CivicrmAdminUi_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Relationship_Types.mgd.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civicrm_admin_ui/managed/SavedSearch_Administer_Relationship_Types.mgd.php on line 14

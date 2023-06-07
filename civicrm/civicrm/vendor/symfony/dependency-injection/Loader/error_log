@@ -1,0 +1,32 @@
+[01-May-2023 13:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/FileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/FileLoader.php on line 30
+[01-May-2023 16:31:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\Loader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/ClosureLoader.php on line 24
+[01-May-2023 18:16:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php on line 40
+[02-May-2023 02:41:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/IniFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/IniFileLoader.php on line 22
+[02-May-2023 03:46:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/GlobFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/GlobFileLoader.php on line 19
+[02-May-2023 05:56:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/XmlFileLoader.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/XmlFileLoader.php on line 36
+[02-May-2023 16:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/DirectoryLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/DirectoryLoader.php on line 19
+[03-May-2023 15:57:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\FileLoader' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/PhpFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/dependency-injection/Loader/PhpFileLoader.php on line 24

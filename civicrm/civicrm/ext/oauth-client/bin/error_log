@@ -1,0 +1,4 @@
+[28-Apr-2023 11:54:11 America/New_York] PHP Fatal error:  Uncaught Exception: Cannot redirect. The script local-redir.php must be launched PHP standalone mode (ex: DEST=http://example.com/ php -S localhost:3000). in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/bin/local-redir.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/bin/local-redir.php on line 4

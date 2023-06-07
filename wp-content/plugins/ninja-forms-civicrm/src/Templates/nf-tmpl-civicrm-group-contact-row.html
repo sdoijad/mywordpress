@@ -1,0 +1,29 @@
+<script id="nf-tmpl-civicrm-group-contact-row" type="text/template">
+  <div>
+      <span class="dashicons dashicons-menu handle"></span>
+  </div>
+  <div>
+      <label class="">Group Id</label>
+          <input type="text" class="setting" value="{{{ data.group_id}}}" data-id="group_id" placeholder="Group">
+
+
+      <span class="nf-option-error"></span>
+  </div>
+  <div>
+      <label class="has-merge-tags">Static Conditional Form Field</label>
+          <input type="text" class="setting" value="{{{ data.field_conditional}}}" data-id="field_conditional" placeholder="Optional Field Conditional">
+          <span class="dashicons dashicons-list-view merge-tags"></span>
+      
+      <span class="nf-option-error"></span>
+  </div>
+  <div>
+      <label class="">== Value</label>
+          <input type="text" class="setting" value="{{{ data.field_conditional_match_value }}}" data-id="field_conditional_match_value" placeholder="Optional Field Conditional Match">
+      <span class="nf-option-error"></span>
+  </div>
+
+  <div>
+      <span class="dashicons dashicons-dismiss nf-delete"></span>
+  </div>
+  <hr />
+</script>

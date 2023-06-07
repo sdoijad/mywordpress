@@ -1,0 +1,16 @@
+[27-Apr-2023 04:08:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_DAO_Case' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/Case.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/Case.php on line 22
+[27-Apr-2023 18:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_DAO_CaseContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/CaseContact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/CaseContact.php on line 21
+[28-Apr-2023 06:37:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_DAO_CaseType' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/CaseType.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/CaseType.php on line 21
+[28-Apr-2023 16:47:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_BAO_Query' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/Query.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/BAO/Query.php on line 17

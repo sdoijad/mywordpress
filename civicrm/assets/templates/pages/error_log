@@ -1,0 +1,42 @@
+[25-Mar-2023 15:27:27 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "CIVICRM_PLUGIN_URL" in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php on line 23
+[25-Mar-2023 15:27:32 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "CIVICRM_PLUGIN_URL" in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php on line 23
+[25-Mar-2023 15:28:31 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "CIVICRM_PLUGIN_URL" in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php on line 23
+[22-Apr-2023 16:21:32 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php on line 23
+[22-Apr-2023 16:21:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php on line 23
+[24-Apr-2023 17:51:31 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php on line 23
+[24-Apr-2023 17:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php on line 23
+[26-Apr-2023 21:38:03 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php on line 23
+[26-Apr-2023 21:38:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php on line 23
+[03-May-2023 16:11:39 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php on line 23
+[03-May-2023 16:11:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.error.php on line 23
+[03-May-2023 16:13:20 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php on line 23
+[03-May-2023 16:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.options.php on line 23
+[03-May-2023 16:13:38 America/New_York] PHP Warning:  Use of undefined constant CIVICRM_PLUGIN_URL - assumed 'CIVICRM_PLUGIN_URL' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php on line 23
+[03-May-2023 16:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/pages/page.integration.php on line 23

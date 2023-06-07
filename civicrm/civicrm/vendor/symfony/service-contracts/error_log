@@ -1,0 +1,4 @@
+[29-Apr-2023 07:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/service-contracts/ServiceProviderInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 22

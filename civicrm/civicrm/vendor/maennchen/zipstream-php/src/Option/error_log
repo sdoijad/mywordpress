@@ -1,0 +1,4 @@
+[08-May-2023 04:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'MyCLabs\Enum\Enum' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/maennchen/zipstream-php/src/Option/Version.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/maennchen/zipstream-php/src/Option/Version.php on line 17

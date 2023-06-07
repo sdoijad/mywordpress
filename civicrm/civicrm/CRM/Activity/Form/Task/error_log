@@ -1,0 +1,40 @@
+[01-May-2023 16:58:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/RemoveFromTag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/RemoveFromTag.php on line 21
+[01-May-2023 21:20:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PDF.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PDF.php on line 17
+[01-May-2023 22:11:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/Print.php on line 21
+[02-May-2023 15:41:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/SMS.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/SMS.php on line 20
+[03-May-2023 00:23:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PickOption.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PickOption.php on line 21
+[03-May-2023 01:29:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form_Task_PDFLetterCommon' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PDFLetterCommon.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PDFLetterCommon.php on line 20
+[03-May-2023 07:44:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/AddToTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/AddToTag.php on line 22
+[03-May-2023 17:00:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/FileOnCase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/FileOnCase.php on line 21
+[03-May-2023 19:28:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/Email.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/Email.php on line 21
+[05-May-2023 02:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PickProfile.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Form/Task/PickProfile.php on line 21

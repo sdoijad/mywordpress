@@ -1,0 +1,8 @@
+[06-May-2023 18:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'ScssPhp\ScssPhp\Exception\SassException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Exception/ParserException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Exception/ParserException.php on line 22
+[07-May-2023 14:37:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'ScssPhp\ScssPhp\Exception\SassException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Exception/CompilerException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Exception/CompilerException.php on line 22

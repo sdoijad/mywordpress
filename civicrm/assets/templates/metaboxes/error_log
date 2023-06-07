@@ -1,0 +1,156 @@
+[25-Mar-2023 15:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php on line 28
+[25-Mar-2023 15:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php on line 28
+[25-Mar-2023 15:27:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php on line 21
+[25-Mar-2023 15:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php on line 22
+[25-Mar-2023 15:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php on line 28
+[25-Mar-2023 15:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php on line 28
+[25-Mar-2023 15:28:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php on line 21
+[25-Mar-2023 15:28:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php on line 28
+[25-Mar-2023 15:28:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php on line 22
+[25-Mar-2023 15:28:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php on line 28
+[25-Mar-2023 15:28:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php on line 22
+[25-Mar-2023 15:28:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php on line 21
+[25-Mar-2023 15:28:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php on line 28
+[22-Apr-2023 20:02:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php on line 21
+[22-Apr-2023 21:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php on line 28
+[22-Apr-2023 22:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php on line 28
+[22-Apr-2023 23:00:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php on line 28
+[23-Apr-2023 09:32:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php on line 28
+[23-Apr-2023 17:55:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php on line 21
+[23-Apr-2023 18:04:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php on line 28
+[24-Apr-2023 02:23:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php on line 28
+[24-Apr-2023 05:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php on line 21
+[24-Apr-2023 13:45:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php on line 22
+[24-Apr-2023 17:51:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php on line 22
+[24-Apr-2023 20:15:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php on line 28
+[25-Apr-2023 01:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php on line 22
+[03-May-2023 16:11:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.basepage.php on line 28
+[03-May-2023 16:12:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.ext.php on line 21
+[03-May-2023 16:12:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.permissions.php on line 28
+[03-May-2023 16:12:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.help.php on line 22
+[03-May-2023 16:13:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.shortcode.php on line 28
+[03-May-2023 16:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.wordpress.php on line 21
+[03-May-2023 16:13:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.email.php on line 28
+[03-May-2023 16:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.repo.git.php on line 21
+[03-May-2023 16:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.cache.php on line 28
+[03-May-2023 16:13:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.php.php on line 22
+[03-May-2023 16:14:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.options.links.php on line 28
+[03-May-2023 16:14:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.error.path.php on line 22
+[03-May-2023 16:14:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/assets/templates/metaboxes/metabox.contact.add.php on line 28

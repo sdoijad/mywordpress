@@ -1,0 +1,4 @@
+[27-Apr-2023 16:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Extension_Upgrader_Interface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Upgrader/Base.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Extension/Upgrader/Base.php on line 20

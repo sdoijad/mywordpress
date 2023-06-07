@@ -1,0 +1,12 @@
+[27-Apr-2023 03:01:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_XMLProcessor' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Settings.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Settings.php on line 17
+[28-Apr-2023 08:58:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_XMLProcessor' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Process.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Process.php on line 17
+[28-Apr-2023 10:18:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Case_XMLProcessor' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Report.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Case/XMLProcessor/Report.php on line 17

@@ -1,0 +1,8 @@
+[02-May-2023 09:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Pool.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[03-May-2023 02:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\ClientInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Client.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Client.php on line 26

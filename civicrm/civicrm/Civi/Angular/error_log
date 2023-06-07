@@ -1,0 +1,4 @@
+[24-Apr-2023 08:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Angular\ChangeSetInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/ChangeSet.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Angular/ChangeSet.php on line 4

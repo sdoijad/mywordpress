@@ -1,0 +1,4 @@
+[07-May-2023 01:11:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 15

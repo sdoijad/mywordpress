@@ -1,0 +1,4 @@
+[27-Apr-2023 04:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'TYPO3\PharStreamWrapper\Assertable' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Security/PharExtensionInterceptor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Security/PharExtensionInterceptor.php on line 17

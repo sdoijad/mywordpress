@@ -1,0 +1,24 @@
+[27-Apr-2023 08:42:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_CodeGen_BaseTask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Config.php on line 6
+[28-Apr-2023 09:08:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_CodeGen_BaseTask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/DAO.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/DAO.php on line 6
+[28-Apr-2023 17:01:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_CodeGen_BaseTask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/I18n.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/I18n.php on line 6
+[28-Apr-2023 17:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Core_CodeGen_ITask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/BaseTask.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/BaseTask.php on line 6
+[28-Apr-2023 17:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_CodeGen_BaseTask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Reflection.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Reflection.php on line 6
+[29-Apr-2023 12:37:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_CodeGen_BaseTask' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/CodeGen/Test.php on line 6

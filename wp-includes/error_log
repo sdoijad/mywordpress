@@ -1,0 +1,16 @@
+[09-May-2023 01:12:23 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/wp-includes/class-wp-http.php on line 11
+[09-May-2023 01:12:23 America/New_York] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/naundpsy/public_html/wp-includes/class-wp-http.php on line 11
+[09-May-2023 01:12:23 America/New_York] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/wp-includes/class-wp-http.php on line 11
+[09-May-2023 01:12:23 America/New_York] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/wp-includes/class-wp-http.php on line 11
+[09-May-2023 01:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/naundpsy/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/wp-includes/class-wp-scripts.php on line 18
+[09-May-2023 01:12:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/naundpsy/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/wp-includes/class-wp-styles.php on line 18
+[09-May-2023 01:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/naundpsy/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/wp-includes/template-canvas.php on line 12

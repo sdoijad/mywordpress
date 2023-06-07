@@ -1,0 +1,32 @@
+[27-Apr-2023 09:42:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/UnitTests.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/UnitTests.php on line 21
+[27-Apr-2023 16:46:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Drupal.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Drupal.php on line 21
+[27-Apr-2023 18:18:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/WordPress.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/WordPress.php on line 21
+[28-Apr-2023 03:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Backdrop.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Backdrop.php on line 21
+[28-Apr-2023 07:19:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Soap.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Soap.php on line 21
+[28-Apr-2023 08:17:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Joomla.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Joomla.php on line 21
+[28-Apr-2023 17:32:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Drupal8.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/Drupal8.php on line 21
+[28-Apr-2023 21:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_System_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/DrupalBase.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/System/DrupalBase.php on line 21

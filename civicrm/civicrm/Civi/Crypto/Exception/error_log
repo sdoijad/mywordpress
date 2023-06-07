@@ -1,0 +1,4 @@
+[27-Apr-2023 09:40:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Crypto/Exception/CryptoException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Crypto/Exception/CryptoException.php on line 7

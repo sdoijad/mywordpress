@@ -1,0 +1,16 @@
+[28-Apr-2023 13:42:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\API\Provider\ProviderInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/WrappingProvider.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/WrappingProvider.php on line 22
+[28-Apr-2023 15:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\API\Provider\AdhocProvider' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/StaticProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/StaticProvider.php on line 23
+[28-Apr-2023 17:01:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/AdhocProvider.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/AdhocProvider.php on line 20
+[29-Apr-2023 07:05:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php on line 21

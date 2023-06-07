@@ -1,0 +1,12 @@
+[27-Apr-2023 13:32:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Group.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Group.php on line 21
+[28-Apr-2023 04:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Upload.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Upload.php on line 21
+[29-Apr-2023 03:04:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Schedule.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/SMS/Form/Schedule.php on line 17

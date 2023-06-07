@@ -1,0 +1,8 @@
+[28-Apr-2023 06:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_SQL_BaseParamQuery' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/SQL/Delete.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/SQL/Delete.php on line 66
+[29-Apr-2023 05:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_SQL_BaseParamQuery' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/SQL/Select.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/SQL/Select.php on line 67

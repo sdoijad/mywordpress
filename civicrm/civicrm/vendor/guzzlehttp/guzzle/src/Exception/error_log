@@ -1,0 +1,32 @@
+[05-May-2023 22:01:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Exception\BadResponseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php on line 7
+[07-May-2023 01:17:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Exception\GuzzleException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php on line 5
+[07-May-2023 05:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Exception\BadResponseException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php on line 7
+[07-May-2023 14:43:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Exception\RequestException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php on line 10
+[07-May-2023 14:50:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Exception\GuzzleException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php on line 9
+[07-May-2023 15:58:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Exception\TransferException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 12
+[08-May-2023 00:30:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Exception\RequestException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php on line 4
+[08-May-2023 04:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Exception\GuzzleException' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php on line 4

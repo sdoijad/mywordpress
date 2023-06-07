@@ -1,0 +1,8 @@
+[27-Apr-2023 13:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Api4/Page/AJAX.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Api4/Page/AJAX.php on line 18
+[27-Apr-2023 15:03:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Api4/Page/Api4Explorer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Api4/Page/Api4Explorer.php on line 20

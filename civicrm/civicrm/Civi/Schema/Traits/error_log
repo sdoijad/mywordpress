@@ -1,0 +1,1 @@
+[27-Apr-2023 06:25:50 America/New_York] PHP Fatal error:  Trait 'Civi\Schema\Traits\DataTypeSpecTrait' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Schema/Traits/PhpDataTypeSpecTrait.php on line 24

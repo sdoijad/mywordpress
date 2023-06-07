@@ -1,0 +1,12 @@
+[02-May-2023 02:16:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/UnixPipes.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[03-May-2023 01:56:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[03-May-2023 09:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/process/Pipes/AbstractPipes.php on line 21

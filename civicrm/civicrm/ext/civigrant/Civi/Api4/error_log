@@ -1,0 +1,4 @@
+[01-May-2023 20:14:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOEntity' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/Civi/Api4/Grant.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civigrant/Civi/Api4/Grant.php on line 24

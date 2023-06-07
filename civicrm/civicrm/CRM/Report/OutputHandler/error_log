@@ -1,0 +1,12 @@
+[27-Apr-2023 12:18:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Report\OutputHandlerBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Csv.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Csv.php on line 18
+[28-Apr-2023 23:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Report\OutputHandlerBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Print.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Print.php on line 18
+[29-Apr-2023 13:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Report\OutputHandlerBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Pdf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/OutputHandler/Pdf.php on line 18

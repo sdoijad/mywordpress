@@ -1,0 +1,8 @@
+[03-May-2023 17:45:20 America/New_York] PHP Notice:  Undefined index: data in /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php on line 106
+[03-May-2023 17:45:20 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php on line 37
+[03-May-2023 17:45:20 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php on line 41
+[03-May-2023 17:45:20 America/New_York] PHP Fatal error:  Uncaught Exception: Host '' not authorized to make requests. in /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php:41
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php(106): jQueryServer->__construct(NULL)
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/rubobaquero/phpquery/jQueryServer/jQueryServer.php on line 41

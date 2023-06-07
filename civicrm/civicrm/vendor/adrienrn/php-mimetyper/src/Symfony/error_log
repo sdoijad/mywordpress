@@ -1,0 +1,10 @@
+[06-May-2023 10:22:16 America/New_York] PHP Warning:  Class 'Madhouse\HttpFoundation\File\MimeType\MimeTypeGuesserInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/MimeContentMimeTypeGuesser.php on line 17
+[06-May-2023 10:22:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'MimeTyper\Symfony\MimeTypeGuesserInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/MimeContentMimeTypeGuesser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/MimeContentMimeTypeGuesser.php on line 28
+[07-May-2023 03:13:20 America/New_York] PHP Warning:  Class 'Madhouse\HttpFoundation\File\MimeType\ExtensionGuesserInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/ExtraMimeTypeExtensionGuesser.php on line 17
+[07-May-2023 03:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'MimeTyper\Symfony\ExtensionGuesserInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/ExtraMimeTypeExtensionGuesser.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/adrienrn/php-mimetyper/src/Symfony/ExtraMimeTypeExtensionGuesser.php on line 45

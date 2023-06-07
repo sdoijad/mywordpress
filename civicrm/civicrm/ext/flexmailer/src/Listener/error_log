@@ -1,0 +1,48 @@
+[01-May-2023 13:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/TestPrefix.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/TestPrefix.php on line 15
+[01-May-2023 16:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/HookAdapter.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/HookAdapter.php on line 15
+[01-May-2023 19:19:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/RequiredFields.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/RequiredFields.php on line 22
+[02-May-2023 07:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultComposer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultComposer.php on line 26
+[02-May-2023 14:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/ToHeader.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/ToHeader.php on line 15
+[02-May-2023 19:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/OpenTracker.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/OpenTracker.php on line 15
+[03-May-2023 06:55:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/BounceTracker.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/BounceTracker.php on line 15
+[03-May-2023 07:43:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/BasicHeaders.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/BasicHeaders.php on line 15
+[03-May-2023 10:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultSender.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultSender.php on line 15
+[03-May-2023 11:09:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/Attachments.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/Attachments.php on line 15
+[03-May-2023 14:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultBatcher.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/DefaultBatcher.php on line 16
+[03-May-2023 16:29:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\FlexMailer\Listener\BaseListener' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/RequiredTokens.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/Listener/RequiredTokens.php on line 24

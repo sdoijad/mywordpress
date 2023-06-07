@@ -1,0 +1,6 @@
+[28-Apr-2023 10:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/PDF/Label.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/PDF/Label.php on line 23
+[29-Apr-2023 05:25:27 America/New_York] PHP Warning:  require_once(TbsZip/tbszip.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/PDF/Document.php on line 18
+[29-Apr-2023 05:25:27 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'TbsZip/tbszip.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/PDF/Document.php on line 18

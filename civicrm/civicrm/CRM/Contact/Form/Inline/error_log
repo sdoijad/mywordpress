@@ -1,0 +1,40 @@
+[01-May-2023 19:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/IM.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/IM.php on line 21
+[02-May-2023 01:00:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/ContactName.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/ContactName.php on line 21
+[02-May-2023 02:51:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/CommunicationPreferences.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/CommunicationPreferences.php on line 21
+[02-May-2023 08:24:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/ContactInfo.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/ContactInfo.php on line 21
+[02-May-2023 10:00:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Phone.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Phone.php on line 21
+[02-May-2023 15:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/CustomData.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/CustomData.php on line 21
+[02-May-2023 22:51:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Demographics.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Demographics.php on line 21
+[03-May-2023 02:47:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Email.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Email.php on line 21
+[03-May-2023 13:15:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/OpenID.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/OpenID.php on line 21
+[03-May-2023 19:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Form_Inline' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Address.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Form/Inline/Address.php on line 21

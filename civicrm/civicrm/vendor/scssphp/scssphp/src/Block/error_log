@@ -1,0 +1,44 @@
+[06-May-2023 07:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ElseBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ElseBlock.php on line 21
+[06-May-2023 09:46:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/MediaBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/MediaBlock.php on line 21
+[06-May-2023 09:48:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ForBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ForBlock.php on line 21
+[06-May-2023 12:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ElseifBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ElseifBlock.php on line 21
+[06-May-2023 13:05:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/WhileBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/WhileBlock.php on line 21
+[06-May-2023 16:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/DirectiveBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/DirectiveBlock.php on line 21
+[06-May-2023 19:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/CallableBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/CallableBlock.php on line 21
+[06-May-2023 19:17:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ContentBlock.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/ContentBlock.php on line 22
+[07-May-2023 04:34:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/AtRootBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/AtRootBlock.php on line 21
+[07-May-2023 09:27:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/IfBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/IfBlock.php on line 21
+[08-May-2023 03:59:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Block' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/NestedPropertyBlock.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/scssphp/scssphp/src/Block/NestedPropertyBlock.php on line 21

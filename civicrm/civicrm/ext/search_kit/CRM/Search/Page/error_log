@@ -1,0 +1,8 @@
+[05-May-2023 18:52:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Page/Admin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Page/Admin.php on line 17
+[07-May-2023 16:24:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Page/Search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Page/Search.php on line 17

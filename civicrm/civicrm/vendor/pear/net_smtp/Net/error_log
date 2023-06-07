@@ -1,0 +1,2 @@
+[03-May-2023 13:49:57 America/New_York] PHP Warning:  require_once(Net/Socket.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/net_smtp/Net/SMTP.php on line 40
+[03-May-2023 13:49:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Net/Socket.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/vendor/pear/net_smtp/Net/SMTP.php on line 40

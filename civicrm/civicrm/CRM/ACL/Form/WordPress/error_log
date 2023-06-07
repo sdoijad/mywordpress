@@ -1,0 +1,4 @@
+[02-May-2023 10:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/Form/WordPress/Permissions.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/Form/WordPress/Permissions.php on line 21

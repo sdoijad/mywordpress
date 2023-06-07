@@ -1,0 +1,8 @@
+[27-Apr-2023 03:16:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/DAO/PCPBlock.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/DAO/PCPBlock.php on line 15
+[28-Apr-2023 00:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/DAO/PCP.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/DAO/PCP.php on line 15

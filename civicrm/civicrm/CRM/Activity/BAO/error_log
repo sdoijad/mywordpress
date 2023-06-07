@@ -1,0 +1,16 @@
+[28-Apr-2023 00:13:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_DAO_Activity' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/Activity.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/Activity.php on line 24
+[28-Apr-2023 06:00:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_DAO_ActivityContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityContact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityContact.php on line 21
+[28-Apr-2023 14:10:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_DAO_ActivityContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityAssignment.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityAssignment.php on line 21
+[29-Apr-2023 07:57:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Activity_DAO_ActivityContact' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityTarget.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/BAO/ActivityTarget.php on line 21

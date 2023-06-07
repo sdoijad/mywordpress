@@ -1,0 +1,4 @@
+[07-May-2023 15:45:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_AfformAdmin_Upgrader_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/CRM/AfformAdmin/Upgrader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/admin/CRM/AfformAdmin/Upgrader.php on line 7

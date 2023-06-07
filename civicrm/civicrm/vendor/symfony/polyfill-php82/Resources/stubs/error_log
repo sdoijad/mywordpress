@@ -1,0 +1,4 @@
+[05-May-2023 18:49:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Polyfill\Php82\SensitiveParameterValue' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php82/Resources/stubs/SensitiveParameterValue.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php82/Resources/stubs/SensitiveParameterValue.php on line 4

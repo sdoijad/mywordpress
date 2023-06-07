@@ -1,0 +1,8 @@
+[05-May-2023 23:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseStruct' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/structs/file_find_context.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/structs/file_find_context.php on line 33
+[07-May-2023 09:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseStruct' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/structs/repository_directory.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/base/src/structs/repository_directory.php on line 33

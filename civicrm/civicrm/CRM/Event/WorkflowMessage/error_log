@@ -1,0 +1,20 @@
+[27-Apr-2023 13:19:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/ParticipantCancelled.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/ParticipantCancelled.php on line 21
+[28-Apr-2023 07:47:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/ParticipantTransferred.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/ParticipantTransferred.php on line 21
+[28-Apr-2023 17:36:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventOfflineReceipt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventOfflineReceipt.php on line 22
+[29-Apr-2023 00:26:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\GenericWorkflowMessage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventOnlineReceipt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventOnlineReceipt.php on line 22
+[29-Apr-2023 04:58:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\WorkflowMessage\WorkflowMessageExample' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventExamples.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/WorkflowMessage/EventExamples.php on line 13

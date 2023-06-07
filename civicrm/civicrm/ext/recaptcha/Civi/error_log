@@ -1,0 +1,4 @@
+[28-Apr-2023 10:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/recaptcha/Civi/AfformReCaptcha2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/recaptcha/Civi/AfformReCaptcha2.php on line 17

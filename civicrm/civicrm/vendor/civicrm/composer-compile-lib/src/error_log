@@ -1,0 +1,9 @@
+[02-May-2023 01:57:10 America/New_York] PHP Fatal error:  Uncaught ReflectionException: Class Symfony\Component\Filesystem\Filesystem does not exist in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-compile-lib/src/StubsTpl.php:151
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-compile-lib/src/StubsTpl.php(151): ReflectionClass->__construct('Symfony\\Compone...')
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-compile-lib/src/StubsTpl.php on line 151
+[02-May-2023 19:02:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ScssPhp\ScssPhp\Compiler' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-compile-lib/src/ScssCompiler.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-compile-lib/src/ScssCompiler.php on line 4

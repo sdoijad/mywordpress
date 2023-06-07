@@ -1,0 +1,4 @@
+[07-May-2023 06:03:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Payflowpro_ExtensionUtil' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/payflowpro/CRM/Core/Payment/PayflowPro.mgd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/payflowpro/CRM/Core/Payment/PayflowPro.mgd.php on line 15

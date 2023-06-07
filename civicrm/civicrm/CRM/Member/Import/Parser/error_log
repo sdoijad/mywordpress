@@ -1,0 +1,4 @@
+[03-May-2023 20:22:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Import_Parser' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Import/Parser/Membership.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Member/Import/Parser/Membership.php on line 21

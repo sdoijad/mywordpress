@@ -1,0 +1,32 @@
+[01-May-2023 13:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/AddProduct.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/AddProduct.php on line 21
+[01-May-2023 14:43:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Settings.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Settings.php on line 17
+[01-May-2023 20:40:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/ThankYou.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/ThankYou.php on line 21
+[01-May-2023 21:47:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Delete.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Delete.php on line 21
+[02-May-2023 03:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Amount.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Amount.php on line 21
+[02-May-2023 13:25:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Premium.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Premium.php on line 21
+[02-May-2023 19:45:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Widget.php on line 17
+[03-May-2023 18:33:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Custom.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contribute/Form/ContributionPage/Custom.php on line 20

@@ -1,0 +1,16 @@
+[27-Apr-2023 05:27:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACLEntityRole.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACLEntityRole.php on line 15
+[28-Apr-2023 10:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACLCache.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACLCache.php on line 15
+[28-Apr-2023 21:14:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_ACL_DAO_ACLEntityRole' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/EntityRole.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/EntityRole.php on line 11
+[28-Apr-2023 22:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_DAO' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACL.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/ACL/DAO/ACL.php on line 15

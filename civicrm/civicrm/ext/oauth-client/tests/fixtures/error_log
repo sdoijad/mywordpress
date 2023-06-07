@@ -1,0 +1,4 @@
+[01-May-2023 22:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\OAuth\CiviGenericProvider' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/tests/fixtures/DummyProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/oauth-client/tests/fixtures/DummyProvider.php on line 9

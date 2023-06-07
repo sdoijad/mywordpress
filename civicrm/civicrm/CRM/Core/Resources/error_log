@@ -1,0 +1,5 @@
+[27-Apr-2023 18:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'CRM_Core_Resources_CollectionInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Resources/Bundle.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Resources/Bundle.php on line 20
+[29-Apr-2023 11:18:43 America/New_York] PHP Fatal error:  Trait 'CRM_Core_Resources_CollectionAdderTrait' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Core/Resources/CollectionTrait.php on line 20

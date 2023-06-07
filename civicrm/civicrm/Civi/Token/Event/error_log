@@ -1,0 +1,16 @@
+[27-Apr-2023 20:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Token\Event\TokenEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenRegisterEvent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenRegisterEvent.php on line 24
+[27-Apr-2023 22:07:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Token\Event\TokenEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenRenderEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenRenderEvent.php on line 18
+[28-Apr-2023 02:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Token\Event\TokenEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenValueEvent.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenValueEvent.php on line 37
+[28-Apr-2023 04:32:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenEvent.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/Event/TokenEvent.php on line 10

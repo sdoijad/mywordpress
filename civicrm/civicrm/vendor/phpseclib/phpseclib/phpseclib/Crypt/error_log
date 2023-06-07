@@ -1,0 +1,32 @@
+[06-May-2023 02:00:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php on line 64
+[06-May-2023 03:30:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC4.php on line 54
+[06-May-2023 23:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php on line 48
+[07-May-2023 09:32:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php on line 48
+[07-May-2023 20:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/RC2.php on line 44
+[07-May-2023 21:56:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Rijndael' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php on line 59
+[07-May-2023 23:47:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\Base' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/DES.php on line 52
+[07-May-2023 23:58:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Crypt\DES' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php on line 46

@@ -1,0 +1,8 @@
+[27-Apr-2023 18:36:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Selector_Controller' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Selector/Controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Selector/Controller.php on line 17
+[29-Apr-2023 03:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Selector' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Selector/Custom.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Selector/Custom.php on line 24

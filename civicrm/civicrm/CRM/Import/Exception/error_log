@@ -1,0 +1,4 @@
+[28-Apr-2023 01:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Import/Exception/ImportTableUnavailable.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Import/Exception/ImportTableUnavailable.php on line 3

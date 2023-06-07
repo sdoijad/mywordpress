@@ -1,0 +1,16 @@
+[27-Apr-2023 19:19:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Badge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Logo.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Logo.php on line 6
+[28-Apr-2023 06:30:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Badge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/NameTent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/NameTent.php on line 24
+[29-Apr-2023 05:32:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Badge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Simple.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Simple.php on line 24
+[29-Apr-2023 08:37:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Badge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Logo5395.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Badge/Logo5395.php on line 6

@@ -1,0 +1,8 @@
+[01-May-2023 22:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Composer\Package\Package' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-downloads-plugin/src/Subpackage.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-downloads-plugin/src/Subpackage.php on line 25
+[03-May-2023 18:02:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-downloads-plugin/src/Plugin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/composer-downloads-plugin/src/Plugin.php on line 26

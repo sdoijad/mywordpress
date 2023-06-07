@@ -1,0 +1,28 @@
+[22-Apr-2023 19:15:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/installer.tpl.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/installer.tpl.php on line 1
+[23-Apr-2023 18:41:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.WordPress.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.WordPress.php on line 1
+[24-Apr-2023 03:20:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Standalone.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Standalone.php on line 1
+[24-Apr-2023 12:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Common.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Common.php on line 1
+[24-Apr-2023 19:06:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Backdrop.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Backdrop.php on line 1
+[24-Apr-2023 20:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Drupal.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/finished.Drupal.php on line 1
+[25-Apr-2023 00:08:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Setup' not found in /home/naundpsy/public_html/civicrm/civicrm/setup/res/page.tpl.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/setup/res/page.tpl.php on line 1

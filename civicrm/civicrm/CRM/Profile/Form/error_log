@@ -1,0 +1,12 @@
+[27-Apr-2023 01:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Profile_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Dynamic.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Dynamic.php on line 26
+[27-Apr-2023 12:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Profile_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Search.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Search.php on line 25
+[29-Apr-2023 02:25:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Profile_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Edit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Profile/Form/Edit.php on line 26

@@ -1,0 +1,56 @@
+[27-Apr-2023 02:15:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Page_Common' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Resubscribe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Resubscribe.php on line 17
+[27-Apr-2023 03:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/View.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/View.php on line 21
+[27-Apr-2023 04:53:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Page_Common' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Optout.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Optout.php on line 17
+[27-Apr-2023 10:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Mailing_Page_Common' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Unsubscribe.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Unsubscribe.php on line 17
+[28-Apr-2023 03:27:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Common.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Common.php on line 17
+[28-Apr-2023 05:53:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Browse.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Browse.php on line 23
+[28-Apr-2023 06:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Report.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Report.php on line 21
+[28-Apr-2023 07:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Url.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Url.php on line 25
+[28-Apr-2023 11:48:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Open.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Open.php on line 25
+[28-Apr-2023 23:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Tab.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Tab.php on line 21
+[29-Apr-2023 05:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Confirm.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Confirm.php on line 17
+[29-Apr-2023 06:10:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Preview.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Preview.php on line 21
+[29-Apr-2023 08:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Event.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Event.php on line 24
+[29-Apr-2023 11:18:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page_Basic' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Component.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Mailing/Page/Component.php on line 22

@@ -1,0 +1,4 @@
+[06-May-2023 12:28:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Afform/AbstractBehavior.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/afform/core/Civi/Afform/AbstractBehavior.php on line 31

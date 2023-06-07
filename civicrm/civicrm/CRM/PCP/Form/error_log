@@ -1,0 +1,12 @@
+[27-Apr-2023 04:23:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contribute_Form_ContributionPage' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/Contribute.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/Contribute.php on line 22
+[27-Apr-2023 09:39:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/Campaign.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/Campaign.php on line 21
+[28-Apr-2023 17:50:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/PCPAccount.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/PCP/Form/PCPAccount.php on line 21

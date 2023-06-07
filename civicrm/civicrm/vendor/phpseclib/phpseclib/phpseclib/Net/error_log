@@ -1,0 +1,4 @@
+[07-May-2023 10:09:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpseclib\Net\SSH2' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpseclib/phpseclib/phpseclib/Net/SFTP.php on line 47

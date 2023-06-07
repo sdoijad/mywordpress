@@ -1,0 +1,28 @@
+[01-May-2023 11:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/AuthxException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/AuthxException.php on line 14
+[01-May-2023 14:08:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Authx\AuthxInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Backdrop.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Backdrop.php on line 14
+[01-May-2023 15:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Authx\AuthxInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/None.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/None.php on line 14
+[02-May-2023 17:54:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Authx\AuthxInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Drupal8.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Drupal8.php on line 14
+[02-May-2023 19:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Authx\AuthxInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Drupal.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/Drupal.php on line 14
+[03-May-2023 07:58:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Authx\Authenticator' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/LegacyRestAuthenticator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/LegacyRestAuthenticator.php on line 27
+[03-May-2023 16:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Authx\AuthxInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/WordPress.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/Civi/Authx/WordPress.php on line 14

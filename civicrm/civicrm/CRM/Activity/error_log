@@ -1,0 +1,12 @@
+[22-Apr-2023 22:12:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Task' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Task.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Task.php on line 20
+[23-Apr-2023 18:45:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_EntityTokens' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Tokens.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/Tokens.php on line 36
+[24-Apr-2023 21:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\ActionSchedule\Mapping' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/ActionMapping.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Activity/ActionMapping.php on line 26

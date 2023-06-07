@@ -1,0 +1,2153 @@
+{
+    "dup_type": "pro",
+    "created": "2023-05-09 15:19:10",
+    "version_dup": "4.5.8.2",
+    "version_wp": "6.2",
+    "version_db": "10.3.38",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "North American Unitarian Association",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "naunitarians.org",
+            "path": "\/",
+            "blogname": "North American Unitarian Association",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "9",
+                    "user_login": "ahmet.dereli@skvare.com",
+                    "id": "9"
+                },
+                {
+                    "ID": "5",
+                    "user_login": "cronuser",
+                    "id": "5"
+                },
+                {
+                    "ID": "6",
+                    "user_login": "gena@skvare.com",
+                    "id": "6"
+                },
+                {
+                    "ID": "7",
+                    "user_login": "leslie.merritt@skvare.com",
+                    "id": "7"
+                },
+                {
+                    "ID": "2",
+                    "user_login": "msickafoose",
+                    "id": "2"
+                },
+                {
+                    "ID": "8",
+                    "user_login": "sachin@skvare.com",
+                    "id": "8"
+                },
+                {
+                    "ID": "3",
+                    "user_login": "terrya",
+                    "id": "3"
+                },
+                {
+                    "ID": "4",
+                    "user_login": "toddeklof",
+                    "id": "4"
+                },
+                {
+                    "ID": "1",
+                    "user_login": "webmaster",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/naunitarians.org",
+            "fullSiteUrl": "https:\/\/naunitarians.org",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/naundpsy\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/naundpsy\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/naunitarians.org\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 3,
+    "dbInfo": {
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb4",
+            "latin1",
+            "utf8"
+        ],
+        "collationList": [
+            "latin1_swedish_ci",
+            "utf8_bin",
+            "utf8_general_ci",
+            "utf8_unicode_ci",
+            "utf8mb4_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB",
+            "MyISAM"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "naundpsy_wp",
+        "tablesBaseCount": 240,
+        "tablesFinalCount": 240,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 30466,
+        "tablesSizeOnDisk": 36852036,
+        "tablesList": {
+            "civicrm_acl": {
+                "inaccurateRows": 65,
+                "insertedRows": 65,
+                "size": 32768
+            },
+            "civicrm_acl_cache": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 65536
+            },
+            "civicrm_acl_contact_cache": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_acl_entity_role": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "civicrm_action_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_action_mapping": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "civicrm_action_schedule": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "civicrm_activity": {
+                "inaccurateRows": 42,
+                "insertedRows": 70,
+                "size": 196608
+            },
+            "civicrm_activity_contact": {
+                "inaccurateRows": 89,
+                "insertedRows": 137,
+                "size": 49152
+            },
+            "civicrm_address": {
+                "inaccurateRows": 59,
+                "insertedRows": 107,
+                "size": 196608
+            },
+            "civicrm_address_format": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "civicrm_afform_submission": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_batch": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "civicrm_cache": {
+                "inaccurateRows": 388,
+                "insertedRows": 418,
+                "size": 3768320
+            },
+            "civicrm_campaign": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "civicrm_campaign_group": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_case": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_case_activity": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_case_contact": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_case_type": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_component": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "civicrm_contact": {
+                "inaccurateRows": 161,
+                "insertedRows": 314,
+                "size": 409600
+            },
+            "civicrm_contact_type": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 49152
+            },
+            "civicrm_contribution": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 262144
+            },
+            "civicrm_contribution_page": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_contribution_product": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_contribution_recur": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 163840
+            },
+            "civicrm_contribution_soft": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_contribution_widget": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_country": {
+                "inaccurateRows": 251,
+                "insertedRows": 251,
+                "size": 65536
+            },
+            "civicrm_county": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "civicrm_currency": {
+                "inaccurateRows": 174,
+                "insertedRows": 174,
+                "size": 16384
+            },
+            "civicrm_custom_field": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 81920
+            },
+            "civicrm_custom_group": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "civicrm_cxn": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_dashboard": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 32768
+            },
+            "civicrm_dashboard_contact": {
+                "inaccurateRows": 9,
+                "insertedRows": 13,
+                "size": 49152
+            },
+            "civicrm_dedupe_exception": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_dedupe_rule": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 32768
+            },
+            "civicrm_dedupe_rule_group": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 32768
+            },
+            "civicrm_discount": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_domain": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "civicrm_email": {
+                "inaccurateRows": 124,
+                "insertedRows": 274,
+                "size": 98304
+            },
+            "civicrm_entity_batch": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_entity_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 3,
+                "size": 49152
+            },
+            "civicrm_entity_financial_account": {
+                "inaccurateRows": 23,
+                "insertedRows": 23,
+                "size": 49152
+            },
+            "civicrm_entity_financial_trxn": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_entity_tag": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_event": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 131072
+            },
+            "civicrm_events_in_carts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_event_carts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_extension": {
+                "inaccurateRows": 16,
+                "insertedRows": 19,
+                "size": 49152
+            },
+            "civicrm_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "civicrm_financial_account": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 65536
+            },
+            "civicrm_financial_item": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "civicrm_financial_trxn": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "civicrm_financial_type": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 16384
+            },
+            "civicrm_group": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 131072
+            },
+            "civicrm_group_contact": {
+                "inaccurateRows": 144,
+                "insertedRows": 275,
+                "size": 81920
+            },
+            "civicrm_group_contact_cache": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_group_nesting": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_group_organization": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_iats_faps_journal": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 180224
+            },
+            "civicrm_iats_journal": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 180224
+            },
+            "civicrm_iats_request_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "civicrm_iats_response_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "civicrm_iats_verify": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "civicrm_im": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "civicrm_install_canary": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "civicrm_job": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 32768
+            },
+            "civicrm_job_log": {
+                "inaccurateRows": 11137,
+                "insertedRows": 35000,
+                "size": 2818048
+            },
+            "civicrm_line_item": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "civicrm_location_type": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 32768
+            },
+            "civicrm_loc_block": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 147456
+            },
+            "civicrm_log": {
+                "inaccurateRows": 242,
+                "insertedRows": 458,
+                "size": 81920
+            },
+            "civicrm_mailing": {
+                "inaccurateRows": 16,
+                "insertedRows": 16,
+                "size": 344064
+            },
+            "civicrm_mailing_abtest": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "civicrm_mailing_bounce_pattern": {
+                "inaccurateRows": 165,
+                "insertedRows": 165,
+                "size": 32768
+            },
+            "civicrm_mailing_bounce_type": {
+                "inaccurateRows": 11,
+                "insertedRows": 11,
+                "size": 16384
+            },
+            "civicrm_mailing_component": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "civicrm_mailing_event_bounce": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "civicrm_mailing_event_confirm": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mailing_event_delivered": {
+                "inaccurateRows": 494,
+                "insertedRows": 688,
+                "size": 32768
+            },
+            "civicrm_mailing_event_forward": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_mailing_event_opened": {
+                "inaccurateRows": 58,
+                "insertedRows": 68,
+                "size": 32768
+            },
+            "civicrm_mailing_event_queue": {
+                "inaccurateRows": 689,
+                "insertedRows": 689,
+                "size": 180224
+            },
+            "civicrm_mailing_event_reply": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mailing_event_subscribe": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_mailing_event_trackable_url_open": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_mailing_event_unsubscribe": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mailing_group": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "civicrm_mailing_job": {
+                "inaccurateRows": 26,
+                "insertedRows": 26,
+                "size": 49152
+            },
+            "civicrm_mailing_recipients": {
+                "inaccurateRows": 907,
+                "insertedRows": 907,
+                "size": 131072
+            },
+            "civicrm_mailing_spool": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mailing_trackable_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mail_settings": {
+                "inaccurateRows": 0,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "civicrm_managed": {
+                "inaccurateRows": 57,
+                "insertedRows": 57,
+                "size": 49152
+            },
+            "civicrm_mapping": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mapping_field": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_membership": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 114688
+            },
+            "civicrm_membership_block": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_membership_log": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 81920
+            },
+            "civicrm_membership_payment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_membership_status": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 16384
+            },
+            "civicrm_membership_type": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 81920
+            },
+            "civicrm_menu": {
+                "inaccurateRows": 457,
+                "insertedRows": 475,
+                "size": 425984
+            },
+            "civicrm_mosaico_msg_template": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_mosaico_template": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_msg_template": {
+                "inaccurateRows": 49,
+                "insertedRows": 67,
+                "size": 1589248
+            },
+            "civicrm_navigation": {
+                "inaccurateRows": 250,
+                "insertedRows": 250,
+                "size": 98304
+            },
+            "civicrm_note": {
+                "inaccurateRows": 6,
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "civicrm_openid": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_option_group": {
+                "inaccurateRows": 98,
+                "insertedRows": 99,
+                "size": 32768
+            },
+            "civicrm_option_value": {
+                "inaccurateRows": 876,
+                "insertedRows": 885,
+                "size": 262144
+            },
+            "civicrm_participant": {
+                "inaccurateRows": 0,
+                "insertedRows": 2,
+                "size": 180224
+            },
+            "civicrm_participant_payment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_participant_status_type": {
+                "inaccurateRows": 16,
+                "insertedRows": 16,
+                "size": 16384
+            },
+            "civicrm_payment_processor": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_payment_processor_type": {
+                "inaccurateRows": 13,
+                "insertedRows": 13,
+                "size": 32768
+            },
+            "civicrm_payment_token": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_pcp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_pcp_block": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_phone": {
+                "inaccurateRows": 55,
+                "insertedRows": 106,
+                "size": 114688
+            },
+            "civicrm_pledge": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "civicrm_pledge_block": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_pledge_payment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_preferences_date": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 32768
+            },
+            "civicrm_premiums": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "civicrm_premiums_product": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_prevnext_cache": {
+                "inaccurateRows": 1265,
+                "insertedRows": 1260,
+                "size": 475136
+            },
+            "civicrm_price_field": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 49152
+            },
+            "civicrm_price_field_value": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 65536
+            },
+            "civicrm_price_set": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            },
+            "civicrm_price_set_entity": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_print_label": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "civicrm_product": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_queue": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_queue_item": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_recurring_entity": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "civicrm_relationship": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "civicrm_relationship_cache": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "civicrm_relationship_type": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 49152
+            },
+            "civicrm_report_instance": {
+                "inaccurateRows": 35,
+                "insertedRows": 35,
+                "size": 163840
+            },
+            "civicrm_saved_search": {
+                "inaccurateRows": 13,
+                "insertedRows": 13,
+                "size": 81920
+            },
+            "civicrm_search_display": {
+                "inaccurateRows": 12,
+                "insertedRows": 13,
+                "size": 65536
+            },
+            "civicrm_search_segment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_setting": {
+                "inaccurateRows": 64,
+                "insertedRows": 65,
+                "size": 81920
+            },
+            "civicrm_sms_provider": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_state_province": {
+                "inaccurateRows": 4055,
+                "insertedRows": 4055,
+                "size": 475136
+            },
+            "civicrm_status_pref": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 49152
+            },
+            "civicrm_subscription_history": {
+                "inaccurateRows": 145,
+                "insertedRows": 306,
+                "size": 49152
+            },
+            "civicrm_survey": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "civicrm_system_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "civicrm_tag": {
+                "inaccurateRows": 5,
+                "insertedRows": 6,
+                "size": 65536
+            },
+            "civicrm_tell_friend": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "civicrm_timezone": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_translation": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_uf_field": {
+                "inaccurateRows": 74,
+                "insertedRows": 75,
+                "size": 65536
+            },
+            "civicrm_uf_group": {
+                "inaccurateRows": 13,
+                "insertedRows": 13,
+                "size": 81920
+            },
+            "civicrm_uf_join": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 49152
+            },
+            "civicrm_uf_match": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 81920
+            },
+            "civicrm_user_job": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "civicrm_value_organization__1": {
+                "inaccurateRows": 6,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "civicrm_website": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "civicrm_word_replacement": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "civicrm_worldregion": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 16,
+                "insertedRows": 16,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 66,
+                "insertedRows": 48,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_duplicator_pro_entities": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 14660
+            },
+            "wp_duplicator_pro_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 1024
+            },
+            "wp_e_events": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_litespeed_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_litespeed_url_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_nf3_actions": {
+                "inaccurateRows": 26,
+                "insertedRows": 26,
+                "size": 16384
+            },
+            "wp_nf3_action_meta": {
+                "inaccurateRows": 528,
+                "insertedRows": 536,
+                "size": 507904
+            },
+            "wp_nf3_chunks": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 311296
+            },
+            "wp_nf3_fields": {
+                "inaccurateRows": 66,
+                "insertedRows": 70,
+                "size": 16384
+            },
+            "wp_nf3_field_meta": {
+                "inaccurateRows": 1409,
+                "insertedRows": 1418,
+                "size": 1589248
+            },
+            "wp_nf3_forms": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "wp_nf3_form_meta": {
+                "inaccurateRows": 275,
+                "insertedRows": 275,
+                "size": 65536
+            },
+            "wp_nf3_objects": {
+                "inaccurateRows": 15,
+                "insertedRows": 15,
+                "size": 16384
+            },
+            "wp_nf3_object_meta": {
+                "inaccurateRows": 30,
+                "insertedRows": 30,
+                "size": 49152
+            },
+            "wp_nf3_relationships": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_nf3_upgrades": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 1589248
+            },
+            "wp_options": {
+                "inaccurateRows": 1154,
+                "insertedRows": 1167,
+                "size": 5881856
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 2464,
+                "insertedRows": 4868,
+                "size": 1851392
+            },
+            "wp_posts": {
+                "inaccurateRows": 514,
+                "insertedRows": 730,
+                "size": 540672
+            },
+            "wp_promag_email_templates": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 16384
+            },
+            "wp_promag_fields": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "wp_promag_friends": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_promag_groups": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_promag_group_requests": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_promag_msg_conversation": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_promag_msg_threads": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_promag_notification": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_promag_paypal_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_promag_sections": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_rm_custom_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_fields": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 196608
+            },
+            "wp_rm_forms": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 16384
+            },
+            "wp_rm_front_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_login": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 16384
+            },
+            "wp_rm_login_log": {
+                "inaccurateRows": 9,
+                "insertedRows": 13,
+                "size": 16384
+            },
+            "wp_rm_notes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_paypal_fields": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_paypal_logs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_reports_notifications": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_resources": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_rows": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 16384
+            },
+            "wp_rm_rules": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_sent_mails": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_stats": {
+                "inaccurateRows": 130,
+                "insertedRows": 130,
+                "size": 49152
+            },
+            "wp_rm_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_submission_fields": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_tabs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_tasks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_rm_task_exe_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_tec_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 4,
+                "size": 32768
+            },
+            "wp_tec_occurrences": {
+                "inaccurateRows": 0,
+                "insertedRows": 4,
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 11,
+                "insertedRows": 12,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 12,
+                "insertedRows": 14,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 11,
+                "insertedRows": 12,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 263,
+                "insertedRows": 287,
+                "size": 1179648
+            },
+            "wp_users": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 65536
+            },
+            "wp_user_registration_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wpfm_backup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wpfront_ure_login_redirect": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wpfront_ure_options": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 49152
+            },
+            "wp_wpfront_ure_post_type": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wpfront_ure_taxonomy": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wpmailsmtp_debug_events": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "wp_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_wpml_mails": {
+                "inaccurateRows": 276,
+                "insertedRows": 620,
+                "size": 1163264
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.3.38",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 1,
+        "triggerList": {
+            "civicrm_activity_before_insert": {
+                "event": "INSERT",
+                "table": "civicrm_activity",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_activity_before_insert before insert ON civicrm_activity FOR EACH ROW BEGIN  \nSET NEW.created_date = CURRENT_TIMESTAMP;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_activity_before_update": {
+                "event": "UPDATE",
+                "table": "civicrm_activity",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_activity_before_update before update ON civicrm_activity FOR EACH ROW BEGIN  UPDATE civicrm_case SET modified_date = CURRENT_TIMESTAMP WHERE id IN (SELECT ca.case_id FROM civicrm_case_activity ca WHERE ca.activity_id = OLD.id); END;;\nDELIMITER ;"
+            },
+            "civicrm_activity_before_delete": {
+                "event": "DELETE",
+                "table": "civicrm_activity",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_activity_before_delete before delete ON civicrm_activity FOR EACH ROW BEGIN  UPDATE civicrm_case SET modified_date = CURRENT_TIMESTAMP WHERE id IN (SELECT ca.case_id FROM civicrm_case_activity ca WHERE ca.activity_id = OLD.id); END;;\nDELIMITER ;"
+            },
+            "civicrm_address_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_address",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_address_after_insert after insert ON civicrm_address FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_address_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_address",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_address_after_update after update ON civicrm_address FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_address_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_address",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_address_after_delete after delete ON civicrm_address FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_case_before_insert": {
+                "event": "INSERT",
+                "table": "civicrm_case",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_case_before_insert before insert ON civicrm_case FOR EACH ROW BEGIN  \nSET NEW.created_date = CURRENT_TIMESTAMP;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_case_activity_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_case_activity",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_case_activity_after_insert after insert ON civicrm_case_activity FOR EACH ROW BEGIN  UPDATE civicrm_case SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.case_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_contact_before_insert": {
+                "event": "INSERT",
+                "table": "civicrm_contact",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_contact_before_insert before insert ON civicrm_contact FOR EACH ROW BEGIN  \nSET NEW.created_date = CURRENT_TIMESTAMP;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_email_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_email",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_email_after_insert after insert ON civicrm_email FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_email_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_email",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_email_after_update after update ON civicrm_email FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_email_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_email",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_email_after_delete after delete ON civicrm_email FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_im_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_im",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_im_after_insert after insert ON civicrm_im FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_im_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_im",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_im_after_update after update ON civicrm_im FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_im_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_im",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_im_after_delete after delete ON civicrm_im FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_phone_before_insert": {
+                "event": "INSERT",
+                "table": "civicrm_phone",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_phone_before_insert before insert ON civicrm_phone FOR EACH ROW BEGIN  \nSET NEW.phone_numeric = civicrm_strip_non_numeric(NEW.phone);\n END;;\nDELIMITER ;"
+            },
+            "civicrm_phone_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_phone",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_phone_after_insert after insert ON civicrm_phone FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_phone_before_update": {
+                "event": "UPDATE",
+                "table": "civicrm_phone",
+                "timing": "BEFORE",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_phone_before_update before update ON civicrm_phone FOR EACH ROW BEGIN  \nSET NEW.phone_numeric = civicrm_strip_non_numeric(NEW.phone);\n END;;\nDELIMITER ;"
+            },
+            "civicrm_phone_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_phone",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_phone_after_update after update ON civicrm_phone FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_phone_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_phone",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_phone_after_delete after delete ON civicrm_phone FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_relationship_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_relationship",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_relationship_after_insert after insert ON civicrm_relationship FOR EACH ROW BEGIN  INSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"a_b\", rel.contact_id_a, reltype.name_a_b, rel.contact_id_b, reltype.name_b_a, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_a, near_relation = reltype.name_a_b, far_contact_id = rel.contact_id_b, far_relation = reltype.name_b_a, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n\nINSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"b_a\", rel.contact_id_b, reltype.name_b_a, rel.contact_id_a, reltype.name_a_b, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_b, near_relation = reltype.name_b_a, far_contact_id = rel.contact_id_a, far_relation = reltype.name_a_b, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_relationship_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_relationship",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_relationship_after_update after update ON civicrm_relationship FOR EACH ROW BEGIN  INSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"a_b\", rel.contact_id_a, reltype.name_a_b, rel.contact_id_b, reltype.name_b_a, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_a, near_relation = reltype.name_a_b, far_contact_id = rel.contact_id_b, far_relation = reltype.name_b_a, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n\nINSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"b_a\", rel.contact_id_b, reltype.name_b_a, rel.contact_id_a, reltype.name_a_b, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_b, near_relation = reltype.name_b_a, far_contact_id = rel.contact_id_a, far_relation = reltype.name_a_b, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_relationship_type_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_relationship_type",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_relationship_type_after_update after update ON civicrm_relationship_type FOR EACH ROW BEGIN  \nIF ((OLD.name_a_b != NEW.name_a_b COLLATE utf8mb4_bin) OR (OLD.name_b_a != NEW.name_b_a COLLATE utf8mb4_bin)) THEN\n INSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"a_b\", rel.contact_id_a, reltype.name_a_b, rel.contact_id_b, reltype.name_b_a, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.relationship_type_id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_a, near_relation = reltype.name_a_b, far_contact_id = rel.contact_id_b, far_relation = reltype.name_b_a, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n END IF;\n\n\nIF ((OLD.name_a_b != NEW.name_a_b COLLATE utf8mb4_bin) OR (OLD.name_b_a != NEW.name_b_a COLLATE utf8mb4_bin)) THEN\n INSERT INTO civicrm_relationship_cache (relationship_id, relationship_type_id, orientation, near_contact_id, near_relation, far_contact_id, far_relation, start_date, end_date, is_active, case_id)\nSELECT rel.id, rel.relationship_type_id, \"b_a\", rel.contact_id_b, reltype.name_b_a, rel.contact_id_a, reltype.name_a_b, rel.start_date, rel.end_date, rel.is_active, rel.case_id\nFROM civicrm_relationship rel\nINNER JOIN civicrm_relationship_type reltype ON rel.relationship_type_id = reltype.id\nWHERE (rel.relationship_type_id = NEW.id)\n ON DUPLICATE KEY UPDATE relationship_type_id = rel.relationship_type_id, near_contact_id = rel.contact_id_b, near_relation = reltype.name_b_a, far_contact_id = rel.contact_id_a, far_relation = reltype.name_a_b, start_date = rel.start_date, end_date = rel.end_date, is_active = rel.is_active, case_id = rel.case_id\n;\n END IF;\n END;;\nDELIMITER ;"
+            },
+            "civicrm_value_organization__1_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_value_organization__1",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_value_organization__1_after_insert after insert ON civicrm_value_organization__1 FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.entity_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_value_organization__1_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_value_organization__1",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_value_organization__1_after_update after update ON civicrm_value_organization__1 FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.entity_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_value_organization__1_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_value_organization__1",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_value_organization__1_after_delete after delete ON civicrm_value_organization__1 FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.entity_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_website_after_insert": {
+                "event": "INSERT",
+                "table": "civicrm_website",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_website_after_insert after insert ON civicrm_website FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_website_after_update": {
+                "event": "UPDATE",
+                "table": "civicrm_website",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_website_after_update after update ON civicrm_website FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = NEW.contact_id; END;;\nDELIMITER ;"
+            },
+            "civicrm_website_after_delete": {
+                "event": "DELETE",
+                "table": "civicrm_website",
+                "timing": "AFTER",
+                "create": "DELIMITER ;;\nCREATE DEFINER=`naundpsy_naua`@`localhost` TRIGGER civicrm_website_after_delete after delete ON civicrm_website FOR EACH ROW BEGIN  UPDATE civicrm_contact SET modified_date = CURRENT_TIMESTAMP WHERE id = OLD.contact_id; END;;\nDELIMITER ;"
+            }
+        }
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20230509_northamericanunitarianassoci",
+        "packageHash": "0594d9a-09151910",
+        "secondaryHash": "b6617a9-09151910"
+    },
+    "fileInfo": {
+        "dirCount": 8629,
+        "fileCount": 46681,
+        "size": 193602268
+    },
+    "wpInfo": {
+        "version": "6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/naundpsy\/public_html",
+        "targetPaths": [
+            "\/home\/naundpsy\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "9",
+                "user_login": "ahmet.dereli@skvare.com",
+                "id": "9"
+            },
+            {
+                "ID": "5",
+                "user_login": "cronuser",
+                "id": "5"
+            },
+            {
+                "ID": "6",
+                "user_login": "gena@skvare.com",
+                "id": "6"
+            },
+            {
+                "ID": "7",
+                "user_login": "leslie.merritt@skvare.com",
+                "id": "7"
+            },
+            {
+                "ID": "2",
+                "user_login": "msickafoose",
+                "id": "2"
+            },
+            {
+                "ID": "8",
+                "user_login": "sachin@skvare.com",
+                "id": "8"
+            },
+            {
+                "ID": "3",
+                "user_login": "terrya",
+                "id": "3"
+            },
+            {
+                "ID": "4",
+                "user_login": "toddeklof",
+                "id": "4"
+            },
+            {
+                "ID": "1",
+                "user_login": "webmaster",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/naundpsy\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "FQD6WTe1ZcUgwcswywjK6bJVTB1TZsE9Y7x31yofAgAbOiiaFqUR5abq8Mgdfxc6",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "9cVsNqzVfqHXZzpe8uyzxJiCsNzOuYszN7ioQC0TB4FLfoTbmwIyOqgld9GVf0wW",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "wl8ZQECtzQhz5dNVN5mllt9wssnJ7pxBwxtgt4JiaP30SJpR71ytzHtQgGbW6sHG",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "Bi2tQrAx0i0ibn4N8T6ibjyGI8AG33V14dcYAdQd6YvKZAhViY0xw8dad2BGq7oz",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "56MRfVA5TyleqtKDLbVg6hFZqcoEwBxqfzDjPfL8N2NiSIANG6kiW2LZ65mkqZOS",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "3HtLOcIT1Jytifb2bKYHeHGAOu5MJfxfztEIv2XE0SHz9acZTBXadFZK5igx3uE6",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "pJtbdThQv02y2UfbnmhLeJ18a4rPwipFzJagLPB5eqrc4SCqnfeHXNKGp8pbcD4p",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "Rwhtsb3UHcau8IXOdnhMm88OOe23Hn8nx9nO8YpU3ZnSNTjL3vNoOu4ScadkOSPh",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/naunitarians.org\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/naunitarians.org\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "1024M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_TEMP_DIR": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/uploads",
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": true
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": true
+                },
+                "FS_METHOD": {
+                    "value": "direct",
+                    "inWpConfig": true
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/themes\/pro",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/themes\/pro-child",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/naundpsy\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/naunitarians.org\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/naunitarians.org",
+                "homeUrl": "https:\/\/naunitarians.org",
+                "contentUrl": "https:\/\/naunitarians.org\/wp-content",
+                "uploadBaseUrl": "https:\/\/naunitarians.org\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/naunitarians.org\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/naunitarians.org\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/naunitarians.org\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/naundpsy\/public_html",
+                    "abs": "\/home\/naundpsy\/public_html",
+                    "wpconfig": "\/home\/naundpsy\/public_html",
+                    "wpcontent": "\/home\/naundpsy\/public_html\/wp-content",
+                    "uploads": "\/home\/naundpsy\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/naundpsy\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/naundpsy\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/naundpsy\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/naundpsy\/public_html",
+                    "abs": "\/home\/naundpsy\/public_html",
+                    "wpconfig": "\/home\/naundpsy\/public_html",
+                    "wpcontent": "\/home\/naundpsy\/public_html\/wp-content",
+                    "uploads": "\/home\/naundpsy\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/naundpsy\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/naundpsy\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/naundpsy\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "civicrm\/civicrm.php": {
+                "slug": "civicrm\/civicrm.php",
+                "name": "CiviCRM",
+                "version": "5.59.1",
+                "pluginURI": "https:\/\/docs.civicrm.org\/sysadmin\/en\/latest\/install\/wordpress\/",
+                "author": "CiviCRM LLC",
+                "authorURI": "https:\/\/civicrm.org\/",
+                "description": "CiviCRM - Growing and Sustaining Relationships",
+                "title": "CiviCRM",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "civicrm-admin-utilities\/civicrm-admin-utilities.php": {
+                "slug": "civicrm-admin-utilities\/civicrm-admin-utilities.php",
+                "name": "CiviCRM Admin Utilities",
+                "version": "0.9.4",
+                "pluginURI": "https:\/\/github.com\/christianwach\/civicrm-admin-utilities",
+                "author": "Christian Wach",
+                "authorURI": "http:\/\/haystack.co.uk",
+                "description": "Optionally modifies CiviCRM's behaviour and appearance in single site and multisite installs.",
+                "title": "CiviCRM Admin Utilities",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-editor\/classic-editor.php": {
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "copy-delete-posts\/copy-delete-posts.php": {
+                "slug": "copy-delete-posts\/copy-delete-posts.php",
+                "name": "Copy & Delete Posts",
+                "version": "1.3.9",
+                "pluginURI": "https:\/\/copy-delete-posts.com",
+                "author": "Copy Delete Posts",
+                "authorURI": "https:\/\/copy-delete-posts.com\/",
+                "description": "The best solution to easily make duplicates of your posts & pages, and delete them in one go.",
+                "title": "Copy & Delete Posts",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "4.5.8.2",
+                "pluginURI": "http:\/\/snapcreek.com\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/snapcreek.com",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "enable-media-replace\/enable-media-replace.php": {
+                "slug": "enable-media-replace\/enable-media-replace.php",
+                "name": "Enable Media Replace",
+                "version": "4.1.2",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/enable-media-replace\/",
+                "author": "ShortPixel",
+                "authorURI": "https:\/\/shortpixel.com",
+                "description": "Enable replacing media files by uploading a new file in the \"Edit Media\" section of the WordPress Media Library.",
+                "title": "Enable Media Replace",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "litespeed-cache\/litespeed-cache.php": {
+                "slug": "litespeed-cache\/litespeed-cache.php",
+                "name": "LiteSpeed Cache",
+                "version": "5.4",
+                "pluginURI": "https:\/\/www.litespeedtech.com\/products\/cache-plugins\/wordpress-acceleration",
+                "author": "LiteSpeed Technologies",
+                "authorURI": "https:\/\/www.litespeedtech.com",
+                "description": "High-performance page caching and site optimization from LiteSpeed",
+                "title": "LiteSpeed Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ninja-forms\/ninja-forms.php": {
+                "slug": "ninja-forms\/ninja-forms.php",
+                "name": "Ninja Forms",
+                "version": "3.6.23",
+                "pluginURI": "http:\/\/ninjaforms.com\/?utm_source=Ninja+Forms+Plugin&utm_medium=readme",
+                "author": "Saturday Drive",
+                "authorURI": "http:\/\/ninjaforms.com\/?utm_source=Ninja+Forms+Plugin&utm_medium=Plugins+WP+Dashboard",
+                "description": "Ninja Forms is a webform builder with unparalleled ease of use and features.",
+                "title": "Ninja Forms",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ninja-forms-civicrm\/ninja-forms-civicrm.php": {
+                "slug": "ninja-forms-civicrm\/ninja-forms-civicrm.php",
+                "name": "Ninja Forms - CiviCRM",
+                "version": "3.0.1",
+                "pluginURI": "",
+                "author": "Saturday Drive",
+                "authorURI": "",
+                "description": "Ninja Forms integration with CiviCRM",
+                "title": "Ninja Forms - CiviCRM",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "profilegrid-user-profiles-groups-and-communities\/profile-magic.php": {
+                "slug": "profilegrid-user-profiles-groups-and-communities\/profile-magic.php",
+                "name": "ProfileGrid",
+                "version": "5.4.3",
+                "pluginURI": "http:\/\/profilegrid.co",
+                "author": "profilegrid",
+                "authorURI": "http:\/\/profilegrid.co",
+                "description": "ProfileGrid adds user groups and user profiles functionality to your site.",
+                "title": "ProfileGrid",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "custom-registration-form-builder-with-submission-manager\/registration_magic.php": {
+                "slug": "custom-registration-form-builder-with-submission-manager\/registration_magic.php",
+                "name": "RegistrationMagic",
+                "version": "5.2.0.5",
+                "pluginURI": "http:\/\/www.registrationmagic.com",
+                "author": "RegistrationMagic",
+                "authorURI": "https:\/\/registrationmagic.com\/",
+                "description": "A powerful system for customizing registration forms, setting up paid registrations, tracking submissions, managing users, assigning user roles, analyzing stats, and much more!!",
+                "title": "RegistrationMagic",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "shortcodes-finder\/shortcodes-finder.php": {
+                "slug": "shortcodes-finder\/shortcodes-finder.php",
+                "name": "Shortcodes Finder",
+                "version": "1.5.2",
+                "pluginURI": "https:\/\/www.scribit.it\/en\/wordpress-plugins\/find-wordpress-website-shortcodes-in-one-click\/",
+                "author": "Scribit",
+                "authorURI": "https:\/\/www.scribit.it\/",
+                "description": "Find, test, disable, clean and get informations about the shortcodes in your Wordpress website posts, pages and custom contents (also in multisite network).",
+                "title": "Shortcodes Finder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "the-events-calendar\/the-events-calendar.php": {
+                "slug": "the-events-calendar\/the-events-calendar.php",
+                "name": "The Events Calendar",
+                "version": "6.0.13",
+                "pluginURI": "",
+                "author": "The Events Calendar",
+                "authorURI": "https:\/\/evnt.is\/1x",
+                "description": "The Events Calendar is a carefully crafted, extensible plugin that lets you easily share your events. Beautiful. Solid. Awesome.",
+                "title": "The Events Calendar",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "tco-under-construction\/tco-under-construction.php": {
+                "slug": "tco-under-construction\/tco-under-construction.php",
+                "name": "Under Construction",
+                "version": "2.1.5",
+                "pluginURI": "http:\/\/theme.co\/",
+                "author": "Themeco",
+                "authorURI": "http:\/\/theme.co\/",
+                "description": "Got a little work that needs to be done under the hood? The Under Construction plugin is the easiest maintenance plugin you'll ever setup and the last one you'll ever need.",
+                "title": "Under Construction",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.23.3",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "UpdraftPlus.Com, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "user-role-editor\/user-role-editor.php": {
+                "slug": "user-role-editor\/user-role-editor.php",
+                "name": "User Role Editor",
+                "version": "4.63.3",
+                "pluginURI": "https:\/\/www.role-editor.com",
+                "author": "Vladimir Garagulya",
+                "authorURI": "https:\/\/www.role-editor.com",
+                "description": "Change\/add\/delete WordPress user roles and capabilities.",
+                "title": "User Role Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-job-manager\/wp-job-manager.php": {
+                "slug": "wp-job-manager\/wp-job-manager.php",
+                "name": "WP Job Manager",
+                "version": "1.39.0",
+                "pluginURI": "https:\/\/wpjobmanager.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/wpjobmanager.com\/",
+                "description": "Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site.",
+                "title": "WP Job Manager",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-logging\/wp-mail-logging.php": {
+                "slug": "wp-mail-logging\/wp-mail-logging.php",
+                "name": "WP Mail Logging",
+                "version": "1.11.0",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wp-mail-logging\/",
+                "author": "WP Mail Logging Team",
+                "authorURI": "https:\/\/github.com\/awesomemotive\/wp-mail-logging",
+                "description": "Logs each email sent by WordPress.",
+                "title": "WP Mail Logging",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-smtp\/wp_mail_smtp.php": {
+                "slug": "wp-mail-smtp\/wp_mail_smtp.php",
+                "name": "WP Mail SMTP",
+                "version": "3.8.0",
+                "pluginURI": "https:\/\/wpmailsmtp.com\/",
+                "author": "WP Mail SMTP",
+                "authorURI": "https:\/\/wpmailsmtp.com\/",
+                "description": "Reconfigures the <code>wp_mail()<\/code> function to use Gmail\/Mailgun\/SendGrid\/SMTP instead of the default <code>mail()<\/code> and creates an options page to manage the settings.",
+                "title": "WP Mail SMTP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "automation-by-installatron.php": {
+                "slug": "automation-by-installatron.php",
+                "name": "WordPress automation by Installatron",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "Management of this WordPress site is provided by Installatron.",
+                "title": "WordPress automation by Installatron",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "pro-child": {
+                "slug": "pro-child",
+                "themeName": "Pro &ndash; Child Theme",
+                "version": "1.0.0",
+                "themeURI": "https:\/\/theme.co\/pro\/",
+                "parentTheme": "pro",
+                "template": "pro",
+                "stylesheet": "pro-child",
+                "description": "Make all of your modifications to Pro in this child theme.",
+                "author": "Themeco",
+                "authorURI": "https:\/\/theme.co\/",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "pro": {
+                "slug": "pro",
+                "themeName": "Pro",
+                "version": "6.2.4",
+                "themeURI": "https:\/\/theme.co\/pro",
+                "parentTheme": false,
+                "template": "pro",
+                "stylesheet": "pro",
+                "description": "The Most Advanced Website Creator for WordPress.",
+                "author": "Themeco",
+                "authorURI": "https:\/\/theme.co",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.1",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]",
+    "brand": {
+        "name": "Duplicator Professional",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "cpnl-dbaction": {
+            "value": "create"
+        }
+    },
+    "installer_base_name": "installer.php",
+    "installer_backup_name": "20230509_northamericanunitarianassoci_0594d9ae077d93107250_20230509151910_installer-backup.php",
+    "package_name": "20230509_northamericanunitarianassoci_0594d9ae077d93107250_20230509151910_archive.zip",
+    "package_hash": "0594d9a-09151910",
+    "package_notes": ""
+}

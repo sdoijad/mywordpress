@@ -1,0 +1,16 @@
+[02-May-2023 23:02:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/TimeSpent.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/TimeSpent.php on line 17
+[03-May-2023 06:59:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Demographics.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Demographics.php on line 17
+[03-May-2023 07:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Detail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Detail.php on line 17
+[03-May-2023 14:50:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Summary.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Case/Summary.php on line 17

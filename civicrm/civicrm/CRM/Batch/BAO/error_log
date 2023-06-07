@@ -1,0 +1,8 @@
+[27-Apr-2023 13:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Batch_DAO_EntityBatch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/BAO/EntityBatch.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/BAO/EntityBatch.php on line 17
+[29-Apr-2023 08:06:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Batch_DAO_Batch' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/BAO/Batch.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Batch/BAO/Batch.php on line 21

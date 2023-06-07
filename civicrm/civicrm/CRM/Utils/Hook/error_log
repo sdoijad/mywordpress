@@ -1,0 +1,36 @@
+[27-Apr-2023 01:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/WordPress.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/WordPress.php on line 17
+[27-Apr-2023 13:23:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Drupal8.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Drupal8.php on line 17
+[27-Apr-2023 15:53:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Standalone.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Standalone.php on line 17
+[28-Apr-2023 04:57:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Joomla.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Joomla.php on line 17
+[28-Apr-2023 09:32:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Soap.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Soap.php on line 17
+[28-Apr-2023 09:38:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Drupal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Drupal.php on line 17
+[28-Apr-2023 16:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook_DrupalBase' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Backdrop.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/Backdrop.php on line 17
+[28-Apr-2023 17:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/UnitTests.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/UnitTests.php on line 17
+[29-Apr-2023 04:12:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Utils_Hook' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/DrupalBase.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Utils/Hook/DrupalBase.php on line 17

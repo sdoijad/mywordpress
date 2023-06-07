@@ -1,0 +1,12 @@
+[06-May-2023 08:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\Http\HttpInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/FakeHttp.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/FakeHttp.php on line 17
+[06-May-2023 21:49:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\Http\HttpInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/ViaPortHttp.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/ViaPortHttp.php on line 32
+[06-May-2023 23:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\Http\HttpInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/PhpHttp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/Http/PhpHttp.php on line 14

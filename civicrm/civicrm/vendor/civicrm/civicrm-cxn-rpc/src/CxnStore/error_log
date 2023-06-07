@@ -1,0 +1,8 @@
+[07-May-2023 13:25:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\CxnStore\CxnStoreInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/CxnStore/JsonFileCxnStore.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/CxnStore/JsonFileCxnStore.php on line 21
+[08-May-2023 03:31:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\CxnStore\CxnStoreInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/CxnStore/ArrayCxnStore.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/CxnStore/ArrayCxnStore.php on line 17

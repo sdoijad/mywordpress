@@ -1,0 +1,17 @@
+[01-May-2023 15:43:08 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/RegistrationServer.php on line 109
+[01-May-2023 15:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Agent' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/RegistrationServer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/RegistrationServer.php on line 29
+[01-May-2023 20:07:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Agent' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/ApiServer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/ApiServer.php on line 18
+[02-May-2023 15:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\CertificateValidatorInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/DefaultCertificateValidator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/DefaultCertificateValidator.php on line 31
+[03-May-2023 07:40:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Cxn\Rpc\Agent' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/RegistrationClient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/RegistrationClient.php on line 19

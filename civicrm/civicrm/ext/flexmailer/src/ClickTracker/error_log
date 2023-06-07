@@ -1,0 +1,8 @@
+[02-May-2023 13:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\FlexMailer\ClickTracker\ClickTrackerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/ClickTracker/HtmlClickTracker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/ClickTracker/HtmlClickTracker.php on line 13
+[02-May-2023 17:26:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\FlexMailer\ClickTracker\ClickTrackerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/ClickTracker/TextClickTracker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/flexmailer/src/ClickTracker/TextClickTracker.php on line 13

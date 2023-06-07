@@ -1,0 +1,32 @@
+[27-Apr-2023 02:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/UnhandledExceptionEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/UnhandledExceptionEvent.php on line 18
+[27-Apr-2023 09:58:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/GenericHookEvent.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/GenericHookEvent.php on line 64
+[27-Apr-2023 17:03:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/PostEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/PostEvent.php on line 18
+[28-Apr-2023 00:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/SystemInstallEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/SystemInstallEvent.php on line 18
+[28-Apr-2023 05:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/SmartyErrorEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/SmartyErrorEvent.php on line 21
+[28-Apr-2023 12:11:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\ServiceListener' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/HookStyleServiceListener.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/HookStyleServiceListener.php on line 15
+[28-Apr-2023 13:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/QueryEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/QueryEvent.php on line 20
+[28-Apr-2023 21:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Event\GenericHookEvent' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/PreEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/Event/PreEvent.php on line 18

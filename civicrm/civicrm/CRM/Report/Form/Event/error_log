@@ -1,0 +1,20 @@
+[01-May-2023 19:50:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/Summary.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/Summary.php on line 17
+[01-May-2023 21:10:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/Income.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/Income.php on line 17
+[03-May-2023 00:53:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/ParticipantListing.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/ParticipantListing.php on line 17
+[03-May-2023 10:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/ParticipantListCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/ParticipantListCount.php on line 17
+[03-May-2023 17:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Report_Form' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/IncomeCountSummary.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Report/Form/Event/IncomeCountSummary.php on line 17

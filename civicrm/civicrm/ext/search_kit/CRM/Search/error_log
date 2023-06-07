@@ -1,0 +1,4 @@
+[03-May-2023 05:12:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Search_Upgrader_Base' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Upgrader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/search_kit/CRM/Search/Upgrader.php on line 7

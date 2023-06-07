@@ -1,0 +1,20 @@
+[06-May-2023 03:53:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOGetAction' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Import.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Import.php on line 18
+[06-May-2023 12:25:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOSaveAction' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Save.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Save.php on line 17
+[07-May-2023 15:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/ImportSpecProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/ImportSpecProvider.php on line 27
+[07-May-2023 16:05:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOGetAction' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Validate.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Validate.php on line 18
+[07-May-2023 19:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Generic\DAOCreateAction' not found in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Create.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/civiimport/Civi/Api4/Import/Create.php on line 17

@@ -1,0 +1,4 @@
+[05-May-2023 17:59:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Polyfill\Php80\PhpToken' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php on line 4

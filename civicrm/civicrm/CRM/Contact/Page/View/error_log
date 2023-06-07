@@ -1,0 +1,46 @@
+[01-May-2023 18:57:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/GroupContact.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/GroupContact.php on line 17
+[01-May-2023 22:05:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/UserDashBoard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/UserDashBoard.php on line 21
+[02-May-2023 03:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Relationship.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Relationship.php on line 17
+[02-May-2023 08:43:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Tag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Tag.php on line 17
+[02-May-2023 09:32:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Useradd.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Useradd.php on line 20
+[02-May-2023 12:21:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Log.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Log.php on line 17
+[02-May-2023 12:24:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View_Summary' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Print.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Print.php on line 21
+[02-May-2023 15:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Note.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Note.php on line 21
+[02-May-2023 19:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Contact_Page_View' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Summary.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Summary.php on line 21
+[03-May-2023 06:12:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/ContactSmartGroup.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/ContactSmartGroup.php on line 17
+[03-May-2023 07:46:25 America/New_York] PHP Warning:  require_once(Contact/Vcard/Build.php): failed to open stream: No such file or directory in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Vcard.php on line 18
+[03-May-2023 07:46:25 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'Contact/Vcard/Build.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/Vcard.php on line 18
+[03-May-2023 09:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/CustomData.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Contact/Page/View/CustomData.php on line 21

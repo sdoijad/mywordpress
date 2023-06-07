@@ -1,0 +1,8 @@
+[06-May-2023 11:18:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseStruct' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/mail/src/structs/mail_address.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/mail/src/structs/mail_address.php on line 37
+[07-May-2023 10:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ezcBaseStruct' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/mail/src/structs/content_disposition_header.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/zetacomponents/mail/src/structs/content_disposition_header.php on line 36

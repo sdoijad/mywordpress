@@ -1,0 +1,36 @@
+[01-May-2023 14:17:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\ResourceCheckerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/SelfCheckingResourceChecker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/SelfCheckingResourceChecker.php on line 24
+[01-May-2023 23:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\ResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/SelfCheckingResourceInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/SelfCheckingResourceInterface.php on line 20
+[02-May-2023 01:33:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/FileExistenceResource.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/FileExistenceResource.php on line 24
+[02-May-2023 07:25:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ComposerResource.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ComposerResource.php on line 21
+[02-May-2023 14:51:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/FileResource.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/FileResource.php on line 23
+[02-May-2023 22:54:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/GlobResource.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/GlobResource.php on line 26
+[03-May-2023 10:43:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ReflectionClassResource.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ReflectionClassResource.php on line 24
+[03-May-2023 17:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/DirectoryResource.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/DirectoryResource.php on line 21
+[03-May-2023 20:57:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Resource\SelfCheckingResourceInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ClassExistenceResource.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/symfony/config/Resource/ClassExistenceResource.php on line 24

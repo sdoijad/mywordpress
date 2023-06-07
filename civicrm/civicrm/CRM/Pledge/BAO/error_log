@@ -1,0 +1,12 @@
+[27-Apr-2023 23:08:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Pledge_DAO_PledgeBlock' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/PledgeBlock.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/PledgeBlock.php on line 17
+[28-Apr-2023 04:47:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Pledge_DAO_PledgePayment' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/PledgePayment.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/PledgePayment.php on line 23
+[29-Apr-2023 03:48:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Pledge_DAO_Pledge' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/Pledge.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Pledge/BAO/Pledge.php on line 17

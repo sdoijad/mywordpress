@@ -1,0 +1,9 @@
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Non-static method Date_TimeZone::isValidID() should not be called statically in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/TimeZone.php on line 4717
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Non-static method Date_TimeZone::setDefault() should not be called statically in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/TimeZone.php on line 4720
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Non-static method Date_TimeZone::isValidID() should not be called statically in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/TimeZone.php on line 192
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/Span.php on line 307
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/Span.php on line 309
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/Span.php on line 638
+[18-Apr-2023 22:23:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Date/Span.php on line 640
+[19-Apr-2023 08:25:44 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Validate.php on line 781
+[19-Apr-2023 08:25:44 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/naundpsy/public_html/civicrm/civicrm/packages/Validate.php on line 783

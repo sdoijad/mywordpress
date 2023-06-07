@@ -1,0 +1,16 @@
+[23-Apr-2023 09:13:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/AbstractTokenSubscriber.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/AbstractTokenSubscriber.php on line 40
+[23-Apr-2023 17:45:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Exception' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/TokenException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/TokenException.php on line 4
+[24-Apr-2023 14:09:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/ImpliedContextSubscriber.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/ImpliedContextSubscriber.php on line 15
+[24-Apr-2023 22:18:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/TokenCompatSubscriber.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Token/TokenCompatSubscriber.php on line 15

@@ -1,0 +1,16 @@
+[01-May-2023 18:42:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PostUpdate.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PostUpdate.php on line 18
+[02-May-2023 00:01:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PreDelete.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PreDelete.php on line 18
+[03-May-2023 07:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PostDelete.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PostDelete.php on line 18
+[03-May-2023 20:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\EventDispatcher\Event' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PreUpdate.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Core/DAO/Event/PreUpdate.php on line 18

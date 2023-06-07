@@ -1,0 +1,5 @@
+[28-Apr-2023 10:15:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ts() in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/settings/authx.setting.php:22
+Stack trace:
+#0 /home/naundpsy/public_html/civicrm/civicrm/ext/authx/settings/authx.setting.php(113): {closure}()
+#1 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/ext/authx/settings/authx.setting.php on line 22

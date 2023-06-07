@@ -1,0 +1,20 @@
+[01-May-2023 12:38:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ContactSchemaMapSubscriber.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ContactSchemaMapSubscriber.php on line 13
+[01-May-2023 16:06:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Event\Subscriber\Generic\AbstractPrepareSubscriber' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/IsCurrentSubscriber.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/IsCurrentSubscriber.php on line 23
+[02-May-2023 00:48:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Api4\Event\Subscriber\Generic\AbstractPrepareSubscriber' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ValidateFieldsSubscriber.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ValidateFieldsSubscriber.php on line 21
+[02-May-2023 14:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/PermissionCheckSubscriber.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/PermissionCheckSubscriber.php on line 24
+[03-May-2023 08:42:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ActivitySchemaMapSubscriber.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Event/Subscriber/ActivitySchemaMapSubscriber.php on line 14

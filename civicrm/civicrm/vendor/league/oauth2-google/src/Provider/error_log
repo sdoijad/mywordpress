@@ -1,0 +1,8 @@
+[08-May-2023 03:59:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\OAuth2\Client\Provider\ResourceOwnerInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-google/src/Provider/GoogleUser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-google/src/Provider/GoogleUser.php on line 5
+[08-May-2023 04:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\OAuth2\Client\Provider\AbstractProvider' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-google/src/Provider/Google.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/league/oauth2-google/src/Provider/Google.php on line 11

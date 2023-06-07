@@ -1,0 +1,70 @@
+<script id="nf-tmpl-civicrm-address-map-row" type="text/template">
+    <div>
+        <span class="dashicons dashicons-menu handle"></span>
+    </div>
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.street_address }}}" data-id="street_address" placeholder="Street Address">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.city }}}" data-id="city"  placeholder="City">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.county_id }}}" data-id="county_id"  placeholder="County">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.state_province_id_name }}}" data-id="state_province_id_name"  placeholder="State">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <br />
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.postal_code }}}" data-id="postal_code"  placeholder="Postal Code">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.supplemental_address_1 }}}" data-id="supplemental_address_1"  placeholder="Supplemental Address">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+
+    <div>
+        <label class="has-merge-tags">
+            <input type="text" class="setting" value="{{{ data.is_primary }}}" data-id="is_primary"  placeholder="Is primary">
+            <span class="dashicons dashicons-list-view merge-tags"></span>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <label class="nf-select">
+            <select type="text" class="setting" value="{{{ data.location_type_id_name}}}" data-id="location_type_id_name" list="location_type_id_name"  placeholder="Location Type Name">
+            {{{ data.renderOptions( 'location_type_id_name', data.location_type_id_name )}}}
+            </select>
+        </label>
+        <span class="nf-option-error"></span>
+    </div>
+    <div>
+        <span class="dashicons dashicons-dismiss nf-delete"></span>
+    </div>
+    <hr />
+</script>

@@ -1,0 +1,4 @@
+[05-May-2023 20:02:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpWord\TemplateProcessor' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpword/src/PhpWord/Template.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpword/src/PhpWord/Template.php on line 25

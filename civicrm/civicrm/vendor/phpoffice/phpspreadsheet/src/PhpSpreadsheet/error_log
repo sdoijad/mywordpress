@@ -1,0 +1,12 @@
+[05-May-2023 23:06:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\DefinedName' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedRange.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedRange.php on line 8
+[06-May-2023 05:24:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PhpOffice\PhpSpreadsheet\IComparable' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Comment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Comment.php on line 7
+[06-May-2023 16:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpOffice\PhpSpreadsheet\DefinedName' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedFormula.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedFormula.php on line 7

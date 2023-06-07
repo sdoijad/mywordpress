@@ -1,0 +1,16 @@
+[02-May-2023 11:55:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Page_ParticipantListing_Simple' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/NameAndEmail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/NameAndEmail.php on line 17
+[02-May-2023 15:56:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Event_Page_ParticipantListing_Simple' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/Name.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/Name.php on line 17
+[03-May-2023 19:00:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/NameStatusAndDate.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/NameStatusAndDate.php on line 17
+[03-May-2023 21:48:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'CRM_Core_Page' not found in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/Simple.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/CRM/Event/Page/ParticipantListing/Simple.php on line 17

@@ -1,0 +1,16 @@
+[01-May-2023 21:13:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/CachePoolTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/CachePoolTest.php on line 18
+[02-May-2023 03:39:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/TaggableCachePoolTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/TaggableCachePoolTest.php on line 20
+[02-May-2023 07:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/HierarchicalCachePoolTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/HierarchicalCachePoolTest.php on line 20
+[02-May-2023 07:23:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/SimpleCacheTest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/cache/integration-tests/src/SimpleCacheTest.php on line 17

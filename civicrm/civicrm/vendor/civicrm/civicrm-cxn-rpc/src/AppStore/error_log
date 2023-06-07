@@ -1,0 +1,4 @@
+[07-May-2023 07:07:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Civi\Cxn\Rpc\AppStore\AppStoreInterface' not found in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/AppStore/SingletonAppStore.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/vendor/civicrm/civicrm-cxn-rpc/src/AppStore/SingletonAppStore.php on line 19

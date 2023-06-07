@@ -1,0 +1,4 @@
+[27-Apr-2023 22:06:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Civi\Core\Service\AutoService' not found in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Provider/ActionObjectProvider.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/naundpsy/public_html/civicrm/civicrm/Civi/Api4/Provider/ActionObjectProvider.php on line 28
